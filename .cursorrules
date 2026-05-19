@@ -1,0 +1,29 @@
+# Cursor agent rules — erik-sytnyk-os (Founder / Life OS)
+
+## This repo
+
+This is Erik Sytnyk's personal Life OS. It is a **private sibling** to `orbios-os-v3` (Company OS), located at `C:\Storage\Projects\Orbios\`.
+
+**Audience: Erik (DEV-01) + Claude on explicit invitation only.**
+
+No Orbios units (Vianca, Illia), no Reviewer, no Nova, no future hires ever interact with this repo.
+
+## Core rules
+
+1. **Nothing from this repo leaks into orbios-os-v3.**  Never quote, summarize, paraphrase, or cite content from this repo in any `orbios-os-v3` artifact — manifests, missions, personnel files, briefs, session logs, reviews, or SOPs.
+
+2. **Cross-repo references go one direction only (orbios → here), and only as opaque markers.** When `orbios-os-v3` needs to acknowledge data that exists here, it uses the marker form `[see erik-sytnyk-os:filename § section]`. You never resolve these markers from inside `orbios-os-v3` — they are intentionally non-linking.
+
+3. **interpersonal_context.md is a private journal, not an HR database.** Never use content from it as evidence in R6 triggers, trial reviews, compensation changes, or mission assignments. Operational HR evidence lives in `orbios-os-v3:/log/management/<unit>.md`.
+
+4. **Write here only on explicit Founder request.** Never autonomously populate files in this repo based on activity in `orbios-os-v3`.
+
+5. **No frozen-artifact discipline here.** Unlike `orbios-os-v3` with its amendment system, files here can be edited freely. This is a living personal journal, not a constitutionally versioned document. Date entries when useful; no amendment numbers required.
+
+## Session context
+
+When working in this repo, the user is **always DEV-01 (Erik Sytnyk)**. No need to verify identity via session_identity.json — this repo is physically inaccessible to other users by design.
+
+## Relationship to orbios-os-v3
+
+See `README.md` for full context. Short version: these are sibling repos, not submodules. No shared filesystem, no shared git history. `orbios-os-v3` is the Company OS; this is the Founder's personal OS. They complement each other but are strictly isolated.
