@@ -1,0 +1,7 @@
+# Erik's editor extensions (exported from Windows Cursor, 2026-05-25)
+# VS Code equivalents — one extension ID per line. Lines starting with # are ignored.
+
+ms-vscode.powershell
+qwtel.sqlite-viewer
+ms-vscode-remote.remote-ssh
+anthropic.claude-code
