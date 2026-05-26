@@ -1,6 +1,9 @@
 # erik-sytnyk-os — Founder / Life OS
 
-> **Version:** v0.1 — bootstrapped 2026-05-19 per `orbios-os-v3:/log/open_decisions.md` OD-027.
+> **Version:** v0.2 — migrated 2026-05-26 per OD-043 (GO Erik 2026-05-26). Added: management/, hr/, founder/ tiers.
+>
+> **A027 — Infrastructure jurisdiction firewall:** US/ZDR models only — no Kimi/Moonshot in this repo, ever.
+> Set Cursor model = Anthropic or OpenAI + Privacy/ZDR mode ON before any session with private-tier content.
 
 ## Purpose
 
@@ -36,12 +39,15 @@ The marker is intentionally non-resolving in markdown viewers. Reviewer scanning
 
 ## Files in this repo
 
-| File | What it holds |
+| File / Folder | What it holds |
 |------|--------------|
 | `bio_metrics.md` | Daily BP log, sleep, weight, fitness program, supplements, symptoms, lab results |
 | `interpersonal_context.md` | Shadow Mirror interpretive journal — private notes, NOT unit-facing HR evidence |
 | `founder_values_internal.md` | Deep motives, philosophy, things not for staff consumption |
 | `energy_leaks.md` | Running list of energy drains — people, situations, recurring patterns |
+| `management/` | Per-person management notes (vianca.md, savelova.md, social_architecture.md) + decisions.md (private ODs from OD-043 split) |
+| `hr/` | HR dossiers — sourcing, LinkedIn correspondence, KYC, hiring commitments |
+| `founder/` | Founder personal/lifestyle layer (stability_requirements.md, etc.) |
 | `.cursorrules` | Claude behavior rules specific to this repo |
 
 ## A002 reinforcement
