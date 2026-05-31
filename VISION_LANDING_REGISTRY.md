@@ -27,12 +27,27 @@
 | `.clinerules` | `.cursorrules` + SOPs (OD-053) |
 | `docs/vision/orbios_3_0_blueprint.md` | `vision_index.md` + tiered files |
 
+## Monday readiness (2026-06-02) — Nova verdict **AMBER**
+
+| Layer | Rating | Notes |
+|-------|--------|-------|
+| Vision / Primary Objective (`context/`) | **GREEN** | Landed 2026-05-31, remote current |
+| Vianca Unit-Lana start | **GREEN** | START.md, cluster_operating_context, M008-T02 done |
+| Discord auto-sync (T-004) | **RED** | Bot not live — **conservative cache:** A016 manual cycle via Illia only until Founder completes `SETUP_PHASE3.md` (~15 min). Architect/Lana must not assume 4×/day pipe. |
+| T-003 Owner's Distribution | **AMBER** | Scheduled; `txn-id` pending in founder-backlog — do not force-close |
+| M006 stale refs | **fixed** 2026-05-31 | M003 references removed (Communicator) |
+| subscription-cut | **PENDING** | Await Founder raw list, no time pressure |
+
+**Rest / track closure:** Only Founder + FVE — Nova retracted «трек закрыт на отдых» 2026-05-31.
+
 ## Nova checklist (2026-05-31)
 
 - [x] erik-nova-log ingest plan → VERBATIM core from Nova session memory
 - [ ] subscription-cut vision → PENDING (Founder raw list)
 - [x] VN = PH-01-02 confirmed; VN-01 cluster **annulled**
 - [x] Monday priority: Vianca M008-T02 session → gate T03 (NDA + finance-kb)
+- [x] Packet 3 freshness — Nova AMBER; M006 normalized
+- [x] T-004 — conservative A016 mode documented until Founder setup
 
 ## Next landing candidates (Nova + Communicator queue)
 
