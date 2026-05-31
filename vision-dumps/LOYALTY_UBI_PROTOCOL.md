@@ -3,7 +3,7 @@ date: 2026-05-31
 type: loyalty-ubi-protocol
 participants: [DEV-01, Nova]
 themes: [post-labor-obligation, loyalty-base-income, network-state, serv-retention]
-status: vision — activation gate PENDING Founder (deferred vs ledger-accrual-from-Monday)
+status: active-tracking — Founder ratified 2026-05-31 (accrual info now; cash payout not before 2027)
 captured_by: Communicator per Nova Packet 6
 ---
 
@@ -27,14 +27,18 @@ Serv-units that pass time-in-system + accumulate strong repo metrics (High Agenc
 
 Roles may evolve: trusted validators, community operators, alumni-inside-perimeter — still **inside** Orbios protocol, not expelled to gig economy.
 
-## Activation gate (PENDING Founder — Nova Review & Ask 2026-05-31)
+## Activation gate (Founder ratified 2026-05-31)
 
-| Option | Meaning |
-|--------|---------|
-| **A — Deferred track** | LBI activates only after REVENUE contour stable (runway + conveyor live); no accrual mechanics until then |
-| **B — Accrue from Monday** | Begin virtual loyalty fund in `ledger.jsonl` (points/shares schema TBD) before cash payouts |
+| Layer | Rule |
+|-------|------|
+| **Tracking (now)** | Begin **profile-history / ledger accrual metadata** for loyalty bonus — record from 2026-06 onward; tied to employee profile history in system |
+| **Cash payout** | **Not before 2027** — no real LBI disbursement until then |
+| **Until 2027** | Other bonus types apply (mission-based, existing comp) — LBI is parallel track, not replacing hourly |
+| **Mechanics TBD** | Schema for virtual accrual in `ledger.jsonl` / finance-kb — Architect + finance conveyor when T-008 scratch exists |
 
-**Communicator:** no implementation until Founder one-line answer. No manifest amendment without Architect + legal.
+**Founder MQ2 verbatim intent:** track information now; real accrual later; bonus by profile history; start recording.
+
+**MQ1 (T-008 scratch):** **no** (2026-05-31) — finance dump path not started; blocks PH-01-M008-T11 until scratch + dump.
 
 ## Architect filter (Communicator)
 
@@ -43,7 +47,8 @@ Roles may evolve: trusted validators, community operators, alumni-inside-perimet
 | Promissory compensation in serv-public | No dollar amounts; no "guaranteed UBI" in unit-facing docs until ratified |
 | Securities / employment law | Lawyer review before any real payouts |
 | v1/v2 "expect transformation" | LBI is **metric-gated**, not tenure-alone — tie to R2 + High Agency logs |
-| Runway bleed before REVENUE | Default recommendation: **Option A deferred** unless Founder explicitly chooses B |
+| Runway bleed before REVENUE | Cash LBI locked until **2027**; tracking-only OK per Founder |
+| Promissory language to units | Units see aspirational § in product_mission only — no 2027 payout promise in missions |
 
 ## Cross-refs
 

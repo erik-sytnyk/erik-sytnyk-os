@@ -78,13 +78,25 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Owner:** founder
 - **Type:** action
 - **Status:** open
-- **Trigger:** when ready для первой finance миграции
+- **Trigger:** when ready для первой finance миграции (after Vianca Unit-Lana handoff 2026-06-02 per Erik)
 - **Acceptance:**
   1. `mkdir ~/orbios-migration-finance/{financial-data-dump,meta-info-for-migration}`
   2. `cd ~/orbios-migration-finance && git init` (локально, без remote)
   3. Куплены + зашифрованы 2 USB-флэшки (BitLocker), маркированы A/B
   4. Первый dump-материал положен в financial-data-dump/ (Mercury экспорт или подобное)
 - **Notes:** Это разблокирует первый прогон OD-055 conveyor. Vianca ведёт **PH-01-M008-T11** проактивно на этом scratch (совместно с Founder: dump + FOUNDER-ANSWER). См. `clusters/ph-01/active_missions.md`.
+- **2026-05-31 Review & Ask:** MQ1 = **нет** (scratch not created yet). Next: Erik after Vianca Discord handoff.
+
+### T-009 — Loyalty bonus profile-history tracking (ledger metadata)
+- **Owner:** founder + architect (schema) → finance-kb when live
+- **Type:** action
+- **Status:** open
+- **Trigger:** now (metadata only)
+- **Acceptance:**
+  1. Loyalty accrual fields defined (profile-history based, no cash payout before 2027)
+  2. Recording started in agreed store (ledger.jsonl pattern or finance-kb draft — post T-008)
+  3. Documented in `LOYALTY_UBI_PROTOCOL.md` § implementation pointer
+- **Notes:** Founder MQ2 2026-05-31 — track now, pay later; other bonus types until 2027.
 
 ---
 
