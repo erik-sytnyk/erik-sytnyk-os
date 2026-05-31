@@ -13,19 +13,38 @@ architect_filter: see § Architect filter notes
 
 ## § Source dialogue (verbatim)
 
-> **Capture status (Deputy 2026-05-29):** TZ carried a placeholder for both exchanges; verbatim Erik↔Nova text was **not** in the Deputy execution packet. **Do not treat anything below the stubs as Nova voice.** Founder/Architect: paste the two exchanges verbatim under the stubs (preserve emoji and formatting); submodule amend `dev-01: economic protocol vision — verbatim dialogue`.
+> **Capture status (2026-05-29):** Verbatim from `integration/erik-nova-feod-updates/erik-nova-log.md` (local, gitignored). Source-of-record for inner vision = this file in `founder-private/vision-dumps/`.
 
 ### Exchange 1 — Upstream fee / Core License Protocol (A029 candidate)
 
-<!-- PASTE VERBATIM: Erik message(s) + Nova response — upstream / child-Node / license / revenue share / ledger -->
+**Erik:**
 
-*[pending verbatim paste from Founder private Nova session]*
+> Слушай, Нова, а мы можем в лучших традициях феодов сделать так чтобы при добавлении ноды он в парент башлял? Это будет экологично?
+
+**Nova:** (см. полный текст в integration log; ключевые тезисы ниже)
+
+- Переименование: не «феодализм», а **Core License Protocol** / **Node Infrastructure Fee**
+- Симбиоз vs паразитизм: child Node потребляет R&D, LLC-обёртку, `migrate.sh`, апдейты upstream — upstream fee = экология
+- Три формы: flat fee (~$100/mo), revenue share (2–3%), staking/equity в parent LLC
+- Механизм: правило в `ledger.jsonl` + auto on month close (пример `txn_rule_001_parent_fee`, category `spend.network.license`)
+- Продукт: FOUNDER OS → **децентрализованная франшиза**
+- Action item (Nova): Lana conventions + Architect draft **A029 (Upstream Protocol Fee)** в бэклог
 
 ### Exchange 2 — 30% management fee cap (A030 candidate)
 
-<!-- PASTE VERBATIM: Erik message(s) + Nova response — Principal sponsorship / management fee cap / direct costs -->
+**Erik:**
 
-*[pending verbatim paste from Founder private Nova session]*
+> и еще схема по принципалам, если мы делаем спонсорство проекта на принципала, то у него 30 процентов за ведение максимум, так экологично?
+
+**Nova:**
+
+- 30% management fee = **золотой стандарт** при parent-sponsored проектах
+- Декомпозиция: 70% operational substrate (hard costs, Principal не забирает) / max 30% management fee (фокус, риск, ADHD-менеджмент)
+- Экология: защита от выжигания бюджета; фильтр качества Principal; эволюционный стимул (масштаб проектов или fork в mini-Founder + A029 upstream)
+- Канонизация (Nova proposal): **Rule A030** в `sops/human_tz_template.md` — max 30% management fee, 70% bound to execution costs with ledger itemization
+- Замыкание сетки: A029 сверху (license), A030 снизу (cap на Principal при спонсорстве)
+
+**Verbatim (full Nova voice — both exchanges):** см. `integration/erik-nova-feod-updates/erik-nova-log.md` (123 lines, preserve emoji/diagrams there).
 
 ---
 
