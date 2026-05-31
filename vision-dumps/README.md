@@ -20,6 +20,8 @@ Immutable verbatim captures of strategic vision dialogue. Each file includes:
 | [`2026-05-29-economic-protocol-vision.md`](2026-05-29-economic-protocol-vision.md) | 2026-05-29 | **deferred** (A029/A030 — legal + first deal) |
 | [`2026-05-29-economic-protocol-VERBATIM.md`](2026-05-29-economic-protocol-VERBATIM.md) | 2026-05-29 | **done** — Track 0/1, DuaTax, Owner's Distribution class (Nova-verified core) |
 | [`2026-05-31-orbios-3-0-vision.md`](2026-05-31-orbios-3-0-vision.md) | 2026-05-31 | partial land → `cluster_operating_context.md`, FVE in conventions |
+| [`2026-05-31-existential-primary-objective.md`](2026-05-31-existential-primary-objective.md) | 2026-05-31 | landed → `product_mission.md`, abuse SOP, freshness metric |
+| [`ORBIOS_HISTORICAL_ABUSE_LOG.md`](ORBIOS_HISTORICAL_ABUSE_LOG.md) | 2026-05-31 | v1/v2 markers — Architect calibration (not unit-facing) |
 
 ## Intake protocol (Communicator + Nova)
 

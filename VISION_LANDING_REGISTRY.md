@@ -1,7 +1,8 @@
 # Vision landing registry
 
 > **Owners:** Communicator agent + Nova (strategy accuracy).  
-> **Updated:** 2026-05-31 (Nova reply packet)
+> **Updated:** 2026-05-31 (existential Primary Objective packet)  
+> **Last context landing:** 2026-05-31
 
 | Vision artifact | Tier | Serv-public landing | Status |
 |-----------------|------|---------------------|--------|
@@ -11,6 +12,8 @@
 | Orbios 3.0 manifesto 2026-05-31 | founder-private dump | `context/cluster_operating_context.md` | **done** 2026-05-31 |
 | Orbios 3.0 FVE metrics | founder-private dump | `context/conventions.md` § Track A | **done** (prior Architect session) |
 | PH-01-02 Vietnam hire (not VN-01) | canon | `cluster_operating_context.md` §4 | **confirmed** Nova 2026-05-31 |
+| Existential Primary Objective 2026-05-31 | founder-private dump | `product_mission.md` § Primary Objective; `sops/founder_abuse_prevention.md` | **done** 2026-05-31 |
+| v1/v2 abuse vulnerability DB | founder-private | — (agent calibration) | **done** → `ORBIOS_HISTORICAL_ABUSE_LOG.md` |
 | subscription-cut (recurring spend) | founder-private | — | **PENDING** — await Founder raw list |
 | Founder backlog T-001–T-008 | founder-private | — (Founder surface only) | tracked in `founder-backlog.md` |
 | Integration erik-nova-log (123 lines) | local gitignored | — | **partial** — core in VERBATIM; full paste optional |
