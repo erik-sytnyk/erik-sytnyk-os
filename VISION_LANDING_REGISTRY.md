@@ -1,16 +1,19 @@
 # Vision landing registry
 
 > **Owners:** Communicator agent + Nova (strategy accuracy).  
-> **Updated:** 2026-05-31
+> **Updated:** 2026-05-31 (Nova reply packet)
 
 | Vision artifact | Tier | Serv-public landing | Status |
 |-----------------|------|---------------------|--------|
 | Network vision 2026-05-28 | founder-private dump | `context/product_mission.md` | **done** 2026-05-31 |
-| Economic protocol 2026-05-29 | founder-private dump | — (deferred A029/A030) | **deferred** until child-Node or Principal deal |
+| Economic protocol 2026-05-29 (A029/A030) | founder-private dump | — (deferred) | **deferred** until child-Node or Principal deal + legal |
+| Economic protocol core (Track 0/1, DuaTax, distributions) | founder-private | — (finance-kb after gate) | **done** 2026-05-31 → `2026-05-29-economic-protocol-VERBATIM.md` |
 | Orbios 3.0 manifesto 2026-05-31 | founder-private dump | `context/cluster_operating_context.md` | **done** 2026-05-31 |
 | Orbios 3.0 FVE metrics | founder-private dump | `context/conventions.md` § Track A | **done** (prior Architect session) |
+| PH-01-02 Vietnam hire (not VN-01) | canon | `cluster_operating_context.md` §4 | **confirmed** Nova 2026-05-31 |
+| subscription-cut (recurring spend) | founder-private | — | **PENDING** — await Founder raw list |
 | Founder backlog T-001–T-008 | founder-private | — (Founder surface only) | tracked in `founder-backlog.md` |
-| Integration erik-nova-log (123 lines) | local gitignored | — | **missing** — ingest backlog |
+| Integration erik-nova-log (123 lines) | local gitignored | — | **partial** — core in VERBATIM; full paste optional |
 
 ## Filtered-out (never land as stated)
 
@@ -21,8 +24,16 @@
 | `.clinerules` | `.cursorrules` + SOPs (OD-053) |
 | `docs/vision/orbios_3_0_blueprint.md` | `vision_index.md` + tiered files |
 
+## Nova checklist (2026-05-31)
+
+- [x] erik-nova-log ingest plan → VERBATIM core from Nova session memory
+- [ ] subscription-cut vision → PENDING (Founder raw list)
+- [x] VN = PH-01-02 confirmed; VN-01 cluster **annulled**
+- [x] Monday priority: Vianca M008-T02 session → gate T03 (NDA + finance-kb)
+
 ## Next landing candidates (Nova + Communicator queue)
 
-1. Ingest full `erik-nova-log.md` into `vision-dumps/` when Founder provides export.
-2. A029/A030 — only after real deal + lawyer (Architect filter 2026-05-29).
-3. Role Evolution Protocol (OD backlog A029 naming collision) — separate from economic A029; clarify IDs with Architect.
+1. **subscription-cut** dump when Founder sends recurring list → Nova strategist pass → Communicator capture.
+2. Optional: full `erik-nova-log.md` paste → merge into VERBATIM or separate file.
+3. A029/A030 franchise numbers — only after real deal + lawyer.
+4. Role Evolution Protocol (OD backlog) — clarify amendment ID vs economic A029 with Architect.
