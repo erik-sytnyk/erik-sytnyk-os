@@ -84,7 +84,7 @@ Architect grep'ит файл при старте каждой сессии и п
   2. `cd ~/orbios-migration-finance && git init` (локально, без remote)
   3. Куплены + зашифрованы 2 USB-флэшки (BitLocker), маркированы A/B
   4. Первый dump-материал положен в financial-data-dump/ (Mercury экспорт или подобное)
-- **Notes:** Это разблокирует первый прогон OD-055 conveyor. После Phase 2 admission Vianca она работает на этом scratch'е через PH-01-M008 tasks.
+- **Notes:** Это разблокирует первый прогон OD-055 conveyor. Vianca ведёт **PH-01-M008-T11** проактивно на этом scratch (совместно с Founder: dump + FOUNDER-ANSWER). См. `clusters/ph-01/active_missions.md`.
 
 ---
 
