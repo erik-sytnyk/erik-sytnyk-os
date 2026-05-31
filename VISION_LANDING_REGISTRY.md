@@ -14,6 +14,8 @@
 | PH-01-02 Vietnam hire (not VN-01) | canon | `cluster_operating_context.md` §4 | **confirmed** Nova 2026-05-31 |
 | Existential Primary Objective 2026-05-31 | founder-private dump | `product_mission.md` § Primary Objective; `sops/founder_abuse_prevention.md` | **done** 2026-05-31 |
 | v1/v2 abuse vulnerability DB | founder-private | — (agent calibration) | **done** → `ORBIOS_HISTORICAL_ABUSE_LOG.md` |
+| Serv unit social contract 2026-05-31 | founder-private dump | `cluster_operating_context.md` § 1b; `conventions.md` | **done** 2026-05-31 |
+| UA-02 strategic exception (non-serv) | founder-private rationale | serv-public: opaque routing only (A023) | **done** — detail in `2026-05-31-serv-unit-social-contract.md` |
 | subscription-cut (recurring spend) | founder-private | — | **PENDING** — await Founder raw list |
 | Founder backlog T-001–T-008 | founder-private | — (Founder surface only) | tracked in `founder-backlog.md` |
 | Integration erik-nova-log (123 lines) | local gitignored | — | **partial** — core in VERBATIM; full paste optional |
