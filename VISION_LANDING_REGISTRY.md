@@ -40,6 +40,14 @@
 
 **Rest / track closure:** Only Founder + FVE — Nova retracted «трек закрыт на отдых» 2026-05-31.
 
+## Process calibration (2026-05-31 — Packet 4)
+
+| Rule | Status |
+|------|--------|
+| Finance / proactive REVENUE delegation → **Nova pre-check** before commit | **canon** (Communicator fault on `cc5a2d0` → retro AMEND) |
+| PH-01-M008-T11 | **AMEND** — `blocked` until T03+T04+T-008; scratch-only; 3h cap; Illia review |
+| Two-key gate | Nova ↔ Communicator on Tier-A finance ops |
+
 ## Nova checklist (2026-05-31)
 
 - [x] erik-nova-log ingest plan → VERBATIM core from Nova session memory
