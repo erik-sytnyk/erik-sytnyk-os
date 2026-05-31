@@ -23,6 +23,7 @@ Immutable verbatim captures of strategic vision dialogue. Each file includes:
 | [`2026-05-31-existential-primary-objective.md`](2026-05-31-existential-primary-objective.md) | 2026-05-31 | landed → `product_mission.md`, abuse SOP, freshness metric |
 | [`ORBIOS_HISTORICAL_ABUSE_LOG.md`](ORBIOS_HISTORICAL_ABUSE_LOG.md) | 2026-05-31 | v1/v2 markers — Architect calibration (not unit-facing) |
 | [`2026-05-31-serv-unit-social-contract.md`](2026-05-31-serv-unit-social-contract.md) | 2026-05-31 | landed → cluster_operating_context § 1b + conventions |
+| [`LOYALTY_UBI_PROTOCOL.md`](LOYALTY_UBI_PROTOCOL.md) | 2026-05-31 | aspirational § product_mission; activation gate PENDING Founder |
 
 ## Intake protocol (Communicator + Nova)
 

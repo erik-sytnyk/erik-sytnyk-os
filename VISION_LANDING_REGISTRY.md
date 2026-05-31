@@ -2,7 +2,7 @@
 
 > **Owners:** Communicator agent + Nova (strategy accuracy).  
 > **Updated:** 2026-05-31 (existential Primary Objective packet)  
-> **Last context landing:** 2026-05-31
+> **Last context landing:** 2026-05-31 (Loyalty UBI vision landed; activation gate open)
 
 | Vision artifact | Tier | Serv-public landing | Status |
 |-----------------|------|---------------------|--------|
@@ -16,6 +16,7 @@
 | v1/v2 abuse vulnerability DB | founder-private | — (agent calibration) | **done** → `ORBIOS_HISTORICAL_ABUSE_LOG.md` |
 | Serv unit social contract 2026-05-31 | founder-private dump | `cluster_operating_context.md` § 1b; `conventions.md` | **done** 2026-05-31 |
 | UA-02 strategic exception (non-serv) | founder-private rationale | serv-public: opaque routing only (A023) | **done** — detail in `2026-05-31-serv-unit-social-contract.md` |
+| Loyalty UBI / post-labor obligation 2026-05-31 | founder-private dump | `product_mission.md` aspirational § only | **landed** — **activation PENDING** Founder (deferred vs ledger-accrual) |
 | subscription-cut (recurring spend) | founder-private | — | **PENDING** — await Founder raw list |
 | Founder backlog T-001–T-008 | founder-private | — (Founder surface only) | tracked in `founder-backlog.md` |
 | Integration erik-nova-log (123 lines) | local gitignored | — | **partial** — core in VERBATIM; full paste optional |
