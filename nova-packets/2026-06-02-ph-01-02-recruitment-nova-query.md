@@ -190,7 +190,50 @@ JOD draft + channels list для Vianca's M009-T02 work — она состав�
 
 - OD-052 (Vianca admission + comp pattern — relevant для $5/hr discussion)
 - OD-062 (canon-change ratification discipline — applies here)
-- context/personnel/ph-01-02.md (current persona spec — потенциально affected)
-- clusters/ph-01/active_missions.md M009 (hire mission — потенциально affected)
-- context/roles.md (Communicator role gap)
+- context/personnel/ph-01-02.md (persona spec — landed)
+- clusters/ph-01/active_missions.md M009 (hire mission — landed)
+- context/roles.md (Communicator role gap — dropped per ratify (d))
+
+---
+
+## § Nova follow-up — fallback geo analysis (2026-06-02)
+
+### Founder ask
+
+«укажи сразу альтернативную локацию для ресерча Индонезия (как единственная потенциально интересная)»
+
+### Nova response (verbatim, condensed)
+
+Nova proposes 3 alternatives to Vietnam: **Indonesia (Jakarta/Bandung)** as main competitor + Malaysia (premium, targeted) + Thailand (low priority). Verdict: «Индонезия — лучшая и самая безопасная альтернатива №1 в регионе».
+
+Indonesia rationale: large Junior DevOps/SysAdmin pool, $5/hr realistic + attractive remote rate, English generally better than Vietnam, soft remote-comms culture, slightly weaker deep-backend base (acceptable for SysAdmin + Cursor profile).
+
+Malaysia: better English (often native), strong IT hygiene, but $5/hr unrealistic except targeting fresh grads from APU/MMU or non-KL provinces. Premium-tier, narrow search.
+
+Thailand: same timezone advantage but market anomaly — local Junior engineers ask high local salaries despite weak English. Operational cost too high for Vianca.
+
+### Architect filter — Founder-asked vs Nova-expanded
+
+**Founder asked for ONE alternative: Indonesia.**
+
+Nova provided **three** (Indonesia + Malaysia + Thailand) — went beyond ask. Per OD-062 — only Founder-ratified content lands canon. Malaysia + Thailand analysis = NOT ratified, NOT landing.
+
+**Catches preserved for pattern-recognition:**
+- Nova consistently expands beyond ask (Orbios 3.0 manifesto recited canonized + invented; A029/A030 pre-canonized; here: 2 extra geos)
+- Discipline reinforcement: Architect filters by explicit Founder ratification scope, not Nova-suggested scope
+
+### Founder ratification (this follow-up)
+
+- **(e)** Indonesia as **sole fallback** when Vietnam funnel fails: **GO** (Founder 2026-06-02 «укажи сразу альтернативную локацию Индонезия как единственная»)
+- Malaysia: **NOT landed** (Nova-added, not Founder-asked)
+- Thailand: **NOT landed** (Nova-added, not Founder-asked)
+- Trigger to activate Indonesia funnel: explicit Founder go after Vietnam time-box (not auto-fallback)
+
+### Implementation (landed)
+
+- `context/personnel/ph-01-02.md` — fallback line updated: Indonesia sole alternative, Malaysia/Thailand explicitly excluded
+- `clusters/ph-01/active_missions.md` PH-01-M009 — same update
+- Trigger condition: «explicit Founder trigger after Vietnam time-box», never auto
+
+Commit refs: pending push (this commit + previous b3382f9).
 
