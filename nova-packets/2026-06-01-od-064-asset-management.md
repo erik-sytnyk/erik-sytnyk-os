@@ -23,14 +23,7 @@ Catches applied at landing: opaque `owner` handles (not personal names); tier ga
 
 **MQ6 (Founder 2026-06-01):** «Давай так, мы пока поддерживаем все 3 формата, потом если нужно перейдем на один.»
 
-**Landed (serv-public, pending commit hash):**
-
-- `log/open_decisions.md` → OD-064 RATIFIED
-- `sops/asset_management.md`
-- `templates/asset.asset.md`
-- `assets/README.md`
-- `context/conventions.md` § Non-text assets
-- `.gitignore` asset-tree binary patterns
+**Landed (serv-public):** commit `8af1fc5` — OD-064, SOP, template, assets/README, conventions, gitignore, privacy allowlist OD-063 handles
 
 **Deferred:** repo-wide legacy binary audit; provider consolidation Phase 2; full media purge TZ for Composer/Lana.
 
