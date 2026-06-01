@@ -86,6 +86,7 @@ Architect grep'ит файл при старте каждой сессии и п
   4. Первый dump-материал положен в financial-data-dump/ (Mercury экспорт или подобное)
 - **Notes:** Это разблокирует первый прогон OD-055 conveyor. Vianca ведёт **PH-01-M008-T11** проактивно на этом scratch (совместно с Founder: dump + FOUNDER-ANSWER). См. `clusters/ph-01/active_missions.md`.
 - **2026-05-31 Review & Ask:** MQ1 = **нет** (scratch not created yet). Next: Erik after Vianca Discord handoff.
+- **Week DoD (MQ7, 2026-06-01):** Finance module ready by Fri **or** minimum structure understood (OD-054/055, scratch layout, gates) — full ledger not required this week.
 
 ### T-009 — Loyalty bonus profile-history tracking (ledger metadata)
 - **Owner:** founder + architect (schema) → finance-kb when live
