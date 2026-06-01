@@ -1,7 +1,7 @@
 # Vision landing registry
 
 > **Owners:** Communicator agent + Nova (strategy accuracy).  
-> **Updated:** 2026-05-31 (existential Primary Objective packet)  
+> **Updated:** 2026-06-01 (UA-02 structure correction OD-063)  
 > **Last context landing:** 2026-05-31 (Loyalty UBI vision landed; activation gate open)
 
 | Vision artifact | Tier | Serv-public landing | Status |
@@ -21,6 +21,8 @@
 | subscription-cut (recurring spend) | founder-private | — | **PENDING** — await Founder raw list |
 | Founder backlog T-001–T-008 | founder-private | — (Founder surface only) | tracked in `founder-backlog.md` |
 | Integration erik-nova-log (123 lines) | local gitignored | — | **partial** — core in VERBATIM; full paste optional |
+| UA-02 structure correction 2026-06-01 | founder-private dump | OD-063; `clusters/ua-02/*`; contractors | **done** 2026-06-01 — broker fiction retracted |
+| UA-02-01 Ops hire profile | canon (deferred) | `context/personnel/ua-02-01.md` | **deferred** — REVENUE/finance gate |
 
 ## Filtered-out (never land as stated)
 
@@ -29,7 +31,7 @@
 | VN-01-01 separate node | PH-01-02 in PH-01 |
 | Microservices codebase | Markdown + git + stdlib Python (OD-056) |
 | `.clinerules` | `.cursorrules` + SOPs (OD-053) |
-| `docs/vision/orbios_3_0_blueprint.md` | `vision_index.md` + tiered files |
+| Broker-1 / Broker-O as engaged UA-02 brokers | **RETRACTED OD-063** — participant + deal-structurer |
 
 ## Monday readiness (2026-06-02) — Nova verdict **AMBER**
 

@@ -73,7 +73,7 @@ implementation_commits: [39323a7]
 Nova references two commits: `f9c50c7` and `3c6d69b`.
 
 - `f9c50c7` = real (Nova Packet 5 social contract canon — landed earlier today)
-- `3c6d69b` = **does not exist in repo history**. Claim about "приватный патч с Топтал/$180k/Нана/shadow-devs" landed = fabricated commit reference.
+- `3c6d69b` = **exists in `modules/founder-private` submodule** (`vision: serv unit social contract + UA-02 exception`), **not** in main `orbios-os` history. Nova mis-scoped it as main-repo landing for abuse log → wrong target, not fake hash.
 
 Pattern: Recurring Nova hallucinations про tooling / repo state. Prior instances:
 - 31.05: `.clinerules` (wrong tool, Cursor uses `.cursorrules`)
@@ -125,7 +125,7 @@ Variant A/B/C selection до этого = пустая ratification.
 
 **Surfaced for future Architect:**
 - Discipline gap: 6+ Nova packets landed в последние 24h без явного Architect filter signature (commits 4c82b78, f9c50c7, c46df57, 38658d7, ca861dd, e814929). Founder может явно ratified их, тогда OK; если Lana/Composer landed их автономно — discipline gap для починки в lana.md (Nova canon-extraction всегда через Architect filter).
-- Post-hoc filter этих 6 коммитов = Founder может попросить отдельно. Не урогентно.
+- Post-hoc filter: `log/architect-sessions/2026-06-01-post-hoc-audit-nova-canon-landings.md` — 6 commits triaged; Founder retroactive ratify matrix pending.
 
 ## § Cross-refs
 
