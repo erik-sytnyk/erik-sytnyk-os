@@ -99,6 +99,19 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Documented in `LOYALTY_UBI_PROTOCOL.md` § implementation pointer
 - **Notes:** Founder MQ2 2026-05-31 — track now, pay later; other bonus types until 2027.
 
+### T-010 — Password discipline: design discussion + UA-02 precedent rotation
+- **Owner:** founder + architect (discipline design) → lana (implementation)
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** when Discord UA-02 server gets real sensitive activity OR when password-discipline design session scheduled (whichever first)
+- **Acceptance:**
+  1. Design session: how to store passwords across Orbios (secrets/ gitignored, password manager, Credential Manager for tokens) — formalize separation rules
+  2. Add forbidden-pattern detection to pre-push hook: pattern matching Word-Word-Symbol-Digit credential format → prevent future leaks of this shape
+  3. Scrub literal password from SOPs + session logs → replace with placeholder syntax `<password from secrets/<cluster>-accounts.md>`
+  4. Rotate the actual UA-02 Gmail + Discord password (new value, secrets only)
+  5. Document precedent: this case becomes the worked example for password-discipline SOP — what went wrong (literal in 5+ committed files), how it was caught (Architect review), how rotation closed it
+- **Notes:** Founder decision 2026-06-02: defer urgent rotation (no sensitive activity tied yet), use as precedent for discipline design. Compromised password remains in git history forever — accepted risk pending design + rotation. Trigger escalation: any real sensitive activity in UA-02 Discord = immediate rotation moves to P0.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
