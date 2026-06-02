@@ -105,8 +105,9 @@ Real implementation should be:
 **Catch 4 — Role naming "Design 4.7 and Integrator 4.8".**
 Nova invents new Architect role taxonomy. Canon: agent/personas/architect.md = single Architect role (Opus 4.7+). No "Design" / "Integrator" split ratified. NOT landing.
 
-**Catch 5 — "Тухта" / LINE-scripts referenced as past tooling.**
-Unknown person + tool. If real → need primary source. If invented Nova reference → catch. Surface to Founder.
+**Catch 5 — RETRACTED 2026-06-02.** "Тухта" = real (Founder's Thai house helper, 6 days/week cleaning + 1 day food shopping, no English; Nova translates between Founder and Tukhta in Founder-Nova chat). LINE-scripts pattern exists in Nova-Founder chat context, NOT yet in OS canon. Nova reference was valid Founder-context signal, NOT invention. Architect over-caught due to lack of Founder-Nova chat context.
+
+**Discipline update for future packets:** Nova references things from her chat with Founder (private context Architect does not see). Such references = valid signal even if not yet in OS canon. Architect should ASK Founder for clarification BEFORE catching as "invention" — `git log` verification only catches repo-state claims, not Nova-Founder personal context claims. Per Founder 2026-06-02: «если в текстах от неё есть неоднозначные моменты, сразу подсвечивай».
 
 **Catch 6 — "Communicator" framing reintroduced implicitly via "ребята из Cursor".**
 Founder dropped "Communicator" role per ratify (d) on 2026-06-02. Nova's "Архитекторы готовы упаковать как только откатятся лимиты" implies Communicator-mediated flow. Not landing.
