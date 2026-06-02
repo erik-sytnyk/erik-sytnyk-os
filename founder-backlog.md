@@ -112,6 +112,61 @@ Architect grep'ит файл при старте каждой сессии и п
   5. Document precedent: this case becomes the worked example for password-discipline SOP — what went wrong (literal in 5+ committed files), how it was caught (Architect review), how rotation closed it
 - **Notes:** Founder decision 2026-06-02: defer urgent rotation (no sensitive activity tied yet), use as precedent for discipline design. Compromised password remains in git history forever — accepted risk pending design + rotation. Trigger escalation: any real sensitive activity in UA-02 Discord = immediate rotation moves to P0.
 
+### T-011 — Founder UBI target raise $1,500 → $3,000/mo
+- **Owner:** founder + finance-kb (when live)
+- **Type:** action
+- **Status:** open
+- **Trigger:** when UA-02 capital starts releasing + PH-02 RE-research (T-013) yields revenue path OR when other cashflow feeders close gap
+- **Acceptance:** Sustained $3k/mo Founder distribution from operational + asset streams (UA-02 sale proceeds, RE-agency commission share, RAIVE revenue, other). Tracked monthly in finance-kb.
+- **Notes:** Founder GO 2026-06-02 (Nova manifesto packet (a)). Path = 3 parallel feeders per Nova framing: UA-02 capital + PH-02 commission + RAIVE revenue. T-008 (finance scratch prep) + finance migration must precede tracking.
+
+### T-012 — Health self-track + Architect Track A surface (no unit involvement)
+- **Owner:** founder
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** now (folder setup); strict enforcement deferred until OS in "OK mode" (stable autonomous ops)
+- **Acceptance:**
+  1. `modules/founder-private/health/` folder structure: daily BP entries (morning, before first coffee — per Founder current practice)
+  2. Format: `health/YYYY-MM-DD.md` with BP + pulse + notes
+  3. Architect grep'es founder-private/health/ at session start if accessible → surfaces "no BP data for N days → Track A signal" — internal Architect protocol, NOT enforced on Vianca/Lana
+  4. Existing canon BP > 145/90 → read-only mode preserved as self-enforced ceiling
+- **Notes:** Founder GO 2026-06-02 (Nova packet (b)) WITH explicit boundary: «я хочу видеть результаты от системы, чтобы расслабиться, сейчас интересы компании выше; до non-stop AD проверки нужен OK режим ОС». Strict daily enforcement = deferred trigger. Vianca / Lana DO NOT ping Founder for health data per R5 + FTS. Architect discipline handoff: add "grep health folder at session start" to architect-init.md or handoff convention.
+
+### T-013 — PH-02 RE-research path + Partner-Contact Agent role design
+- **Owner:** founder (direction) + architect (role design) + future PH research unit (Filipino AI researcher)
+- **Type:** research + design
+- **Status:** open
+- **Trigger:** Founder explicit move toward Katya partnership conversation
+- **Acceptance:**
+  1. **Research approach:** Find Filipino AI researcher who does property-research-on-commission for Katya (apartment search Phuket — Kamala or Bang Tao). Real value delivered = warm-up for partnership conversation. Founder pays research, Katya receives valuable output, Founder enters partnership talk from giving-value position.
+  2. **NEW role design needed:** Partner-Contact Agent / BD Architect — proactively researches partner candidates, frames opportunities, runs initial relationship-warm-up, brings prepared proposals to Founder. NOT just redirect-to-Founder-talk-yourself. Currently no such persona in agent/personas/ (Architect = structure; Lana = operations; Composer = build). Real role gap surfaced by Founder.
+  3. Architect proposes draft persona (scope, escalation, tier, model) for ratify before implementation.
+- **Notes:** Founder GO 2026-06-02 (Nova packet (c)) with architectural insight on role gap. Privacy: Katya = private-tier identity (A025/OD-038); any serv-public reference = opaque handle. Conversation flow lives in founder-private until partnership lands.
+
+### T-014 — Thai partner discovery (algorithmic / dating + FB groups)
+- **Owner:** founder
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** Founder discretion (parallel to T-013, different acquisition channel)
+- **Acceptance:**
+  1. Algorithmic search via dating apps + Thai FB groups for partnership candidate (CAMP + potentially family)
+  2. Same option-class as Katya (T-013) but different acquisition channel
+  3. Discovery + early-stage conversation lives in founder-private (personal tier)
+  4. If partnership lands → cluster integration (similar to PH-02 path)
+- **Notes:** Founder GO 2026-06-02 (Nova packet (d)) — clarified vs Nova "Thai bureaucracy buffer hire" framing. This is partnership search, not contractor hire. Privacy: identity stays in founder-private until partnership lands. Cross-ref T-013 (parallel option class).
+
+### T-015 — Nana exit alternatives — Architect proposes options before construction
+- **Owner:** architect (option surface) + founder (decision) + thai lawyer (execution)
+- **Type:** research + action
+- **Status:** open
+- **Trigger:** now (architectural homework before CAMP construction unblocks)
+- **Acceptance:**
+  1. Architect drafts option matrix for Nana exit from CAMP ownership: buy-out at 25k THB (current canon), share transfer to Anna (50/97 or full), transfer to future Thai partner (T-014), dilution via new shareholder structure, sale to deal-structurer / outside investor, legal forced-exit mechanisms (Thai law), wait + leverage non-cash levers
+  2. Each option: cost / time / risk / dependency / Founder-effort profile
+  3. Founder reviews + picks path (or hybrid)
+  4. Picked path → M006 Task 1 updated + Thai lawyer engaged
+- **Notes:** Founder direction 2026-06-02 (Nova packet (f)) — «ОС должна предлагать альтернативы если возможно, сейчас вопрос как убрать токсичного паразита Нану из наших кэмп партнеров перед началом строительства, Анна заинтересована в работе». Anna = ONE option, not predetermined. Thanan = contractor not partner (different class). Architect homework: draft option matrix in next session.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
