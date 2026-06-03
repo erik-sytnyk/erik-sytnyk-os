@@ -19,6 +19,7 @@ DEV-01 + Claude only. Personal data. Not unit-facing.
 ## Files
 
 - `stability_requirements.md` — current canonical list of Founder stability inputs (Thai Partner spec, Camp 0 sanctuary, etc.).
+- [`entrepreneur-archetypes-solonin.md`](entrepreneur-archetypes-solonin.md) — Solonin entrepreneur archetypes transcript & calibration map of DEV-01 blind spots (`#founder-role-model #safeguards`).
 - Future: `recovery_protocols.md`, `social_perimeter.md` etc. as they emerge.
 
 ## What does NOT live here (since A018 / OD-027)

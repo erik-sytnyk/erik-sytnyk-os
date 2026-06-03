@@ -179,3 +179,24 @@ Per A012: reclassified as Core System Requirement. Lives in `/context/founder/st
 - Crypto → Gleb.
 - Individual salary/comp rows for each unit are in `orbios-finance-kb:/compensation/` only.
 - Subscriptions (Cursor, Antigravity, etc.): amounts go in finance-kb, not in public OS.
+
+---
+
+## OD-072 — SWIFT transfer trace (Vianca PH-01-01 payment) — 2026-06-03
+
+**Status:** OPEN (investigation active)
+
+**Trigger:** Vianca (PH-01-01) reported on 2026-06-03 that the SWIFT transfer sent last week ($500 trial ceiling / week-1 base payment) was not received.
+
+**Details:**
+- Vianca verified her banking details; all information is correct on her end.
+- Her bank advised that the sender (Orbios/Erik) must initiate a trace or file a report from their side (via Mercury/sender bank) to locate or refund the funds.
+
+**Resolution:**
+- **Temporary pivot:** Founder is OK with using CRYPTO for now to ensure Vianca receives her funds.
+- **Accounting:** The pending SWIFT transaction is not counted as payment for now.
+- **Action item:** Erik to report/trace the SWIFT transfer from the sender (Mercury) side.
+- **Reference:** Once completed, log crypto payout txn-id in `orbios-finance-kb`.
+
+**Cross-refs:** OD-001 (Vianca comp model), OD-052 (Vianca Phase 2), `context/personnel/vianca-mitchell-meneses.md`.
+
