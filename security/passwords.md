@@ -7,6 +7,6 @@
 
 ### tretyak.orbios@gmail.com
 - **Service**: gmail + Discord (tretyak.orbios@gmail.com)
-- **Password**: ВысокийСтарт??
+- **Password**: ВысокийСтарт!6
 - **2FA backup codes**: `<completed during step 1+2>`
 - **Created**: 2026-06-08
