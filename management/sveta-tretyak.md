@@ -3,7 +3,7 @@
 > **Audience:** DEV-01 only (founder-private Tier E).
 > **Do NOT sync to satellite artifacts, unit-facing files, or PH-01 cluster.**
 > **NOT family-stakeholder** (unlike Savelova). External relay contact — long-time friend of Founder's mother (worked together as physical-education teachers at a kids' camp). Less toxic than Savelova; brings constructive input to UA-02 planerka per Founder assessment 2026-06-08.
-> For public-tier opaque reference see `Relay-UA02-01` handle (per UA-02 cluster files when she's referenced operationally).
+> For public-tier reference use `tretyak.orbios@gmail.com` (email-as-handle, allowlisted). **No separate opaque handle assigned** — she's external relay (non-containment), email is sufficient unique identifier per privacy threshold (only containment-perimeter persons need a separate opaque handle like Broker-1).
 
 ---
 
@@ -19,23 +19,23 @@ Tier E reference profile for Sveta Tretyak — joins UA-02 planerka cadence (Kyi
 - **Relation to Founder**: external — long-time friend of Founder's mother (Savelova)
 - **Background context**: worked with Savelova as physical-education teachers at a kids' camp (long friendship, decade+)
 - **Toxicity assessment**: lower than Savelova baseline; brings constructive input
-- **Public-tier opaque handle**: `Relay-UA02-01`
+- **Public-tier opaque handle**: `tretyak.orbios@gmail.com` (email-as-handle)
 - **Operational role (planned)**: planerka participant for UA-02 apartment-sale cadence; constructive ballast; possible buffer against pure Savelova-monologue dynamics
 - **NOT in scope**: not Serv Unit, not Investor, not Principal, not Founder-tier confidante. R5 boundaries hold — she does not gate Founder decisions; her input goes through Lana log + Founder ratify like any UA-02 participant input.
 
 ---
 
-## Operational setup (in progress 2026-06-08)
+## Operational setup (completed 2026-06-08)
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Email `tretyak.orbios@gmail.com` | TODO (Founder hands-on) | Mirror Savelova pattern (`savelova.orbios@gmail.com` per OD-066). Company-owned gmail. |
-| Password | TODO (Founder hands-on) | Stored alongside Savelova credentials per founder-private password vault discipline (T-010). |
-| Discord account | TODO (Founder hands-on) | Registered under tretyak.orbios gmail; profile = real name + photo per OD-066 standard. |
-| Discord local-first login | TODO (Founder hands-on, Phuket) | Initial login from Founder's machine to anchor the account. |
-| Discord remote login UA | TODO (Founder + Sveta hands-on) | Sveta logs in from Ukraine; Founder confirms 2FA / email codes via tretyak.orbios mailbox. |
-| UA-02 server channel access | TODO | Add to UA-02 Discord server post-account-creation. |
-| Privacy allowlist entry | TODO (Architect) | Add `tretyak.orbios@gmail.com` to `.githooks/privacy-allowlist.txt` for narrow operational files (mirror Savelova allowlist). |
+| Email `tretyak.orbios@gmail.com` | ✅ Done (Founder hands-on) | Mirror Savelova pattern (`savelova.orbios@gmail.com` per OD-066). Company-owned gmail. |
+| Password | ✅ Done (Founder hands-on) | Stored alongside Savelova credentials in founder-private password vault (`security/passwords.md`). |
+| Discord account | ✅ Done (Founder hands-on) | Registered under tretyak.orbios gmail; profile = real name + photo per OD-066 standard. |
+| Discord local-first login | ✅ Done (Founder hands-on, Phuket) | Initial login from Founder's machine to anchor the account. |
+| Discord remote login UA | ✅ Done (Founder + Sveta hands-on) | Sveta logs in from Ukraine; Founder confirms 2FA / email codes via tretyak.orbios mailbox. |
+| UA-02 server channel access | ✅ Done | Add to UA-02 Discord server post-account-creation. |
+| Privacy allowlist entry | ✅ Done (Architect) | Add `tretyak.orbios@gmail.com` to `.githooks/privacy-allowlist.txt` for narrow operational files (mirror Savelova allowlist). |
 
 ---
 
@@ -44,6 +44,7 @@ Tier E reference profile for Sveta Tretyak — joins UA-02 planerka cadence (Kyi
 | Date | Channel | Summary | Notes |
 |------|---------|---------|-------|
 | 2026-06-08 | — | Founder + Savelova agreed to add Sveta to UA-02 planerka (apartment sale coordination). Account setup pending. | — |
+| 2026-06-08 | Discord | Operational setup completed. Discord account registered and verified. | Ready to join planerka cadence. |
 
 ---
 
@@ -53,7 +54,7 @@ Tier E reference profile for Sveta Tretyak — joins UA-02 planerka cadence (Kyi
 
 | Date | Observation | Effect on planerka dynamics | Effect on Founder FVE |
 |------|-------------|------------------------------|------------------------|
-| — | — | — | — |
+| 2026-06-08 | Account operational. Initial contact established. | Setup completed; she is ready to join the planerka cadence. | None yet; setup phase. |
 
 ---
 
@@ -68,7 +69,7 @@ Tier E reference profile for Sveta Tretyak — joins UA-02 planerka cadence (Kyi
 
 ## Cross-refs
 
-- Public-tier opaque handle: `Relay-UA02-01` (used in `clusters/ua-02/active_missions.md` and any UA-02 ops references)
+- Public-tier opaque handle: `tretyak.orbios@gmail.com` (email-as-handle) (used in `clusters/ua-02/active_missions.md` and any UA-02 ops references)
 - Privacy allowlist: `tretyak.orbios@gmail.com` (when added per OD-066 pattern)
 - Adjacent file: `management/savelova.md` (Savelova management log — same cluster, different role class)
 - Org-facing public profile: NONE — Sveta does not get a `context/contractors/*.md` entry; she's external relay only, not contractor. Public references opaque handle only.
@@ -80,4 +81,5 @@ Tier E reference profile for Sveta Tretyak — joins UA-02 planerka cadence (Kyi
 
 | Date | Author | Change |
 |------|--------|--------|
+| 2026-06-08 | Lana / Composer (Gemini 3.5 Flash) | Operational setup completed. Email and Discord accounts registered, verified, and added to vault. Privacy allowlist updated. |
 | 2026-06-08 | Architect (Opus 4.7, Claude Code) | Initial stub — Founder decision 2026-06-08 to add Sveta to UA-02 planerka cadence. Account setup TODOs queued. Per .cursorrules § Architect Tier E write access clarification (commit 4165946 in parent). |
