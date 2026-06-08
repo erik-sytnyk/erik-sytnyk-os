@@ -156,6 +156,7 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Notes:**
   - Founder GO 2026-06-02 (Nova packet (d)) — clarified vs Nova "Thai bureaucracy buffer hire" framing. This is partnership search, not contractor hire. Privacy: identity stays in founder-private until partnership lands. Cross-ref T-013 (parallel option class).
   - **2026-06-08 update:** Nova provided a formatted draft post for Thai girlfriend search (Thai text + Russian translation + transcriptions + slang tips). Saved as packet: `modules/founder-private/nova-packets/2026-06-08-thai-partner-post.md`. Ready to use for dating apps / FB groups.
+  - **2026-06-08 update (Miu Miu):** Added full chat history and relationship log with Miu Miu (active Thai partner candidate) to `modules/founder-private/relationships/miu-miu.md`. Meeting scheduled for June 9.
 
 ### T-015 — Nana exit alternatives — Architect proposes options before construction
 - **Owner:** architect (option surface) + founder (decision) + thai lawyer (execution)
