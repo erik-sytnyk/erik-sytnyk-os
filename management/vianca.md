@@ -58,3 +58,27 @@ A flat M002 (acked without engagement) or weak M003 (10 entries without analysis
 ## Tone discipline
 
 External-facing language for Vianca uses: "calibration period", "let's iterate", "we'll look at together", "growth", "support". This file is the only place inside the repo where the strict R6 vocabulary is appropriate.
+
+---
+
+## Incident log
+
+| Date | Incident | Severity | Founder mental-model impact | Action |
+|------|----------|----------|------------------------------|--------|
+| 2026-06-11 | Call no-show / late arrival — Vianca was >13 min late to scheduled call without prior warning to Founder | MEDIUM | Founder confirmed Tier E judgment: manual-focus value on this unit reduced; reinforces product thesis (Founder OS must absorb ops to AI substrate so Founder personal life isn't hostage to human reliability) | Tier E recorded; supportive external pilot reframe issued (see context/briefs/2026-06-12-vianca-pilot-context.md); no R6 trigger (single instance, not Phase-2 gate failure pattern) |
+
+## Founder mental-model adjustment (2026-06-11)
+
+Founder confirmed direct: «Ценность ручного фокуса Founder на этом юните резко снижена на контрасте с предыдущими ожиданиями».
+
+**Operational meaning** (Tier E, not surfaced to Vianca):
+- Founder de-prioritizes ad-hoc engagement / direct hand-holding for this unit
+- Vianca cadence stays normal (per OD-073-adjacent autonomous mode for units)
+- All routine ops surface via Lana digest, not direct Founder-Vianca DM
+- Quality bar holds (Phase-2 gate criteria unchanged), just Founder personal investment of attention reduced
+- If Phase-2 gate fails OR pattern repeats → standard R6 review per existing criteria above (no special accelerated path)
+
+**Product insight** (canonized in OD-075 addendum-2):
+- This incident operationalizes the core ADHD-thesis: Founder OS must absorb operational uncertainty to AI substrate so Founder personal life is not hostage to individual unit reliability
+- Pilot reframe with Vianca (per Founder GO 2026-06-11): her current finance setup + Cursor session usage becomes pilot for ADHD-fit external workflow patterns
+- Honest external framing per A002 — supportive, agency-preserving, no exploitative "guinea pig" tone

@@ -53,6 +53,7 @@ Running log of operational interactions with Savelova: tone patterns, pressure t
 
 - **HR** (UA-02 startup-phase coordinator title) — per Founder 2026-06-08 ratify of A023 (iii) bounded-sandbox interpretation
 - **Coordinator** (UA-02 ops liaison) — per Founder 2026-06-11
+- **Communicator** (Communicator Layer — external interface/comm channel for raw data collection within UA perimeter, incl. apartment coordination + Sveta liaison) — per Founder explicit gate 2026-06-11 14:20 SEAST: «Савелова — НЕ спикер, её роль — сугубо «Коммуникатор» внутри изолированного фрейма UA-02. Манифест A023 не трогаем». OS fully wraps her activity — she does not represent Founder, no decisions, no governance.
 
 These are **organizational form** for Savelova's sense of significance per A023 bounded-influence engine design. They do NOT convey:
 - Recruitment authority (any UA-02 operator search runs via UA-01-M006 / future M-NNN; Founder + Architect gate)
