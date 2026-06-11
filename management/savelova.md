@@ -71,6 +71,7 @@ These are **organizational form** for Savelova's sense of significance per A023 
 
 2. **Outbound (Founder → Savelova)**
    - Founder dictates intent (one line) → Mira composes draft response in expected tone → Founder reviews/edits → sends via designated channel
+   - Designated channel: **existing UA-02 Discord channel** (no separate task-delivery channel created — per Founder gate 2026-06-11 «Broker-1 outbound channel → используем existing UA-02 channel, GO. Новых каналов не плодить»)
    - 12-24h delay buffer optional based on Founder FVE band (per pilot spec § 5)
    - **No Founder direct DM thread for ops topics** (matches pre-existing buffer rule; only relationship-level pleasantries OK if Erik chooses)
 
