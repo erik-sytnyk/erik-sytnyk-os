@@ -19,7 +19,9 @@ Running log of operational interactions with Savelova: tone patterns, pressure t
 
 | Date | Channel | Summary | Claim made? | Cross-checked? | Notes |
 |------|---------|---------|-------------|----------------|-------|
-| — | — | [TODO Illia: first entry on initial contact] | — | — | — |
+| 2026-06-11 | UA-02 Discord #general | 7 msg — Thai shareholder structure, investor agreement parity, Orb asset registration on Erik vs company; lateral scope creep (CAMP/Thai corp, not apartment-sale) | No pricing/timing claim | Yes (export `integration/discord/ua-02-general/2026-06-11.md`) | Emotional shantazh + calibration metrics → `noise-dumps/2026-06-13-broker1-inbound-digest.md`. Erik did not reply (buffer holds). Routed substantive track: lawyer (UA-01-M006 archive) not Founder direct. |
+| 2026-06-12 | UA-02 Discord #general | 3 msg — 49/49/2% shareholder split proposal; Linux install requires physical HD contact on-site | No | Yes (export `2026-06-12.md`) | Linux/HD = possible CAMP ops signal (Tanan install); corp structure = shantazh residue same pattern. No Erik reply. |
+| 2026-06-13 | Lana cross-check (Nova claim) | Nova packet 2026-06-12 10:08 SEAST alleged Broker-1 raised Tuhta payment optimization on 2026-06-11 | Claim: Tuhta payout optimization request by Broker-1 | Yes — **NOT FOUND** in UA-02 Discord exports 2026-06-02→12, this interaction log, or prior entries | **Verdict (b):** Nova drift / context conflation. Tuhta = Tier E household perimeter (Founder-Nova chat context valid per nova-packets `2026-06-02-manifesto` Catch 5). No Broker-1 channel evidence. Flag Architect filter trail → `nova-packets/2026-06-12-tuhta-payment-nova-claim.md`. |
 
 ---
 
@@ -51,9 +53,14 @@ Running log of operational interactions with Savelova: tone patterns, pressure t
 
 ### Symbolic labels accepted
 
-- **HR** (UA-02 startup-phase coordinator title) — per Founder 2026-06-08 ratify of A023 (iii) bounded-sandbox interpretation
+- **HR** (UA cluster(s) HR coordinator title — per Founder clarification 2026-06-13 10:18 SEAST: «у нее будет роль HR для укр кластера, кластеров»; original symbolic acceptance per Founder 2026-06-08 ratify of A023 (iii) bounded-sandbox interpretation)
 - **Coordinator** (UA-02 ops liaison) — per Founder 2026-06-11
-- **Communicator** (Communicator Layer — external interface/comm channel for raw data collection within UA perimeter, incl. apartment coordination + Sveta liaison) — per Founder explicit gate 2026-06-11 14:20 SEAST: «Савелова — НЕ спикер, её роль — сугубо «Коммуникатор» внутри изолированного фрейма UA-02. Манифест A023 не трогаем». OS fully wraps her activity — she does not represent Founder, no decisions, no governance.
+- **Communicator** (Communicator Layer — external interface/comm channel for raw data collection within UA perimeter, incl. apartment coordination + Sveta liaison) — per Founder explicit gate 2026-06-11 14:20 SEAST. OS fully wraps her activity — she does not represent Founder, no decisions, no governance.
+- **acting Speaker UA-02 startup phase** (per Founder clarification 2026-06-13 10:18 SEAST: «она занимается запуском UA-02 кластера»; previously surfaced in `context/personnel/illia-shenhelia.md:20` via Founder commit `fc07612` 2026-06-12 — this entry resolves the canon drift between personnel and Tier E spec). Transitional: «acting» qualifier explicit. When Sergey (or future permanent Speaker per UA-02 launch trajectory) holds the role permanently, this label retires; she steps back to Investor + HR/Coordinator/Communicator labels only.
+
+### UA-02 launch context (2026-06-13)
+
+Per Founder clarification 2026-06-13 10:18 SEAST: Tatiana is **launching UA-02 cluster**. UA-02 main focus = Kyiv apartment sale (OD-035 track) + Ukrainian operational perimeter coordination. Sergey (potential UA-02 operational Speaker; first call 2026-06-13 12:00 SEAST) noted as positive connect with Tatiana — expected working dynamics constructive. If Sergey onboards as permanent Speaker, Tatiana retains HR coordinator role (UA cluster(s)) but releases acting Speaker label.
 
 These are **organizational form** for Savelova's sense of significance per A023 bounded-influence engine design. They do NOT convey:
 - Recruitment authority (any UA-02 operator search runs via UA-01-M006 / future M-NNN; Founder + Architect gate)
