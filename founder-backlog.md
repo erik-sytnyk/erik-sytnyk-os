@@ -220,6 +220,17 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Stored in `modules/founder-private/inventory/` or external provider link in index
 - **Notes:** Founder 2026-06-17 dump. Ukraine inventory = M001-T17 (participant execution). Thailand = Founder-led or delegated when energy allows — not blocking sale track.
 
+### T-021 — Founder comms automation (non-Discord) — design track
+- **Owner:** architect (design) → ph-01 ops (operator pilot) + Lana (intake)
+- **Type:** research + design
+- **Status:** open
+- **Trigger:** long-term vector; Phase 1 when operator bandwidth + T-010 secrets discipline ready
+- **Acceptance:**
+  1. Vector ratified in `context/vectors/founder-comms-automation-v1.md` ✅
+  2. Architect proposes Phase 1 pilot (which channel first: email / TG / Viber)
+  3. One channel running operator+AI draft loop with Founder digest-only for 4 weeks
+- **Notes:** Founder 2026-06-17. Discord excluded by design. Aligns vision-v1 § 2.5 + R5.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
