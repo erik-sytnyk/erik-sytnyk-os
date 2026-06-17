@@ -290,6 +290,30 @@ Architect grep'ит файл при старте каждой сессии и п
   3. If новый поиск → criteria + Illia relay; search launched only after T-025 channel design live
 - **Notes:** Сергей = informatics teacher background; fit for Speaker (coordination + SOP execution). Вова = not in repo (Tier E or new). Search criteria: Ukrainian, ops coordination, Discord + OS fit, boundary enforcement with A023 participant. File: `tasks/ua-02-speaker-search.md`.
 
+### T-027 — Founder Schedule hybrid model (Discord + OS)
+- **Owner:** founder (design) → Lana (implementation)
+- **Type:** action + SOP
+- **Status:** proposed
+- **Trigger:** No calendar support in OS; 10:00–17:00 Thai time, 6 days/week, protect against overwork
+- **Acceptance:**
+  1. SOP `sops/founder_schedule.md` ratified (hybrid Discord `#schedule-updates` + OS source of truth)
+  2. 30-min atomic blocks implemented (non-divisible; early end OK)
+  3. Justification gate on unit/agent side (not Founder)
+  4. Lana reads schedule at session start; proposes slots
+- **Notes:** External request form deferred to backlog. TH-01 assistant (future) requires admin access → see T-028.
+
+### T-028 — Founder shared data module (calendar + operational data)
+- **Owner:** founder (scope) → Architect (design review recommended)
+- **Type:** research + module
+- **Status:** proposed
+- **Trigger:** TH-01 assistant needs admin access to Founder schedule and working data without full founder-private exposure
+- **Acceptance:**
+  1. Module location decided (`modules/founder-shared-data/` or `modules/founder-private/shared-data/`)
+  2. Initial contents: `schedule/`, `preferences.md`, `contacts.md`
+  3. Access model: Lana (read/write), TH-01 assistant (admin), other units (read-only or none)
+  4. Integration with T-027 schedule SOP
+- **Notes:** May require Architect review for access control and submodule discipline. Not blocking T-027 Phase 1–3.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
