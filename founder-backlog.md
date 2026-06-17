@@ -143,20 +143,22 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Architect proposes draft persona (scope, escalation, tier, model) for ratify before implementation.
 - **Notes:** Founder GO 2026-06-02 (Nova packet (c)) with architectural insight on role gap. Privacy: Katya = private-tier identity (A025/OD-038); any serv-public reference = opaque handle. Conversation flow lives in founder-private until partnership lands.
 
-### T-014 — Thai partner discovery (algorithmic / dating + FB groups)
+### T-014 — Thai partner / camp co-founder discovery
 - **Owner:** founder
 - **Type:** action + research
-- **Status:** open
-- **Trigger:** Founder discretion (parallel to T-013, different acquisition channel)
+- **Status:** in-progress
+- **Trigger:** Founder discretion; **refined 2026-06-17** post Olya session
 - **Acceptance:**
-  1. Algorithmic search via dating apps + Thai FB groups for partnership candidate (CAMP + potentially family)
-  2. Same option-class as Katya (T-013) but different acquisition channel
-  3. Discovery + early-stage conversation lives in founder-private (personal tier)
-  4. If partnership lands → cluster integration (similar to PH-02 path)
+  1. ICP documented: Thai woman, uni grad (tourism/adjacent), province origin, Bangkok-based, co-build camp business (A012)
+  2. **Video interview** — business checklist (Lana pre-gen) + **chemistry gate (Founder only)**
+  3. Discovery + logs in founder-private; semi-personal boundaries per `sops/semi_personal_ops.md`
+  4. If partnership lands → A012 integration path (not Anna ground-lead class)
 - **Notes:**
-  - Founder GO 2026-06-02 (Nova packet (d)) — clarified vs Nova "Thai bureaucracy buffer hire" framing. This is partnership search, not contractor hire. Privacy: identity stays in founder-private until partnership lands. Cross-ref T-013 (parallel option class).
-  - **2026-06-08 update:** Nova provided a formatted draft post for Thai girlfriend search (Thai text + Russian translation + transcriptions + slang tips). Saved as packet: `modules/founder-private/nova-packets/2026-06-08-thai-partner-post.md`. Ready to use for dating apps / FB groups.
-  - **2026-06-08 update (Miu Miu):** Added full chat history and relationship log with Miu Miu (active Thai partner candidate) to `modules/founder-private/relationships/miu-miu.md`. Meeting scheduled for June 9.
+  - Channels: dating apps, Thai FB groups, warm intros (`relationships/t-014-camp-co-founder-search.md`)
+  - **2026-06-17:** Olya session — support contact opposed idea; Founder treats as validation signal (Tier E session log)
+  - Anna = construction ground lead — **separate role**
+  - Miu Miu: `relationships/miu-miu.md`
+  - Nova post draft: `nova-packets/2026-06-08-thai-partner-post.md`
 
 ### T-015 — Nana exit alternatives — Architect proposes options before construction
 - **Owner:** architect (option surface) + founder (decision) + thai lawyer (execution)

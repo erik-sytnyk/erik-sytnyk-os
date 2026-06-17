@@ -9,7 +9,7 @@
 
 | Handle | Role (OS) | Cadence | In OS for | Status |
 |--------|-----------|---------|-----------|--------|
-| **Olya** | Track A support — *role TBD after first session* (not classic therapist; Founder to clarify) | TBD | Mental load ↓, perimeter/family buffer possible (T-006/T-007) | **First session pending** |
+| **Olya** | Track A support — psychosomatic practice background; diploma incomplete; emotional processing + listening | TBD | Mental load ↓; T-006/T-007 adjacent possible | **Active** — first session 2026-06-17 → `sessions/2026-06-17-olya.md` |
 
 **Heavy content rule:** family toxicity, verbatim therapy, third-party PII → `[see erik-sytnyk-os:...]` or `sessions/` only; not `orbios-os` public commits.
 
