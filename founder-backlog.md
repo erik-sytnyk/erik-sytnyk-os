@@ -254,6 +254,18 @@ Architect grep'ит файл при старте каждой сессии и п
   3. WP-TASK-1/2 landed (registry generator + vector_steering SOD)
 - **Notes:** Founder 2026-06-17 — pre-form task pool before hires; PH-01 + UA-02 dispatch.
 
+### T-024 — TH-01 Founder Assistant — Yoan sourcing launch
+- **Owner:** founder (send brief + pay) → Yoan (search)
+- **Type:** action
+- **Status:** in-progress
+- **Trigger:** GO Yoan #1 $200 ratified 2026-06-17
+- **Acceptance:**
+  1. Brief sent to Yoan from `clusters/th-01/recruitment/yoan-sourcing-brief.md` ✅ landed
+  2. Sourcing fee **$200** (Variant 1) paid / agreed with Yoan
+  3. **3–5 finalists** received; Founder interviews → trial candidate selected
+  4. TH-01 cluster activation criteria met (personnel, mission) post-hire
+- **Notes:** Not warm-intro pool (T-019). Separate TH-01 track. Yoan window until ~July 2026.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
