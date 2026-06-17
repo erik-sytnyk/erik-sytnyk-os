@@ -268,6 +268,28 @@ Architect grep'ит файл при старте каждой сессии и п
   4. TH-01 cluster activation criteria met (personnel, mission) post-hire
 - **Notes:** Not warm-intro pool (T-019). Separate TH-01 track. Yoan window until ~July 2026.
 
+### T-025 — Savelova one-way channel (Founder-initiated only)
+- **Owner:** founder (design) → Illia/Sergey (enforcement)
+- **Type:** action + protocol
+- **Status:** proposed
+- **Trigger:** Founder explicit 2026-06-17 — all direct contacts painful; only sustainable mode = one-way venting when Founder chooses
+- **Acceptance:**
+  1. Channel design documented in `relationships/savelova-one-way-channel.md`
+  2. `context/contractors/savelova.md` + `roles.md` updated with operational one-way invariant (no toxicity language in public tier)
+  3. Speaker buffer active (Illia interim → Sergey permanent) — Savelova communicates via Speaker only
+- **Notes:** Track A protection (FVE). **Lana boundary:** no family toxicity / verbatim in public tier. Cross-ref T-006/T-007 (contact limit + therapist buffer). Olya session context in `health/sessions/2026-06-17-olya.md`.
+
+### T-026 — UA-02 Speaker search (Сергей / Вова / новый УКР)
+- **Owner:** founder (criteria + decision) → Illia (search if needed)
+- **Type:** research + gate
+- **Status:** proposed
+- **Trigger:** One-way channel requires reliable Speaker buffer; Сергей approved but onboarding pending; Вова / новый поиск как альтернативы
+- **Acceptance:**
+  1. Decision matrix ratified: Сергей (default if no Vova preference) vs Вова (confirm Tier E identity) vs новый поиск (criteria in `tasks/ua-02-speaker-search.md`)
+  2. If Сергей → T-NN «unblock Sergey onboarding» (surname + R5 gates: Cursor Pro, access tier)
+  3. If новый поиск → criteria + Illia relay; search launched only after T-025 channel design live
+- **Notes:** Сергей = informatics teacher background; fit for Speaker (coordination + SOP execution). Вова = not in repo (Tier E or new). Search criteria: Ukrainian, ops coordination, Discord + OS fit, boundary enforcement with A023 participant. File: `tasks/ua-02-speaker-search.md`.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
