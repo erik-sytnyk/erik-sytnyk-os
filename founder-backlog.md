@@ -170,6 +170,45 @@ Architect grep'ит файл при старте каждой сессии и п
   4. Picked path → M006 Task 1 updated + Thai lawyer engaged
 - **Notes:** Founder direction 2026-06-02 (Nova packet (f)) — «ОС должна предлагать альтернативы если возможно, сейчас вопрос как убрать токсичного паразита Нану из наших кэмп партнеров перед началом строительства, Анна заинтересована в работе». Anna = ONE option, not predetermined. Thanan = contractor not partner (different class). Architect homework: draft option matrix in next session.
 
+### T-016 — Orb 1 site selection (Camp 0 plot placement)
+- **Owner:** founder + Anna (external)
+- **Type:** gate
+- **Status:** open
+- **Trigger:** now — before platform build commit
+- **Acceptance:**
+  1. Founder locates 2025 site layout archive (water-edge rule)
+  2. On-site or video walkthrough with Anna: confirm Plot 5 (Thanan provisional) or pick alternate footprint
+  3. Decision logged: GPS pin + photo + chosen micro-plot dimensions → repo (`tracks/camp/context/camp-activation-plan-2026-06.md` § A1 update) or founder-private dump
+- **Notes:** Landed Lana 2026-06-15 from Nova hallucination catch session. Hyperfocus Pillar II. Cross-ref `clusters/ua-01/notes/site-readiness-2026-05.md` Plot 5.
+
+### T-017 — Camp site fixes checklist (Phase B)
+- **Owner:** founder + Anna (external)
+- **Type:** action
+- **Status:** open
+- **Trigger:** parallel to T-016; sanitation may start if Anna 50k THB quote holds
+- **Acceptance:** Items B1–B8 in `tracks/camp/context/camp-activation-plan-2026-06.md` tracked with done/blocked status; at minimum B3 (sanitation) + B4 (platform) + B5 (Orb inspection) closed before «livable Orb» claim
+- **Notes:** Neighbour storage (B1) and Nana exit (B6) remain legal/ops P0 from prior canon. UA-01 archived — Founder-direct + Anna path per 2026-06-11 restructure.
+
+### T-018 — Waiting list + Gvardia funnel — spec → build
+- **Owner:** architect (spec gate) → composer (build) + founder (sequencing gate)
+- **Type:** research + action
+- **Status:** open
+- **Trigger:** post Founder gate on sequencing (during vs after Orb 1 livable)
+- **Acceptance:**
+  1. Architect signs off draft `tracks/camp/context/waitinglist-pipeline-spec-draft.md` (privacy + OD-023 form copy)
+  2. Supabase schema deployed + first test row ingested + scored
+  3. Lana digest returns real counts (may be 0)
+  4. Anti-hallucination rule active: no agent reports funnel metrics without live query
+- **Notes:** Nova 2026-06-15 invented 20 investors + 8 Gvardia elite — **ground truth = 0**. Target architecture preserved in spec draft; Camp 1+ investor search (Phase D) follows Orb 1 proof per A015.
+
+### T-019 — AU warm intro pool (Hybrid Revenue)
+- **Owner:** founder
+- **Type:** action
+- **Status:** open
+- **Trigger:** when ready — not blocking PH-01 cold outreach (M015)
+- **Acceptance:** List of 3–10 warm intro targets (name + relationship + angle) logged in founder-private or forwarded to Illia; PH-01 templates intro asks; Real Estate vertical Phase 2 activates from this list
+- **Notes:** Founder 2026-06-17 — Yoan removed from hybrid revenue warm-intro canon; Founder adds contacts async. No pre-listed names in public-tier canon.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
