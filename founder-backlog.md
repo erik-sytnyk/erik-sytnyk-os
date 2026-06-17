@@ -69,10 +69,10 @@ Architect grep'ит файл при старте каждой сессии и п
 ### T-007 — Setup therapist channel для family-content
 - **Owner:** founder
 - **Type:** research
-- **Status:** open
-- **Trigger:** когда найдёшь подходящего терапевта
-- **Acceptance:** Therapist identified, agreed на роль третьей стороны при семейных разговорах с Broker-1, первая сессия проведена.
-- **Notes:** Channel = A025-compatible buffer (содержимое сессий = personal-tier, не в repo). Снимает с Founder day-to-day эмоциональную нагрузку семейных узлов.
+- **Status:** in-progress
+- **Trigger:** Olya first session (Track A support — role TBD); may extend beyond family-only
+- **Acceptance:** Support contact registered in `health/support-network.md`; first session logged (`health/sessions/`); role in OS clarified; if family buffer agreed → third-party channel for Broker-1 complex nodes active
+- **Notes:** Channel = A025-compatible buffer (session content = Tier E). **Pre-gen capture:** `health/support-network.md` § Lana codes. Olya ≠ classic therapist — Founder clarifies post-session. Scaffold 2026-06-17.
 
 ### T-008 — Prep `~/orbios-migration-finance/` scratch + USB A/B
 - **Owner:** founder
