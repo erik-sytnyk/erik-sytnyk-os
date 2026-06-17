@@ -64,7 +64,7 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Status:** in-progress
 - **Trigger:** ongoing protocol
 - **Acceptance:** Day-to-day Telegram/Viber/etc прекращён. Контакт только: (а) ≤2x/неделю в Founder-выбранное время когда Track A в ресурсе, ИЛИ (б) через терапевта как третью сторону для сложных family узлов.
-- **Notes:** Per Nova framing 2026-05-30 + OD-037 hardening. Операционка по квартире — через Broker-O→Илья→Founder (см. UA-02-M001 tasks).
+- **Notes:** Per Nova framing 2026-05-30 + OD-037 hardening. Операционка по квартире — через **Illia relay → Lana digest** (UA-02-M001-T16), not routine Founder↔participant channel. **2026-06-17:** goal = **delegation**, not endurance; on-site inventory via participant (T17); Founder gates only.
 
 ### T-007 — Setup therapist channel для family-content
 - **Owner:** founder
@@ -208,6 +208,17 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Trigger:** when ready — not blocking PH-01 cold outreach (M015)
 - **Acceptance:** List of 3–10 warm intro targets (name + relationship + angle) logged in founder-private or forwarded to Illia; PH-01 templates intro asks; Real Estate vertical Phase 2 activates from this list
 - **Notes:** Founder 2026-06-17 — Yoan removed from hybrid revenue warm-intro canon; Founder adds contacts async. No pre-listed names in public-tier canon.
+
+### T-020 — Physical inventory — Thailand (Founder possessions)
+- **Owner:** founder (capture) + Lana/Composer (OD-064 index)
+- **Type:** action
+- **Status:** open
+- **Trigger:** parallel to UA-02-M001-T17 (same rationale — locate things in physical world)
+- **Acceptance:**
+  1. Room/location-based **опись** of material possessions (Thailand base)
+  2. Optional `.asset.md` index per `sops/asset_management.md` for high-value items
+  3. Stored in `modules/founder-private/inventory/` or external provider link in index
+- **Notes:** Founder 2026-06-17 dump. Ukraine inventory = M001-T17 (participant execution). Thailand = Founder-led or delegated when energy allows — not blocking sale track.
 
 ---
 
