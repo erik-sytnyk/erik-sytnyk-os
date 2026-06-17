@@ -212,8 +212,8 @@ Architect grep'ит файл при старте каждой сессии и п
 ### T-020 — Physical inventory — Thailand (Founder possessions)
 - **Owner:** founder (capture) + Lana/Composer (OD-064 index)
 - **Type:** action
-- **Status:** open
-- **Trigger:** parallel to UA-02-M001-T17 (same rationale — locate things in physical world)
+- **Status:** deferred
+- **Trigger:** when Founder has energy — after UA-02 M001-T17 inventory closed or parallel
 - **Acceptance:**
   1. Room/location-based **опись** of material possessions (Thailand base)
   2. Optional `.asset.md` index per `sops/asset_management.md` for high-value items
