@@ -260,7 +260,7 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Status:** in-progress
 - **Trigger:** GO Yoan #1 $200 ratified 2026-06-17
 - **Acceptance:**
-  1. Brief sent to Yoan from `clusters/th-01/recruitment/yoan-sourcing-brief.md` ✅ landed
+  1. Brief sent to Yoan from `clusters/th-01/recruitment/yoan-sourcing-brief.md` ✅ landed + **sent 2026-06-17**
   2. Sourcing fee **$200** (Variant 1) paid / agreed with Yoan
   3. **3–5 finalists** received; Founder interviews → trial candidate selected
   4. TH-01 cluster activation criteria met (personnel, mission) post-hire
