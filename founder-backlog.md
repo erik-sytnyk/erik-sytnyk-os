@@ -231,6 +231,17 @@ Architect grep'ит файл при старте каждой сессии и п
   3. One channel running operator+AI draft loop with Founder digest-only for 4 weeks
 - **Notes:** Founder 2026-06-17. Discord excluded by design. Aligns vision-v1 § 2.5 + R5.
 
+### T-022 — Company Task Pool + OS dispatch (Architect design)
+- **Owner:** architect (design) → Lana (steering ops) + Composer (generator)
+- **Type:** research + gate
+- **Status:** open
+- **Trigger:** Architect session on `context/proposals/task-pool-cluster-dispatch-v1.md`
+- **Acceptance:**
+  1. Architect digest: ratify / revise CTR model + WP packages
+  2. Founder **GO TASK-POOL v1**
+  3. WP-TASK-1/2 landed (registry generator + vector_steering SOD)
+- **Notes:** Founder 2026-06-17 — pre-form task pool before hires; PH-01 + UA-02 dispatch.
+
 ---
 
 (добавляй items сюда сам или говори Architect'у при сессии — он закинет)
