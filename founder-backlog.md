@@ -209,16 +209,28 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Acceptance:** List of 3–10 warm intro targets (name + relationship + angle) logged in founder-private or forwarded to Illia; PH-01 templates intro asks; Real Estate vertical Phase 2 activates from this list
 - **Notes:** Founder 2026-06-17 — Yoan removed from hybrid revenue warm-intro canon; Founder adds contacts async. No pre-listed names in public-tier canon.
 
-### T-020 — Physical inventory — Thailand (Founder possessions)
-- **Owner:** founder (capture) + Lana/Composer (OD-064 index)
+### T-020 — Physical inventory — Thailand (belongings + documents)
+- **Owner:** founder (capture) + local organizer (physical sort today)
 - **Type:** action
-- **Status:** deferred
-- **Trigger:** when Founder has energy — after UA-02 M001-T17 inventory closed or parallel
+- **Status:** open
+- **Trigger:** now — organizer sorts + labels today; Founder indexes tomorrow if energy
 - **Acceptance:**
-  1. Room/location-based **опись** of material possessions (Thailand base)
-  2. Optional `.asset.md` index per `sops/asset_management.md` for high-value items
-  3. Stored in `modules/founder-private/inventory/` or external provider link in index
-- **Notes:** Founder 2026-06-17 dump. Ukraine inventory = M001-T17 (participant execution). Thailand = Founder-led or delegated when energy allows — not blocking sale track.
+  1. `LOC-TH-PHUKET-HOME` populated per `sops/physical_inventory.md`
+  2. Every labeled box has `CN-TH-*.container.md` (items + optional nested containers)
+  3. **Documents** in dedicated container(s) `CN-TH-DOC-*` (passports, contracts, scans index) — not lost in misc boxes
+  4. Optional walkthrough video per box → OD-064 `AST-*` index
+- **Notes:** Container Tree v1 ACTIVE. Parallel to T-023 / M001-T17 (Kyiv) — not blocking. **~15 min/box**; stop when tired (Track A).
+
+### T-023 — Kyiv apartment inventory — Founder prep pack
+- **Owner:** founder + Lana (brief) → Illia relay (field)
+- **Type:** action
+- **Status:** open
+- **Trigger:** before M001-T17 visit closes — prep can run in parallel with T-020
+- **Acceptance:**
+  1. `clusters/ua-02/inventory/locations/LOC-UA-KYIV-APT.location.md` checklist complete
+  2. Field brief sent to Illia for participant visit (`sops/physical_inventory.md` §5): label scheme `CN-UA-*`, doc container `CN-UA-DOC-001`, photo + written опись
+  3. After visit: Illia/agent-log confirms containers landed under `clusters/ua-02/inventory/containers/` + `documents.md` row closed
+- **Notes:** Founder does **not** run on-site visit — prep + gates only. Unblocks title-deed certainty (M001-T17/T18). Same Container Tree schema as T-020.
 
 ### T-021 — Founder comms automation (non-Discord) — design track
 - **Owner:** architect (design) → ph-01 ops (operator pilot) + Lana (intake)
