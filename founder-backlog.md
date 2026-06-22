@@ -5,7 +5,16 @@ Architect grep'ит файл при старте каждой сессии и п
 
 **Format:** per `sops/task_management.md` — `T-NNN` global counter, Founder surface.
 
+## SESSION FOCUS (2026-06-22)
+
+| | |
+|---|---|
+| **Active** | **T-031** — file intake + Google Drive asset pipeline |
+| **Mode** | Architect design → Founder account unblock → Composer WPs |
+| **Background** | All other open T-NNN — no active Lana pull unless Founder surfaces |
+
 ---
+
 
 ### T-001 — Activities list для Track A
 - **Owner:** founder
@@ -266,7 +275,7 @@ Architect grep'ит файл при старте каждой сессии и п
   2. Sourcing fee **$200** (Variant 1) paid / agreed with Yoan
   3. **3–5 finalists** received; Founder interviews → trial candidate selected
   4. TH-01 cluster activation criteria met (personnel, mission) post-hire
-- **Notes:** Not warm-intro pool (T-019). Separate TH-01 track. Yoan window until ~July 2026.
+- **Notes:** Not warm-intro pool (T-019). Separate TH-01 track. Yoan window until ~July 2026. **TH-01-01 = assistant slot only** — DEV-01 holds cluster lead + Camp P0; VR-FITNESS research backlog on TH-01 (not PH-01) per Founder 2026-06-22 → `clusters/th-01/backlog.md`.
 
 ### T-025 — Savelova one-way channel (Founder-initiated only)
 - **Owner:** founder (design) → Illia/Sergey (enforcement)
@@ -313,6 +322,38 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Access model: Lana (read/write), TH-01 assistant (admin), other units (read-only or none)
   4. Integration with T-027 schedule SOP
 - **Notes:** May require Architect review for access control and submodule discipline. Not blocking T-027 Phase 1–3.
+
+### T-029 — Revolut bank change
+- **Owner:** founder
+- **Type:** action
+- **Status:** done
+- **Trigger:** before 2026-06-26 (intake 2026-06-17 — Thai address / personal bank track; separate from PH-01 M014-T04 Mercury Column)
+- **Acceptance:** Revolut bank change completed in app; account operational
+- **Notes:** **Done 2026-06-20** — Founder confirm (Lana session). Prior session recommended bank visit Thu–Fri 2026-06-18/19; landed retroactively as T-029 on close.
+
+### T-030 — AU Wise personal account — proof + transfer (~$2.7k stuck)
+- **Owner:** founder
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** when Thai personal banking track stable (post T-029); not P0 unless runway pressure
+- **Acceptance:**
+  1. Path to move ~$2.7k off AU-registered Wise account identified (proof requirements mapped vs Thai baseline)
+  2. Proof-of-address / verification route scoped via trusted acquaintances (AU) — effort estimate vs value
+  3. Either transfer executed **or** explicit defer decision logged with reason (not silent drift)
+- **Notes:** Personal Wise registered on **Australian address**; outbound / full access requires proof harder than Thai track. Likely needs help through acquaintances — **FVE risk** (coordination + document chase). Separate from company Mercury/Wise ops (M014). Intake 2026-06-22 Lana session.
+
+### T-031 — File intake + Google Drive asset pipeline (SESSION FOCUS)
+- **Owner:** architect (design) → founder (account gate) → composer (implement)
+- **Type:** action + gate + research
+- **Status:** in-progress
+- **Trigger:** now — **session focus 2026-06-22**
+- **Acceptance:**
+  1. Company Google account unblocked (recovery verified; delegation doc)
+  2. Shared Drive folder tree live (Architect-ratified topology)
+  3. Intake path documented: text dump + files → `.asset.md` indexes in git
+  4. End-to-end smoke test (1+ real blob indexed + triage ref)
+  5. SOP addendum: **Google Drive primary**; Dropbox legacy/supported only
+- **Notes:** OD-064 spec exists but **assets not connected** — zero production `.asset.md`. Architect packet: `context/proposals/file-intake-gdrive-v1.md`. Collateral unblock: PH-01-M009-T03 recruiting inbox (`jobs@orbios.io`). Background queue: all other T-NNN.
 
 ---
 
