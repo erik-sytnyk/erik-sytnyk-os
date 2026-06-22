@@ -114,4 +114,4 @@ Message: `tracks: seed VR-fitness app track narrative and refresh task registry 
 - **Landed:** `context/manifest.md` — track row 7 + A029 amendment + status annotation
 - **Deferred:** cap value, brand, dev capacity model, market validation packet, partner identification, dispatch readiness
 - **Public canon commit:** orbios-os `72ed119` (Composer execution block 2026-06-20)
-- **Packet verbatim:** founder-private commit pending (Founder original paste 2026-06-22)
+- **Packet verbatim:** founder-private `ddc0c42` (Founder original paste 2026-06-22)
