@@ -21,3 +21,8 @@ credentials/
 scratch/
 tmp/
 *.tmp
+
+# Email sync — credentials + state + raw archive
+.env
+email/**/state.json
+email/**/archive/
