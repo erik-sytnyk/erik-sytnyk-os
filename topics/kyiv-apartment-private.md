@@ -3,7 +3,7 @@ title: Kyiv apartment — Founder private playbook
 tier: founder-private
 created: 2026-06-25
 related_public: clusters/ua-02/active_missions.md (UA-02-M001)
-related_intake: input/dump/savelova/topics/_session-progress-2026-06-24.md (raw branch)
+related_intake: input/dump/savelova/topics/_session-progress-2026-06-24.md (raw branch); thai-notary-poa branch 2026-06-25
 status: ACTIVE
 ---
 
@@ -70,6 +70,18 @@ Per Founder ratify Vector queue [3] (Option A — yes):
 
 POA action items promoted from intake dump → existing mission UA-02-M001 as new tasks T20-T29 (see `clusters/ua-02/active_missions.md`). NOT a new M002 — M002 already exists for Discord. Architect adds tasks под M001 umbrella.
 
+### 3.1 thai-notary-poa intake integration (2026-06-25)
+
+**Source:** branch `ua-02/intake-savelova-thai-notary-poa-2026-06-25`; report `log/vector/integration-reports/thai-notary-poa-integration-2026-06-25.md`.
+
+**Founder ratify:** GO public/private/missions; REJECT drift #1 (Kyiv notary pre-approval before TH notarization); HOLD T20; partial T23 GO.
+
+**Participant claim rejected (audit trail):** deal Kyiv notary unknown until buyer/agency arrives — «покупать через агентство, продавать через объявление». Founder rejected as process change; T21 Kyiv pre-approval invariant stands.
+
+**Operational facts captured (public canon landed):** 3 UA banks aligned; PoA text fragmented Telegram; TH 3-step chain in `documents.md`; no licensed Thai notary contact yet.
+
+**Private-only action path:** Erik → Instagram DM Sergey Treshchev (Kyiv lawyer, participant referral) — can firm do PoA to which stage; minimum stage-1 Thai notary for UA-EN text without extra translation.
+
 ## 4. Toxic perimeter pressure vectors logged (for awareness)
 
 From intake captures:
@@ -84,6 +96,10 @@ From intake captures:
   
   These are NOT genuine questions for Founder to answer — they are emotional pressure vectors. Logged here for pattern recognition; do not respond seriously.
 
+- **Founder call volume as operational blocker (thai-notary-poa intake 2026-06-25):** «пятичасовые разговоры с Erik в рабочее время UA мешают обзвону киевских нотarius» + request to «уменьшить такую терапию». **Not adopted** as ops constraint — one-way channel / Speaker buffer holds; logged for pattern only. Do not route response to participant on this framing.
+- **Runway urgency weaponization (same intake):** «Erik мало денег», PoA «тормозит месяцами», agencies block showings — factual pressure mixed with emotional leverage. Founder pace ≠ participant urgency per Charter § 7.
+- **ChatGPT all-in-one TH firm (same intake):** participant cites unverified «company does all 3 steps for extra fee» — skepticism flag; verify via Treshchev consult before Erik books anything.
+
 ## 5. Defense narrative (one-liner)
 
 If she pressures on any item in this file: «канон уже зафиксирован, обсуждение через Communicator». No long argumentation; no defending position; canon stands.
@@ -93,6 +109,7 @@ If she pressures on any item in this file: «канон уже зафиксир�
 - `clusters/ua-02/active_missions.md` UA-02-M001 (public mission)
 - `input/dump/savelova/topics/_session-progress-2026-06-24.md` (raw intake source)
 - `input/dump/savelova/topics/intake-camp-2026-06-24.md` (CAMP intake)
+- `log/vector/integration-reports/thai-notary-poa-integration-2026-06-25.md` (TH PoA intake integration)
 - OD-063 (no brokers — disposition pending Founder separate session)
 - OD-038 / A025 privacy firewall
 - A023 containment cluster class
