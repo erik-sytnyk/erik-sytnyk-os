@@ -490,6 +490,21 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Если 0 за 3 месяца от today (cutoff 2026-09-26) → archive entirely; remove from tooling
 - **Notes:** Per state-of-orbios 2026-06-26 priority pivot — Toptal de-prioritized; REVENUE focus shifted to Patrik partnership + apartment sale + active outbound pipeline. Not a source of runway expectation anymore.
 
+### T-045 — LinkedIn delegation surface — isolated Windows account + remote session
+- **Owner:** founder (setup) → Vianca (operator)
+- **Type:** infrastructure + delegation
+- **Status:** open (newly opened 2026-06-26 per R5 ratify Pattern B+)
+- **Trigger:** Founder direction 2026-06-26 — Vianca получает LinkedIn ops via remote session на dedicated isolated surface (NOT password share)
+- **Acceptance:**
+  1. **Separate Windows account** created (suggested name: `orbios-ops`); no admin rights; no Founder personal files accessible from this user
+  2. **Dedicated browser profile** (Chrome OR Edge) on `orbios-ops` user; sign into LinkedIn ONCE under Erik identity; complete 2FA
+  3. **Remote tool installed** on `orbios-ops` user (Architect rec: **Chrome Remote Desktop** OR **AnyDesk** — both free for this use case)
+  4. **Remote credentials shared** to Vianca via 1Password share OR Signal (NOT Discord public / NOT git)
+  5. **SOP drafted** by Architect/Lana: scope (triage / draft / send operational outreach), boundaries (escalate pricing / close / personal / weird threads → Founder), schedule (e.g., 2×30min/week batched sessions), session log (Vianca commits summary to repo at end of session)
+  6. **First test session** scheduled + completed; Vianca processes 1-2 messages with Founder observing (warm-up) before independent operation
+  7. **Revoke plan documented**: if needed → change LinkedIn password OR disable Windows account OR revoke remote tool access → 1-line action
+- **Notes:** Reasoning: LinkedIn ToS prohibits credential sharing; raw password share = account suspension risk (IP mismatch PH vs TH). Isolated Windows account = real OS-level separation (no Founder browsing history / files / sessions leak). Same approach extensible to email, Twitter, other identity-bound platforms later. Reassignment plan: when TH-01 assistant onboards, transfer remote access to TH-01; Vianca revoked cleanly.
+
 ### T-044 — Thai partner search (Track A primary objective — Founder OS-tracked)
 - **Owner:** founder
 - **Type:** ongoing objective (multi-session)
