@@ -9,7 +9,8 @@ Architect grep'ит файл при старте каждой сессии и п
 
 | | |
 |---|---|
-| **Active** | **T-031** — file intake + Google Drive asset pipeline |
+| **Active (primary)** | **T-031** — file intake + Google Drive asset pipeline |
+| **Active (secondary)** | **T-037** — company email restore (blocked since Orbios 2.0) |
 | **Mode** | Architect design → Founder account unblock → Composer WPs |
 | **Background** | All other open T-NNN — no active Lana pull unless Founder surfaces |
 
@@ -230,7 +231,7 @@ Architect grep'ит файл при старте каждой сессии и п
   2. Every labeled box has `CN-TH-*.container.md` (items + optional nested containers)
   3. **Documents** in dedicated container(s) `CN-TH-DOC-*` (passports, contracts, scans index) — not lost in misc boxes
   4. Optional walkthrough video per box → OD-064 `AST-*` index
-- **Notes:** Container Tree v1 ACTIVE. Parallel to T-023 / M001-T17 (Kyiv) — not blocking. **~15 min/box**; stop when tired (Track A).
+- **Notes:** Container Tree v1 ACTIVE. Parallel to T-023 / M001-T17 (Kyiv) — not blocking. **~15 min/box**; stop when tired (Track A). **2026-06-22:** Founder re-surfaced — опись вещей в Тае; remains open.
 
 ### T-023 — Kyiv apartment inventory — Founder prep pack
 - **Owner:** founder + Lana (brief) → Illia relay (field)
@@ -241,7 +242,7 @@ Architect grep'ит файл при старте каждой сессии и п
   1. `clusters/ua-02/inventory/locations/LOC-UA-KYIV-APT.location.md` checklist complete
   2. Field brief sent to Illia for participant visit (`sops/physical_inventory.md` §5): label scheme `CN-UA-*`, doc container `CN-UA-DOC-001`, photo + written опись
   3. After visit: Illia/agent-log confirms containers landed under `clusters/ua-02/inventory/containers/` + `documents.md` row closed
-- **Notes:** Founder does **not** run on-site visit — prep + gates only. Unblocks title-deed certainty (M001-T17/T18). Same Container Tree schema as T-020.
+- **Notes:** Founder does **not** run on-site visit — prep + gates only. Unblocks title-deed certainty (M001-T17/T18). Same Container Tree schema as T-020. **2026-06-22:** Founder re-surfaced — опись вещей в Украине; remains open.
 
 ### T-021 — Founder comms automation (non-Discord) — design track
 - **Owner:** architect (design) → ph-01 ops (operator pilot) + Lana (intake)
@@ -354,6 +355,152 @@ Architect grep'ит файл при старте каждой сессии и п
   4. End-to-end smoke test (1+ real blob indexed + triage ref)
   5. SOP addendum: **Google Drive primary**; Dropbox legacy/supported only
 - **Notes:** OD-064 spec exists but **assets not connected** — zero production `.asset.md`. Architect packet: `context/proposals/file-intake-gdrive-v1.md`. Collateral unblock: PH-01-M009-T03 recruiting inbox (`jobs@orbios.io`). Background queue: all other T-NNN.
+
+### T-032 — Camp + Orbios website — minimum refresh + agent workflow
+- **Owner:** founder (sequencing) → composer (build) or agent-assisted interim
+- **Type:** action + gate
+- **Status:** open
+- **Trigger:** minimum via agent now **or** defer full pass until first adequate dev hire — Founder discretion
+- **Acceptance:**
+  1. `orbios.org` (and camp-facing pages if separate) reflect current v3 baseline at **minimum viable** level — not legacy crowdfunding copy
+  2. Short SOP or README: how to edit/deploy site **through agent** (Composer TZ-block, repo path, deploy gate)
+  3. Explicit defer note logged here if waiting for dev hire
+- **Notes:** Legacy site flagged outdated in `tracks/camp/README.md`. Full redesign not required — minimum + agent instructions. May pair with T-018 waiting-list funnel when live.
+
+### T-033 — Home ants (Phuket) — pest control
+- **Owner:** founder
+- **Type:** action
+- **Status:** open
+- **Trigger:** convenient home-maintenance window
+- **Acceptance:**
+  1. Ant infestation at Phuket home addressed (treatment or structural fix — whichever closes issue)
+  2. If reusable method found → one-line note for camp sanitation track (cross-ref T-017 B3)
+- **Notes:** Home P0; camp relevance **later** (not blocking construction). No unit involvement.
+
+### T-034 — Laptop warranty repair — Phuket Town
+- **Owner:** founder
+- **Type:** action
+- **Status:** open
+- **Trigger:** trip to Phuket Town (service-center window)
+- **Acceptance:**
+  1. Laptop delivered to warranty authorized service in Phuket Town
+  2. Ticket / RMA number + expected return date logged (founder-private note or here)
+- **Notes:** Warranty path — not ad-hoc repair shop unless warranty rejects.
+
+### T-035 — Auto phone top-up via OS
+- **Owner:** founder (operator choice) → architect (design) → composer (automation)
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** personal ops automation slot; evaluate Thai operator **contract** vs pay-as-you-go API
+- **Acceptance:**
+  1. Recurring mobile balance top-up runs without manual Founder action (scheduled or threshold-triggered)
+  2. Operator + payment path documented (secrets tier — not public repo)
+  3. Contract terms reviewed if postpaid/auto-recharge requires it
+- **Notes:** Cross-ref T-021 (comms automation vector). Thai carrier contract may simplify recurring top-up.
+
+### T-036 — Orbios US taxes 2025
+- **Owner:** founder (gate) + vianca (reconciliation) → duatax-ira (filing)
+- **Type:** action + gate
+- **Status:** open
+- **Trigger:** 2025 transaction set reconciled in finance-kb (post T-008 / OD-055 conveyor)
+- **Acceptance:**
+  1. Reconciled 2025 Orbios transaction export delivered to Ira/DuaTax per `context/contractors/duatax-ira.md`
+  2. US filing for tax year 2025 filed or explicitly scheduled with Ira
+  3. Filing confirmation date logged (finance-kb — not public tier)
+- **Notes:** Finance figures = restricted tier (OD-042). Blocked on reconciliation completeness — not Founder manual spreadsheet work. Vianca bookkeeper track when live.
+
+### T-037 — Company email restore (Orbios 2.0 block) — SESSION FOCUS secondary
+- **Owner:** founder (account recovery + delegation) → lana (inventory)
+- **Type:** action + gate
+- **Status:** open
+- **Trigger:** parallel to T-031 — same Google account boundary; lower priority than file-intake pipeline design
+- **Acceptance:**
+  1. Company mailboxes operational: at minimum **`jobs@orbios.io`** (recruiting) + inventory of other `@orbios.io` / legacy 2.0 addresses
+  2. Delegation live: Vianca + Illia per role matrix (`ph-01-02-jod.md` inbox policy)
+  3. PH-01-M009-T03 recruiting inbox blocker closed (`clusters/ph-01/agent-logs/2026-06-11-*`)
+  4. Temporary `jobs.orbios@gmail.com` migration path decided (keep / retire / alias)
+- **Notes:** Blocked since **Orbios 2.0** era. Cross-ref T-031 § company Google account. Not personal Gmail — company-owned only. `sops/founder_schedule.md` + Discord `#schedule-updates` unaffected.
+
+### T-038 — Founder personal subscriptions audit
+- **Owner:** founder (decisions) + lana (inventory draft)
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** personal ops cleanup window; not blocking T-031/T-037
+- **Acceptance:**
+  1. Master list: all active personal subscriptions (SaaS, streaming, AI tools, gym, etc.) with cost + renewal date + payment method
+  2. Each row: **keep / cancel / downgrade / migrate-to-company** (→ T-039)
+  3. List stored founder-private (`subscriptions/personal.md` or equivalent)
+- **Notes:** Separate from company tier. Finance amounts → finance-kb if comp-related; here = operational inventory only.
+
+### T-039 — Company subscriptions audit
+- **Owner:** founder (gate) + vianca (inventory) + lana (public-tier index)
+- **Type:** action + research
+- **Status:** open
+- **Trigger:** post T-037 email restore OR parallel if billing emails reachable
+- **Acceptance:**
+  1. Master list: Orbios-paid subscriptions (Cursor, Discord, Google Workspace?, domain, hosting, Mercury-adjacent tools, etc.)
+  2. Owner + cluster assignment + renewal + secrets location documented
+  3. Orphans from Orbios 2.0 flagged for cancel or migrate
+  4. Index in serv-public pointer or `context/company-subscriptions.md` stub (no secrets in git)
+- **Notes:** Cross-ref T-038 for items Founder currently pays personally that should be company. Aligns with OD-064 asset/provider hygiene.
+
+### T-040 — Founder calendar — populate this week (+ ongoing)
+- **Owner:** founder (confirm blocks) + lana (sync)
+- **Type:** action
+- **Status:** in-progress
+- **Trigger:** now — week of 2026-06-22
+- **Acceptance:**
+  1. Week schedule file live per `sops/founder_schedule.md` hybrid model (`modules/founder-private/schedule/`)
+  2. **Wed 2026-06-25:** psychological practice block confirmed (time TBD by Founder)
+  3. Lana reads schedule at session start; Discord `#schedule-updates` synced when channel live
+  4. Other recurring blocks (deep work, camp, health) added as Founder surfaces
+- **Notes:** T-027 SOP ratified 2026-06-19. T-028 shared-data module deferred — schedule lands in founder-private for now. **First landing:** `schedule/2026-06-22-week.md`.
+
+### T-041 — EPIC: Orbios 1.x / 2.x data dump + legacy import
+- **Owner:** founder (Phase A inventory) → lana (triage) → composer (Phase B pointers)
+- **Type:** action + gate + research
+- **Status:** open
+- **Trigger:** after T-031 intake plumbing live OR parallel Phase A inventory only
+- **Acceptance:**
+  1. **Phase A** complete: all candidate sources listed + keep/discard/decide-later in `log/management/orbios-2x-repos-archive-decisions.md`
+  2. **Phase B:** per-source `.asset.md` pointers per `sops/orbios-2x-import.md`
+  3. **Phase C:** GitHub archive + Discord export decisions executed for ratified sources
+  4. **Phase D:** high-criticality blobs cloud-mirrored (pairs with T-031 GDrive)
+- **Notes:** **Epic-level** — multi-session. KB repos, Discord servers, doc archives from Orbios 1–2. Not a single dump file — phased SOP. `context/migration/source-register.md` updated as sources land.
+
+### T-042 — Fitness training start (trainer — loan outstanding)
+- **Owner:** founder
+- **Type:** action
+- **Status:** open
+- **Trigger:** coordinate first session with trainer; reconcile loan separately
+- **Acceptance:**
+  1. First training session scheduled + completed (in-person, Phuket)
+  2. Cadence agreed (e.g. N×/week) + logged in schedule (T-040)
+  3. Loan/repayment terms with trainer documented founder-private (amount, timeline — no figures in public tier)
+- **Notes:** Trainer = prior personal loan recipient. Cross-ref T-001 (activities list) + T-012 (`health/` BP track). Track A — not company mission unless later formalized as camp wellness ops.
+
+### T-043 — Toptal sunset — removed from mental load
+- **Owner:** founder
+- **Type:** decision (closed)
+- **Status:** done 2026-06-26
+- **Trigger:** Toptal opportunistic channel silent 60+ days; 0 contracts
+- **Acceptance:**
+  1. ✅ Mental load removed 2026-06-26 (Founder direction during Vector queue Phase 1 day 2 session)
+  2. Не ждать active inbound; если notification приходит — review case-by-case
+  3. Если 0 за 3 месяца от today (cutoff 2026-09-26) → archive entirely; remove from tooling
+- **Notes:** Per state-of-orbios 2026-06-26 priority pivot — Toptal de-prioritized; REVENUE focus shifted to Patrik partnership + apartment sale + active outbound pipeline. Not a source of runway expectation anymore.
+
+### T-044 — Thai partner search (Track A primary objective — Founder OS-tracked)
+- **Owner:** founder
+- **Type:** ongoing objective (multi-session)
+- **Status:** open (newly formalized 2026-06-26)
+- **Trigger:** Founder direction 2026-06-26 — formalize long-stated personal objective in Founder OS as P0 (per priority pivot snapshot)
+- **Acceptance:**
+  1. Methodology defined (intentional dating discipline / social activities / cohort patterns) — Architect/Mira can prep brief if Founder requests
+  2. Cadence / weekly touchpoints logged (track A vitality digest line item)
+  3. Operational details (interactions, names, situations) → `modules/founder-private/relationships/` Tier E only
+  4. Public canon = scope acknowledgment only; no surface-level details
+- **Notes:** Target framing «тайка locally» (Thai partner, in-location, Phuket-adjacent per Founder direction). Personal scope. Charter Phase 1 era — Vector tracks as ongoing FOUNDER track signal in daily digests; no autopilot execution. Cross-ref `state-of-orbios/2026-06-26-priority-pivot.md` § 2 + § 3 partner sub-track scope.
 
 ---
 
