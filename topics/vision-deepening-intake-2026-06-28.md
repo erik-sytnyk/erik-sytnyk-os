@@ -17,7 +17,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
 
 ## Cluster B — Community of financially independent people
 
-- **B1**: _(pending)_
+- **B1**: Комбинация (d) с акцентом на (c). Сообщество зарождается через **Founder OS based nodes** (Single Founder LLC + Founder OS) + **serve units on basic income**. Через кэмп можно подключить **orb residents** (residency by orb) — уровень ~23k + некоторый личный доход. Ключевой критерий: человек обеспечен **базовым доходом, достаточным для комфортной жизни, by Orbios AI frame**. | classification: Founder direction
 - **B2**: _(pending)_
 - **B3**: _(pending)_
 - **B4** (AI frame descriptor): _(pending)_
@@ -46,6 +46,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
 ## Verbatim quotes (worth preserving)
 - (A2) «во время сингуляторного перехода к новой реальности (пост ИИ) доход от ИИ бизнес проектов это возможность среднему классу AI replaced professionals обеспечить себе стабильное будущее»
 - (A2) «наша экосистема на это расчитана используя ИИ фрейм для подключения денежных потоков, заботе о людях через осознано используемые алгоритмы»
+- (B1) «важно что человек обеспечен базовым доходом достаточным для комфортной жизни by Orbios AI frame»
 
 ## Gaps (уточню позже)
 - _(none yet)_
