@@ -24,7 +24,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
 
 ## Cluster C — Orbios nodes mechanism
 
-- **C1**: _(pending)_
+- **C1**: Ближе к (c) — product instance. Но сейчас нода совпадает с регистрацией отдельной LLC (1 нода = 1 LLC + Founder OS instance). Кластеры идут как **внутренние узлы внутри ноды** (sub-nodes), а не самостоятельные ноды. | classification: Founder direction
 - **C2**: _(pending)_
 - **C3**: _(pending)_
 
@@ -55,3 +55,4 @@ intake_spec: templates/intake/founder-vision-deepening.md
 - A2-ответ частично пред-отвечает: B1/B2 (community = AI-replaced средний класс, ИИ-фрейм для денежных потоков), B4 (Founder уже использует термин «ИИ фрейм» органически), C2 (cash flow 30/70), C3 (внешний нод = отдельная компания, правила индивидуально). Сверить при интеграции, чтобы не было противоречий с ответами в блоках B/C.
 - Cap ~3k для внутреннего партнёрства — связать с vision-v1 § 1.5 Founder Support Axiom (UBI baseline) при E1.
 - B2 вводит две новые механики экосистемы: (1) ИИ-фильтрация инфошума, (2) экологичность коммуникаций + нейтрализация токсичности фреймом/периметром. Возможный новый canon-элемент — проверить пересечение с A025/OD-038 privacy firewall и community charter.
+- C1 уточняет иерархию: нода (LLC + Founder OS instance) ⊃ кластеры (внутренние узлы). Сверить с текущей моделью кластеров (UA-01/PH-01/Founder) — сейчас кластеры в orbios-os позиционируются как top-level org units, а в новой vision они = sub-nodes внутри ноды. Потенциальный canon-shift в context/clusters.md.
