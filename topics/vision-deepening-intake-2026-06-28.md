@@ -18,7 +18,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
 ## Cluster B — Community of financially independent people
 
 - **B1**: Комбинация (d) с акцентом на (c). Сообщество зарождается через **Founder OS based nodes** (Single Founder LLC + Founder OS) + **serve units on basic income**. Через кэмп можно подключить **orb residents** (residency by orb) — уровень ~23k + некоторый личный доход. Ключевой критерий: человек обеспечен **базовым доходом, достаточным для комфортной жизни, by Orbios AI frame**. | classification: Founder direction
-- **B2**: _(pending)_
+- **B2**: Оба слоя (c). Founder OS рассчитан на фаундеров как регистраторов нод для подключения доходных потоков; social tooling будет добавляться позже. Важный акцент: ИИ-фильтрация информационного шума и экологичность коммуникаций внутри экосистемы. Токсичные люди нейтрализуются фреймом либо остаются за периметром. | classification: Founder direction
 - **B3**: _(pending)_
 - **B4** (AI frame descriptor): _(pending)_
 
@@ -54,3 +54,4 @@ intake_spec: templates/intake/founder-vision-deepening.md
 ## Agent notes (for Architect)
 - A2-ответ частично пред-отвечает: B1/B2 (community = AI-replaced средний класс, ИИ-фрейм для денежных потоков), B4 (Founder уже использует термин «ИИ фрейм» органически), C2 (cash flow 30/70), C3 (внешний нод = отдельная компания, правила индивидуально). Сверить при интеграции, чтобы не было противоречий с ответами в блоках B/C.
 - Cap ~3k для внутреннего партнёрства — связать с vision-v1 § 1.5 Founder Support Axiom (UBI baseline) при E1.
+- B2 вводит две новые механики экосистемы: (1) ИИ-фильтрация инфошума, (2) экологичность коммуникаций + нейтрализация токсичности фреймом/периметром. Возможный новый canon-элемент — проверить пересечение с A025/OD-038 privacy firewall и community charter.
