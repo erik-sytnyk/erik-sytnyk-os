@@ -61,7 +61,12 @@ intake_spec: templates/intake/founder-vision-deepening.md
 
 ## Cluster E — Canon coherence
 
-- **E1**: _(pending)_
+- **E1**: KEEP всё — выкидывать нечего; три секции обогатить в v2, одну оставить как есть.
+  - **§ 1.5 Founder Support Axiom — KEEP, усилён.** D1 (операционка + финансы на уровень ОС, фаундер освобождён) = прямое подтверждение. Суть не трогать. Связать с новым cap ~$3k (потолок выплаты с одного Orbios-нода) как ориентир, НЕ фикс (сумма по-прежнему вне аксиомы).
+  - **§ 3.5 Partnership 30/70 + cap — KEEP baseline, главный кандидат на расширение в v2.** 30/70 и cap совпадают с ответами C2 (внутренний 70 партнёру / 30 Orbios; внешний 70 сущности / 30 royalty). Добавить: (1) слой личной LLC как stability vehicle (C3), (2) 5 доработок Новы (jurisdiction-safe предмет контракта, SLA/KPI kill-switch, sandbox <$1.5k = Individual Contractor → обязательная LLC выше, external = RevShare+License only, IP принадлежит Orbios).
+  - **§ 4.5 Cluster Autonomous Economics — KEEP, требует сверки иерархии.** C1 переопределил: нода (LLC) ⊃ кластеры (sub-nodes). § 4.5 сейчас делает автономным контуром КЛАСТЕР. В v2: автономный контур = НОДА (юр-уровень), кластер = под-узел. Architect переписывает, чтобы node/cluster не конфликтовали.
+  - **§ 2.5 evolutionary automation — KEEP как есть, подтверждён.** D1 = иллюстрация принципа. Без изменений.
+  | classification: Founder direction (canon coherence map для v2)
 - **E2**: _(pending)_
 - **E3**: _(pending)_
 
