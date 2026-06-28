@@ -53,7 +53,11 @@ intake_spec: templates/intake/founder-vision-deepening.md
   3. **Финансы важны и должны считаться — на уровне ОС, а не фаундером лично.**
   | classification: Founder direction (operational lessons → ADHD design constraint validation)
 - **D2**: Новые критерии hiring lens: **ответственность за результат** + **инициативность (агентность)**. | classification: Founder direction
-- **D3**: _(pending)_
+- **D3**: Переоценка по новому lens:
+  - **Новый юнит TH-01** (ассистент Founder, найм идёт): со старта оценивается в фокусе нового lens (ответственность за результат + агентность).
+  - **Illia / Vianca**: формально работают самостоятельно, но **результаты под вопросом** — нужна проверка на уровне ОС. Illia давно не писал Founder; расходы (списания) при этом, вероятно, шли. Founder ждёт ассистента (TH-01), чтобы она в т.ч. занялась этой проверкой/аудитом активности юнитов.
+  - **Савелова**: Founder **закрывает прямую работу с ней**; в её кластер добавляется ещё один человек для рабочих коммуникаций.
+  | classification: Founder direction (personnel re-evaluation; Tier E)
 
 ## Cluster E — Canon coherence
 
@@ -80,3 +84,4 @@ intake_spec: templates/intake/founder-vision-deepening.md
 - C3 вводит НОВЫЙ canon-элемент «личная LLC как stability vehicle» (декаплинг дохода человека от одной ноды). Founder запросил отдельное Nova-ревью этой модели 2026-06-28 (описание выдано в чате; Nova-фидбек прийдёт отдельным заходом — добавить в этот пакет или в nova-packets/). Architect: при интеграции проверить налоговые/юрисдикционные риски множественных личных LLC и связь с § 3.5 / Founder Support Axiom § 1.5.
 - C3: cap ~3k теперь = потолок выплаты с конкретного Orbios-нода (внутреннее партнёрство), НЕ суммарного дохода личной LLC. Уточнить формулировку § 1.5 при E1.
 - C3 Nova-review получен и утверждён (2026-06-28). Architect: 5 доработок Новы (jurisdiction-safe contract subject, SLA/KPI kill-switch для внутренних операторов, sandbox <$1.5k = Individual Contractor → mandatory LLC выше, external = RevShare+SoftwareLicense only, IP = AI Frame+base prompts принадлежат Orbios) → компилировать в contract templates + vision-v2 § nodes. Рассмотреть отдельный nova-packet, если потребуется полный аудит-трейл (сейчас фидбэк инлайн в этом пакете).
+- D3: подозрение Founder про «результаты под вопросом / списания» по Illia/Vianca — это операционная заметка, НЕ финансовые данные. Реальная финансовая сверка (суммы/транзакции) маршрутизируется в orbios-finance-kb, не сюда (OD-043). D3 валидирует D1.2/D1.3: проверка результатов + финучёт должны жить на уровне ОС, а не в голове Founder. Связать с новой механикой SLA/KPI (Nova-доработка #2) — применима не только к будущим нодам, но и к текущим юнитам.
