@@ -52,7 +52,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
   2. **Внутри ноды — фокус на фаундера, чтобы фаундер мог фокусироваться на работе.** Проблема ADHD = гиперфокус, в т.ч. в ущерб базовым потребностям. Для ADHD-мозга операционка = слив энергии, который того не стоит → обеспечиваем её на уровне ОС: фаундер работает с ОС, ОС делегирует на serve units.
   3. **Финансы важны и должны считаться — на уровне ОС, а не фаундером лично.**
   | classification: Founder direction (operational lessons → ADHD design constraint validation)
-- **D2**: _(pending)_
+- **D2**: Новые критерии hiring lens: **ответственность за результат** + **инициативность (агентность)**. | classification: Founder direction
 - **D3**: _(pending)_
 
 ## Cluster E — Canon coherence
