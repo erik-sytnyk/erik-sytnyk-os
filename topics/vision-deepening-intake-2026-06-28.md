@@ -20,7 +20,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
 - **B1**: Комбинация (d) с акцентом на (c). Сообщество зарождается через **Founder OS based nodes** (Single Founder LLC + Founder OS) + **serve units on basic income**. Через кэмп можно подключить **orb residents** (residency by orb) — уровень ~23k + некоторый личный доход. Ключевой критерий: человек обеспечен **базовым доходом, достаточным для комфортной жизни, by Orbios AI frame**. | classification: Founder direction
 - **B2**: Оба слоя (c). Founder OS рассчитан на фаундеров как регистраторов нод для подключения доходных потоков; social tooling будет добавляться позже. Важный акцент: ИИ-фильтрация информационного шума и экологичность коммуникаций внутри экосистемы. Токсичные люди нейтрализуются фреймом либо остаются за периметром. | classification: Founder direction
 - **B3**: 100–1000, скоррелировано с числом Orbs. Идеально: общее число Orbs ≈ числу вовлечённых людей (1 orb ~ 1 человек). | classification: Founder direction
-- **B4** (AI frame descriptor): _(pending)_
+- **B4** (AI frame descriptor): Принимаем. «AI frame» / «ИИ-фрейм» = канонический дескриптор для Orbios OS. | classification: Founder direction (canon adoption)
 
 ## Cluster C — Orbios nodes mechanism
 
