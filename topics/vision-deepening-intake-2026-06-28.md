@@ -1,6 +1,9 @@
 ---
-status: pending-founder-review (self-intake; Founder also reviewer)
+status: complete-pending-architect-integration (self-intake; Founder = source + reviewer)
 collected: 2026-06-28
+completed: 2026-06-28
+questions: 16/16 answered (0 gaps)
+nova_review: C3 stability-LLC model APPROVED + 5 refinements (2026-06-28)
 collected_via: Cursor session (Mira persona) — founder-vision-deepening intake
 source: Founder
 scope: canon-class vision refinement
@@ -8,6 +11,18 @@ intake_spec: templates/intake/founder-vision-deepening.md
 ---
 
 # Founder vision deepening — 2026-06-28
+
+## Summary (TL;DR для Architect)
+
+Self-intake Founder, 16 вопросов / 5 кластеров, все закрыты (0 gaps). Ключевые сдвиги для vision-v2:
+
+1. **ADHD = design constraint со старта + рынок шире** (обе одновременно); публичное офиширование позиционирования — только после выхода Founder на базовый доход.
+2. **Community = AI-replaced средний класс**, обеспеченный базовым доходом «by Orbios AI frame»; 100–1000 человек, скоррелировано с числом Orbs. «AI frame» принят как канонический дескриптор.
+3. **НОВЫЙ canon-элемент: нода = LLC + Founder OS instance** (кластеры = sub-nodes внутри ноды); **личная LLC как stability vehicle** (декаплинг дохода человека от одной ноды) — **утверждено Nova-ревью + 5 доработок** (jurisdiction-safe контракты, SLA/KPI kill-switch, sandbox <$1.5k, external=RevShare+License, IP→Orbios).
+4. **Cash flow: 30/70 baseline сохраняется**, дефолт благоприятен партнёру (внутр. 30 Orbios/70 партнёру + cap ~$3k; внешн. founder-owner держит большую долю).
+5. **Уроки выгорания → операционка и финансы на уровень ОС**, не Founder лично; hiring lens += ответственность за результат + агентность; переоценка Illia/Vianca (результаты под вопросом), закрытие прямой работы с Савеловой, найм ассистента TH-01.
+6. **Canon coherence:** § 1.5 / § 2.5 / § 3.5 / § 4.5 — keep всё; § 3.5 и § 4.5 обогатить в v2 (node-модель + Nova-доработки + сверка node/cluster иерархии).
+7. **Year-end цели:** камп на минималках + Founder на $3k cap. Hybrid Revenue = мост к $3k; CAMP = часть node-модели (не legacy); RAIVE = секвенсирован (активировать при другом доходе); Aug-4 Orb-build de-mandated.
 
 ## Cluster A — ADHD focus scope
 
@@ -73,7 +88,7 @@ intake_spec: templates/intake/founder-vision-deepening.md
   - **RAIVE — самый перспективный проект, но СЕКВЕНСИРОВАН (re-aim/activate later, НЕ kill, НЕ park-forever).** Активируется, когда обеспечен другой доход (продажа квартиры, заказы на ИИ-автоматизацию, partial CTO). До тех пор не дробит фокус (урок D1.2).
   - **Мета-принцип (важно):** «что угодно, что заработает, пока я единственный ценный ассет компании на продажу — но это уже должно делаться на уровне компании (мой ассистент), а не Founder лично». Сам факт «Founder = единственный продаваемый ассет» = та самая проблема, которую решают D1 + § 1.5.
   | classification: Founder direction (tracks sequencing + revenue-to-company-level)
-- **E3**: _(pending)_
+- **E3**: Да, релевантно. Founder хочет, чтобы milestones планировались **на уровне ИИ-фрейма** (ОС пишет то, что реалистично), а вектор задавался вижном в целом. Конкретика: **постройка Orb убрана как обязательная задача** — времени до Aug-4 уже не хватит. Year-end ориентир (камп на минималках + $3k cap) замещает жёсткий Aug-4 Orb-build framing. | classification: Founder direction (milestone planning → OS-level realistic, Orb build de-mandated)
 
 ## Verbatim quotes (worth preserving)
 - (A2) «во время сингуляторного перехода к новой реальности (пост ИИ) доход от ИИ бизнес проектов это возможность среднему классу AI replaced professionals обеспечить себе стабильное будущее»
@@ -85,7 +100,8 @@ intake_spec: templates/intake/founder-vision-deepening.md
 - (E2) «что угодно что заработает, пока я единственный ценный ассет компании на продажу, но это уже должно делаться на уровне компании (мой ассистент)»
 
 ## Gaps (уточню позже)
-- _(none yet)_
+- Нет отложенных вопросов — все 16 закрыты в сессии.
+- Open Founder gate (вне intake scope): финальное keep/re-aim решение по RAIVE привязано к появлению другого дохода (продажа квартиры / AI-automation orders / partial CTO) — не блокирует интеграцию vision-v2.
 
 ## Agent notes (for Architect)
 - A2-ответ частично пред-отвечает: B1/B2 (community = AI-replaced средний класс, ИИ-фрейм для денежных потоков), B4 (Founder уже использует термин «ИИ фрейм» органически), C2 (cash flow 30/70), C3 (внешний нод = отдельная компания, правила индивидуально). Сверить при интеграции, чтобы не было противоречий с ответами в блоках B/C.
@@ -96,3 +112,5 @@ intake_spec: templates/intake/founder-vision-deepening.md
 - C3: cap ~3k теперь = потолок выплаты с конкретного Orbios-нода (внутреннее партнёрство), НЕ суммарного дохода личной LLC. Уточнить формулировку § 1.5 при E1.
 - C3 Nova-review получен и утверждён (2026-06-28). Architect: 5 доработок Новы (jurisdiction-safe contract subject, SLA/KPI kill-switch для внутренних операторов, sandbox <$1.5k = Individual Contractor → mandatory LLC выше, external = RevShare+SoftwareLicense only, IP = AI Frame+base prompts принадлежат Orbios) → компилировать в contract templates + vision-v2 § nodes. Рассмотреть отдельный nova-packet, если потребуется полный аудит-трейл (сейчас фидбэк инлайн в этом пакете).
 - D3: подозрение Founder про «результаты под вопросом / списания» по Illia/Vianca — это операционная заметка, НЕ финансовые данные. Реальная финансовая сверка (суммы/транзакции) маршрутизируется в orbios-finance-kb, не сюда (OD-043). D3 валидирует D1.2/D1.3: проверка результатов + финучёт должны жить на уровне ОС, а не в голове Founder. Связать с новой механикой SLA/KPI (Nova-доработка #2) — применима не только к будущим нодам, но и к текущим юнитам.
+- E3: Aug-4 Plan Minimum (OD-074 § 1) требует обновления — Orb-build снят как обязательная задача (времени не хватит). Milestone-планирование переносится на уровень ИИ-фрейма (ОС пишет реалистичные milestones), вектор задаёт вижн. Architect: при v2 синхронизировать OD-074 Aug-4 framing + state-of-orbios snapshot с year-end ориентиром (камп на минималках + $3k cap).
+- Интеграционный путь (per spec): self-intake → Founder self-review → Architect drafts vision-v2 (или amendments к v1) + state-of-orbios snapshot (pivot v1→v2) + cross-canon coherence audit + contract templates (Nova-доработки) → PROPOSED → Founder ratify → landed.
