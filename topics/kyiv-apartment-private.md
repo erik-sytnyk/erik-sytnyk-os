@@ -104,7 +104,7 @@ From intake captures:
 
 If she pressures on any item in this file: «канон уже зафиксирован, обсуждение через Communicator». No long argumentation; no defending position; canon stands.
 
-## 6. Family conversation log — 2026-06-28/29 weekend
+## 6. Family conversation log — June 2026 extended
 
 ### 6.1 Founder direction (verbatim — to sister Katya)
 
@@ -121,28 +121,132 @@ If she pressures on any item in this file: «канон уже зафиксир�
 - Founder explicit «теплых родственных отношений я уже не вижу» = consistent с A023 containment frame + A025/OD-038 privacy firewall. Operational shift, not new policy.
 - Founder direction «нужен кто-то с мамой иметь дело» = explicit Communicator candidate need. Elena Ivanovna surfaced as candidate (see § 6.3).
 
-### 6.3 Elena Ivanovna — UA-02 acting Communicator candidate
+### 6.3 Elena Ivanovna — UA-02 acting Communicator candidate (HIGH CONFIDENCE)
 
-From Mama's message forwarded 2026-06-28 23:50:
-- Elena Ivanovna agreed to help (Mama's words)
-- Knows family через Katya's old company «на Громова»
-- Has Founder's Telegram contact (provided by Katya)
-- Has Mama's Telegram contact
-- May write to Mama directly
+**Update 2026-06-29** — Katya's full description significantly strengthens candidate profile:
 
-**Status**: candidate surfaced; awaiting actual contact event (Elena Ivanovna → Mama OR Founder).
+- **Sveta's mother** (Katya's friend's mama)
+- **Professional bookkeeper + handles organizational issues for firms** (Katya verbatim: «она фирмам делает бухгалтерию и орг вопросы»)
+- **Sold apartment с Sveta** — direct domain experience (Katya verbatim: «квартиру они продавали со Светой»)
+- **Katya routed money к Ukraine через неё годами** — proven reliability (Katya verbatim: «я через нее деньги проводила в Украину годами»)
+- **Budget**: $500-1k (Katya negotiated with her)
+- **Vetted by independent third party** (Katya as referral source, not Mama)
 
-**Architect framing**: if Elena Ivanovna actually picks up Communicator role (active comms with Mama on apartment topics), this is **structural relief** for Founder:
-- Frees Founder from direct mama-contact load (Charter § 7 protected time + intake D1.2 ADHD focus protection)
-- Provides redundancy с Tatiana (current UA-02 Communicator-acting)
-- Three-relay structure (Tatiana + Elena Ivanovna + future TH-01-01 Liza coordinator) = robust
+**Architect verdict (updated)**: fit signal upgrade from «candidate surfaced» → **HIGH CONFIDENCE**:
+- Qualified (bookkeeper + organizational; matches apartment-sale ops scope precisely)
+- Vetted by Katya (independent vs Mama's framing)
+- Domain experience (она реально продавала квартиру)
+- Reasonable budget ($500-1k); aligns с Founder's stated «$500 for TH POA trip costs + $2k allowance for operational expenses» framing
+- Trust track record (multi-year money routing)
 
-**Required from Founder** (when Elena Ivanovna contact materializes):
-- R5 personnel ratify: accept Elena Ivanovna into UA-02 Communicator role OR decline
-- Scope spec: what she handles vs what stays with Tatiana
-- Boundaries: NO access к founder-private, NO money decisions, NO Founder-direct contact except periodic check-in
+**Status**: awaiting actual contact event (Elena Ivanovna → Founder via Telegram per Mama's forwarded message 2026-06-28). When materializes → recommend Founder R5 **GO** ratify.
+
+**Architect framing** (unchanged): structural relief for Founder per Charter § 7 + intake D1.2 ADHD focus protection. Three-relay structure (Tatiana + Elena Ivanovna + Liza coordinator) = robust.
+
+**Required from Founder** (when contact materializes):
+- R5 personnel ratify (Architect recommends GO)
+- Scope spec: Elena = primary Mama-comm channel + sale ops + accounting; Tatiana = HR-coordinator + on-the-ground; Liza (TH-01-01) = workflow coordinator + Founder-side relay
+- Boundaries: NO founder-private access, NO unilateral money decisions, NO Founder-direct contact except periodic check-in
+- Budget approval: $500-1k Elena fee (within Founder's existing $2k allowance framing)
 
 **Not yet canon**. Logged here as audit trail.
+
+### 6.5 Extended conversation log — 2026-06-05 → 2026-06-29
+
+Founder direction Katya 2026-06-26 (verbatim, key excerpts):
+> «Денег с квартиры готов выделить сколько надо за адекватную помощь.»
+> «И в общем это ценится как услуга которую ещё может придется оказать обратно.»
+> «Помочь продать квартиру через доверенность на маму это то что я прошу тебя Катерину как адекватную сестру, других вопросов предлагаю до продажи квартиры не поднимать.»
+
+Founder direction Katya 2026-06-27/28 (POA + comms architecture clarification):
+> «Я с мамой рабочих дел иметь не хочу, у меня нет иллюзий на сколько это разрушительно для меня и моей компании.»
+> «Важно именно изоляция от общения с мамой по рабочим вопросам.»
+> «Доверенность я могу и на другого человека написать, на Леню например или Светину маму, но деньги то все-равно на мамин счет переводить надо.»
+
+Founder budget direction 2026-06-28:
+> «АИ подсчитала общую сумму которую необходимо отложить на поездку и проживание в Бангкоке 3 дня — это 500 долларов» (flight + hotel near embassy + 7-eleven food + POA notarization + courier + taxi)
+> «я на все рассчитываю из суммы +2 к которую мы ранее оговаривали» (signals existing $2k+ allowance pre-agreed)
+
+Founder pattern recognition direction Katya 2026-06-28:
+> «Надо сказать что у мамы сложный характер и не устойчивая психика (нервы). Поэтому мне как её сыну иметь рабочие вопросы с ней нельзя особенно после срыва от банкротства компании.»
+> «А дело важное и нужен человек чтобы вести проект, а Татьяна будет помогать по мере возможности и в рамках адекватности.»
+
+Sister Katya volatility — pattern recognition:
+- 2026-06-05: «я с вами общаться не буду. Идите нахер...»
+- 2026-06-26-27: opens up, agrees to help, finds Elena Ivanovna через Sveta
+- 2026-06-29: blocked → unblocked → blocked again cycle continues
+- Volatile contact channel; not reliable for sustained ops; but did surface Elena Ivanovna (high-value referral)
+
+---
+
+## 7. Tatiana investor claim 2026-06-29 (NOT Founder-ratified)
+
+**Tatiana message verbatim 2026-06-29 14:29** (forwarded Mama channel):
+
+> «Очень волнуюсь за свою инвестицию 7k это была часть моей подушки безопасности, значительная её часть. Возврат на инвестицию ожидаю сразу в день сделки.»
+>
+> «Катя прошу тебя остальные 2k переслать на бизнес счёт, я согласовала с эриком именно бизнес-счет; ранее пересланная часть моей инвестиции мной контролируется как инвестором; на сегодня она продолжает работать как минимум для психического равновесия меня, но прежде всего Эрика. 2k тоже буду контролировать на целевое назначение — это оплата Елене Ивановне и ещё одной помощницы для Елены Ивановны в рутинной работе плюс трата на доверенность со всеми попутными расходами.»
+
+### Architect filter
+
+**Verbatim capture**: ✅ done above (audit trail)
+
+**Claims breakdown**:
+- $7k claim — «existing investment», she expects return on sale day
+- $2k claim — «still to come from Katya», she wants to «control» usage для Elena Ivanovna fee + helper + POA expenses
+- Total $9k claim
+
+**Status**: HER UNILATERAL framing. NOT Founder-ratified investment terms.
+
+**Reconciliation gaps vs existing canon**:
+
+| Tatiana claim | Founder current thinking (§ 1.2) | Gap |
+|---------------|----------------------------------|-----|
+| $7k existing investment + return on sale | $10-20k «emergency fund для Savelova + Founder» | Her $7k could be subset of $10-20k bucket; she frames as standalone «investment with return», not joint emergency fund |
+| Controls $2k for Elena + helper + POA | Founder direction: $2k allowance pre-agreed, scope «operational expenses» | Founder agreed to allocate $2k; she now claims unilateral «control» over disposition — pressure pattern |
+| «Return on investment on sale day» | No agreed return timing/amount | Her framing imposes timeline; not part of Founder R5 decision yet |
+
+**🚩 Pressure pattern flags**:
+
+1. **«Я контролирую как инвестор»** — positioning herself as decision authority over money flow she's not legally party to (Katya's $2k transfer, business account usage)
+2. **«Investment + return»** language — frames as formal investment contract when reality may be informal family money flow without documented terms
+3. **«Психическое равновесие меня но прежде всего Эрика»** — emotional manipulation embedded in money framing (per intake pressure vector log § 4)
+4. **«Согласовала с эриком именно бизнес-счет»** — claim of prior Founder agreement that may not match Founder's actual position; verify
+
+**Documentation gap** (if real loan, would need):
+- Bank transfer records showing $7k movement to Founder/Orbios accounts
+- Date stamps + amounts + counterparties
+- Any signed loan agreement OR informal correspondence agreeing terms
+- Interest rate (if any) OR explicit «no-interest» framing
+- Expected repayment date
+
+If documentation absent → claim = unverified; Founder R5 gate at apartment close-ready will need to reconcile.
+
+**Architect recommendation**:
+
+1. **Capture verbatim** (✅ done above) — audit trail закрыт; she cannot later say «we agreed differently»
+2. **Do NOT canonize her claim** as agreed investment terms; vision-v1 § 5 / A026 already classifies her as A023-contained Investor — refining her position requires Founder R5 ratify, not Tatiana unilateral framing
+3. **Verification task** (post Liza Phase 1 + Vianca Phase 2 finance audit): cross-check $7k claim against actual financial records; reconcile claim vs reality
+4. **Money R5 at apartment close-ready**: Founder ratifies final distribution — her claim is INPUT, not OUTPUT
+5. **A023 containment frame holds** — her «investor» framing does NOT promote her to regular Investor class; stays A023 specifically
+
+**No new tier or class change**. Existing canon (A023 + OD-038 + vision-v1 § 5 / A026) covers situation correctly.
+
+### 7.1 Money plan reconciliation (open, NOT canon)
+
+Open Founder R5 gate at apartment close-ready:
+
+| Allocation | Source | Status |
+|------------|--------|--------|
+| ~$13.3k → Founder TH account | Tatiana plan (intake 2026-06-24) | Pre-existing claim, captured |
+| $10k → Alisa fund | Both plans converge | High consensus, likely ratified at close |
+| $10k → «фонд Татьяны» (intake) OR $7k «her investment return» (2026-06-29) | Tatiana plan(s) — internal contradiction в её own framing | Verify; reconcile |
+| $10-20k → emergency fund (Founder) | Founder current thinking | NOT yet ratified |
+| Debts Katerina @ 17% Monobank | Tatiana intake | Verify reality of these debts |
+| AU transfer portion | Founder current thinking | NOT yet ratified |
+| Business cushion / cap rest | Both plans | High consensus on residual flow |
+
+This table is INPUT for Founder R5 gate at close-ready. Architect updates as new info lands.
 
 ### 6.4 Implications for new hire (Liza / TH-01-01)
 
