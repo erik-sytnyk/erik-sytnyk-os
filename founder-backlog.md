@@ -173,7 +173,7 @@ Architect grep'ит файл при старте каждой сессии и п
 ### T-015 — Nana exit alternatives — Architect proposes options before construction
 - **Owner:** architect (option surface) + founder (decision) + thai lawyer (execution)
 - **Type:** research + action
-- **Status:** open
+- **Status:** in-progress
 - **Trigger:** now (architectural homework before CAMP construction unblocks)
 - **Acceptance:**
   1. Architect drafts option matrix for Nana exit from CAMP ownership: buy-out at 25k THB (current canon), share transfer to Anna (50/97 or full), transfer to future Thai partner (T-014), dilution via new shareholder structure, sale to deal-structurer / outside investor, legal forced-exit mechanisms (Thai law), wait + leverage non-cash levers
@@ -181,6 +181,7 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Founder reviews + picks path (or hybrid)
   4. Picked path → M006 Task 1 updated + Thai lawyer engaged
 - **Notes:** Founder direction 2026-06-02 (Nova packet (f)) — «ОС должна предлагать альтернативы если возможно, сейчас вопрос как убрать токсичного паразита Нану из наших кэмп партнеров перед началом строительства, Анна заинтересована в работе». Anna = ONE option, not predetermined. Thanan = contractor not partner (different class). Architect homework: draft option matrix in next session.
+  - **Update 2026-06-27:** Founder left 25k THB with Anna (new Thai partner) for Nana's exit to secure the land document, keys, and car technical passport. Once documents/keys are received, Orb construction planning can begin.
 
 ### T-016 — Orb 1 site selection (Camp 0 plot placement)
 - **Owner:** founder + Anna (external)
@@ -489,6 +490,62 @@ Architect grep'ит файл при старте каждой сессии и п
   2. Не ждать active inbound; если notification приходит — review case-by-case
   3. Если 0 за 3 месяца от today (cutoff 2026-09-26) → archive entirely; remove from tooling
 - **Notes:** Per state-of-orbios 2026-06-26 priority pivot — Toptal de-prioritized; REVENUE focus shifted to Patrik partnership + apartment sale + active outbound pipeline. Not a source of runway expectation anymore.
+
+### T-046 — TH-01-01 (Liza) onboarding — Founder personal assistant + TH-01 sub-node deployment
+- **Owner:** founder (gate decisions) → Liza (self-deployment per Founder direction)
+- **Type:** infrastructure + onboarding + sub-node bootstrap
+- **Status:** open (newly opened 2026-06-29; Founder hire ratified post questionnaire review)
+- **Trigger:** Yoan-found candidate (₽200 placement); Founder questionnaire review 2026-06-29 → fit verdict GO
+- **Candidate:** Новикова Елизавета Антоновна, 23, currently not employed; questionnaire indicates strong responsibility orientation + AI tools comfort + admin process experience (beauty salon network) + social media (IG/TikTok content)
+- **Scope:** Founder personal assistant в контуре TH-01 cluster; focus = Founder Track A support + UA-02 apartment sale coordination
+- **Acceptance (phased):**
+  - **Phase 0** (week 1): Email `th01.orbios@gmail.com` registered → Cursor Pro purchased on that email ($20/mo, TH-01 envelope pre-auth) → Discord registration + Orbios server TH-01 channel access → GitHub account + orbios-os read-only access → Read assignment (vision + manifest § Tracks + Charter v1 + Vector persona)
+  - **Phase 1** (weeks 1-2): First mission Founder Track A schedule organization + apartment sale UA-02 coordination kickoff (Founder Track A schedule = low-stakes learning surface; UA-02 coordination = primary long-term scope)
+  - **Phase 2** (weeks 2-4): Activity audit Illia/Vianca per intake D3 + Founder Track A maintenance routine + TH-01 sub-node self-deployment (Liza builds `clusters/th-01/` docs)
+  - **Phase 2 graduation:** ≥3 missions accepted без quality issues + activity audit complete + apartment sale workflow autonomous (Founder pinged только R5)
+- **Boundaries (critical):**
+  - Liza **does NOT contact A023-perimeter directly** (Mama). Mama-contact load stays with relay layer (Tatiana + Elena Ivanovna candidate per T-047).
+  - Apartment work routed: Liza → Tatiana / Elena Ivanovna / Sergey Treshchev (Kyiv lawyer per T-048) / DHL / Thai notary
+  - NO founder-private substantive write access initially (read OK per Privacy Mode); escalates if Phase 2 graduation + Founder ratify
+  - Compensation tier: Individual Contractor sandbox (income < $1.5k/mo per vision-v2 § 3.5 sandbox); LLC required if/when threshold crossed
+- **Tooling:** Cursor (Privacy Mode ON) + Discord + Google Workspace (TH-01 alias on existing seat OR new seat per R5 money pre-auth)
+- **Notes:** First TH-01 sub-node deployment. Vision-v2 § 4 node/sub-node hierarchy applies (TH-01 = sub-node within Orbios node per current PROPOSED v2; vision-v1 § 4 cluster framing also valid). Onboarding docs will reside in `clusters/th-01/` (Liza-built per Founder direction «она сама развернёт кластер»). Cross-ref T-047 (Elena Ivanovna Communicator), T-048 (Sergey Treshchev Kyiv lawyer DM), T-049 (activity audit Illia/Vianca).
+
+### T-047 — Elena Ivanovna — UA-02 acting Communicator candidate (R5 pending)
+- **Owner:** founder (R5 gate) → relay only after ratify
+- **Type:** R5 personnel candidacy
+- **Status:** open (candidate surfaced 2026-06-28; awaiting actual contact event)
+- **Trigger:** Mama message 2026-06-28 — Elena Ivanovna agreed to help; knows family через Katya's old company «на Громова»; has Founder + Mama Telegram contacts
+- **Acceptance (pending Founder R5):**
+  1. Initial contact event materializes (Elena Ivanovna → Mama OR Founder)
+  2. Founder R5 ratify gate: accept role OR decline
+  3. Scope spec drafted (what Elena handles vs Tatiana keeps): apartment-sale specific topics OR general comms with Mama OR specific event coordination
+  4. Boundaries documented: NO founder-private access; NO money decisions; NO Founder-direct contact except periodic check-in
+  5. Three-relay structure formalized in UA-02 cluster docs: Tatiana (HR-coordinator + sale execution) + Elena Ivanovna (Communicator) + future TH-01-01 Liza (work-flow coordinator)
+- **Notes:** Structural relief value — frees Founder from direct Mama-contact load per Charter § 7 protected time + intake D1.2 ADHD focus protection. Provides redundancy с Tatiana. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 6.3.
+
+### T-048 — Sergey Treshchev (Kyiv lawyer) — Instagram DM
+- **Owner:** founder
+- **Type:** action
+- **Status:** open (carry-forward from thai-notary-poa intake integration 2026-06-25)
+- **Trigger:** 15 min Founder action — outbound DM
+- **Acceptance:**
+  1. Instagram DM sent: «Can your firm do PoA to which stage; minimum stage-1 Thai notary for UA-EN text without extra translation»
+  2. Response logged to private playbook
+  3. If positive — proceed with engagement; this becomes the licensed Thai notary path gap closure (T23 unlock)
+- **Notes:** Was in queue as future Founder execute. Now becomes Liza dispatch task if Liza Phase 1 ramp covers UA-02 coordination scope (sending DM = simple coordination task). Founder may also do directly. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 3.1 private-only action path.
+
+### T-049 — Activity audit Illia/Vianca (Phase 2 deliverable for TH-01-01 / Liza)
+- **Owner:** TH-01-01 (Liza) once Phase 2 trigger fires
+- **Type:** audit + reporting
+- **Status:** blocked on T-046 Phase 2 trigger
+- **Trigger:** Liza Phase 2 entry (≥2 weeks operational + Phase 1 missions accepted)
+- **Acceptance:**
+  1. Activity report Illia (UA-01-01 interim Speaker PH-01): mission completions per week last 4 weeks, time logged, expense lines flagged for Founder review
+  2. Activity report Vianca (PH-01-01): same scope
+  3. Gaps identified explicitly (no Founder direct contact periods, missing status updates, expense items without mission link)
+  4. Founder R5 gate at end: continue / re-evaluate / restructure per unit
+- **Notes:** Per intake D3 Founder direction — «результаты под вопросом», «расходы шли, Illia давно не писал Founder». NOT pre-emptive personnel decision; audit-first → data-grounded R5 gate. Activity audit ≠ financial audit (financial reconciliation = orbios-finance-kb scope per OD-043). Liza role = surface activity data + structure presentation for Founder review.
 
 ### T-045 — LinkedIn delegation surface — isolated Windows account + remote session
 - **Owner:** founder (setup) → Vianca (operator)

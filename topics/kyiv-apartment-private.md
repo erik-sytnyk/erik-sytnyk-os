@@ -104,6 +104,53 @@ From intake captures:
 
 If she pressures on any item in this file: «канон уже зафиксирован, обсуждение через Communicator». No long argumentation; no defending position; canon stands.
 
+## 6. Family conversation log — 2026-06-28/29 weekend
+
+### 6.1 Founder direction (verbatim — to sister Katya)
+
+> «То что у тебя такая токсичная мать это твоя заслуга тоже, это отвратительное поведение тобой допускается в общении, а потом она привыкает так с детьми себя вести... все что ты услышала от нее, те вопли о том как мне нужно помогать это была не помощь мне, а ваша не здоровая психодинамика которую ты сама допускала.»
+
+> «Давайте квартиру продадим, чтобы у всех все базово было ОК, в том числе я готов что-то отложить на мать и основные вопросы закрыты, теплых родственных отношений я уже не вижу.»
+
+> «нужен кто-то кто с мамой будет иметь дело.»
+
+### 6.2 Operational signals from log
+
+- Sister Katya: blocked → unblocked → blocked again pattern with mama (volatile contact channel)
+- Founder direction: «готов что-то отложить на мать» — ADD к money plan § 1.2 (Founder current thinking — fold into «фонд Татьяны» line as small allocation OR keep separate). NOT canon yet; awaits final money R5 gate at apartment close-ready.
+- Founder explicit «теплых родственных отношений я уже не вижу» = consistent с A023 containment frame + A025/OD-038 privacy firewall. Operational shift, not new policy.
+- Founder direction «нужен кто-то с мамой иметь дело» = explicit Communicator candidate need. Elena Ivanovna surfaced as candidate (see § 6.3).
+
+### 6.3 Elena Ivanovna — UA-02 acting Communicator candidate
+
+From Mama's message forwarded 2026-06-28 23:50:
+- Elena Ivanovna agreed to help (Mama's words)
+- Knows family через Katya's old company «на Громова»
+- Has Founder's Telegram contact (provided by Katya)
+- Has Mama's Telegram contact
+- May write to Mama directly
+
+**Status**: candidate surfaced; awaiting actual contact event (Elena Ivanovna → Mama OR Founder).
+
+**Architect framing**: if Elena Ivanovna actually picks up Communicator role (active comms with Mama on apartment topics), this is **structural relief** for Founder:
+- Frees Founder from direct mama-contact load (Charter § 7 protected time + intake D1.2 ADHD focus protection)
+- Provides redundancy с Tatiana (current UA-02 Communicator-acting)
+- Three-relay structure (Tatiana + Elena Ivanovna + future TH-01-01 Liza coordinator) = robust
+
+**Required from Founder** (when Elena Ivanovna contact materializes):
+- R5 personnel ratify: accept Elena Ivanovna into UA-02 Communicator role OR decline
+- Scope spec: what she handles vs what stays with Tatiana
+- Boundaries: NO access к founder-private, NO money decisions, NO Founder-direct contact except periodic check-in
+
+**Not yet canon**. Logged here as audit trail.
+
+### 6.4 Implications for new hire (Liza / TH-01-01)
+
+- Liza explicitly **does NOT contact A023-perimeter directly** (Mama).
+- Apartment work routed: Liza → Tatiana / Elena Ivanovna / Sergey Treshchev (Kyiv lawyer) / DHL / Thai notary — clean operational scope.
+- Mama-contact load stays with relay layer (Tatiana + Elena Ivanovna).
+- Liza coordinates work flow + tracks task progress + escalates to Founder R5 gates only.
+
 ## Cross-refs
 
 - `clusters/ua-02/active_missions.md` UA-02-M001 (public mission)
