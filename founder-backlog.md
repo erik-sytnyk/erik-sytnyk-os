@@ -535,6 +535,18 @@ Architect grep'ит файл при старте каждой сессии и п
   3. If positive — proceed with engagement; this becomes the licensed Thai notary path gap closure (T23 unlock)
 - **Notes:** Was in queue as future Founder execute. Now becomes Liza dispatch task if Liza Phase 1 ramp covers UA-02 coordination scope (sending DM = simple coordination task). Founder may also do directly. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 3.1 private-only action path.
 
+### T-051 — Cursor models availability context — periodic maintenance
+- **Owner:** TH-01-01 (Liza) once Phase 1 + Founder (initial seed)
+- **Type:** infrastructure / context maintenance
+- **Status:** open (newly opened 2026-06-29 per Founder direction «может тебе нужно добавить контекст из того что доступно в курсор позже»)
+- **Trigger:** Architect drift on model names (referenced «Gemini 2.0 Flash» when actual = «Gemini 3.5 Flash»); model availability changes periodically; Architect/Lana/Mira recommendations need current accurate model list
+- **Acceptance:**
+  1. Create `context/tooling/cursor-models-available.md` (NEW file) — current Cursor models list + capabilities + jurisdiction (Privacy Mode / ZDR status)
+  2. Cross-link from `.cursorrules` Router (model recommendations per persona) + `templates/intake-activation-prompt.md` § Source profile + tone (model recommendations per profile)
+  3. **Maintenance cadence**: Liza/TH-01-01 checks Cursor model selector weekly (Phase 2+), updates file if changed
+  4. Foudner refresh on major Cursor releases / model deprecations
+- **Notes:** Prevents Architect/Mira/Lana from referencing stale model names. Files currently mention old model versions (Gemini 2.0 vs current 3.5). Source-of-truth file lets specs reference canonical list, not paraphrase from memory. Aligns с `feedback_sop_authority_precedence` (cite source, не paraphrase). Cross-ref: `templates/intake-activation-prompt.md` § Source profile + tone; `templates/intake/savelova-apartment-status.md` § Model selection guidance; `agent/personas/*.md` model recommendations per persona.
+
 ### T-050 — Architect + Lana persona updates — SOP authority precedence + pre-flight coherence check
 - **Owner:** architect (drafts PROPOSED) → founder (ratify gate per OD-062)
 - **Type:** canon-class persona update
