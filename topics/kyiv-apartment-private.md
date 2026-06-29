@@ -100,6 +100,44 @@ From intake captures:
 - **Runway urgency weaponization (same intake):** «Erik мало денег», PoA «тормозит месяцами», agencies block showings — factual pressure mixed with emotional leverage. Founder pace ≠ participant urgency per Charter § 7.
 - **ChatGPT all-in-one TH firm (same intake):** participant cites unverified «company does all 3 steps for extra fee» — skepticism flag; verify via Treshchev consult before Erik books anything.
 
+### 4.1 — Apartment status intake 2026-06-29 pressure patterns (NEW catalog)
+
+From `input/dump/savelova/topics/apartment-status-2026-06-29.md` (intake completed with Mira Gemini 3.5 Flash — tone discipline held; pressure patterns embedded в substance):
+
+- **Role unilateral redefinition**: Tatiana defines Elena Ivanovna = «менеджмент, принятие решений», себя = «промпт-инженеринг» — assigns hierarchy where Elena «manages» her. **Conflicts с Founder scope** (Elena = Communicator + bookkeeping + POA per § 6.3; Tatiana = on-ground + HR-coord). NOT canon; pressure pattern логирован.
+
+- **«From Erik nothing required to activate Elena»**: bypass framing for Elena Ivanovna R5 ratify gate (T-047). Founder R5 ratify 2026-06-29 (R5-A): **proceed Elena Ivanovna activation per Founder direction**; Tatiana's framing cannot gate-keep.
+
+- **«Elena's authority push Erik»** verbatim:
+  > «Скорее всего под влиянием авторитета Елены Эрик будет ехать в Бангкок. чтобы выполнить Все этапы»
+  
+  🚩 Using projected future Elena authority как leverage to direct Founder action. **Founder pace ≠ projected external authority**. Notarization path decision deferred per R5-C until Treshchev response (T-048) lands.
+
+- **NEW «лендеры» framing**:
+  > «опасения у потенциальных заимодавцев (Лёня, Катя)»
+  
+  - Лёня (Leonid) — prior tenant per UA-02-M001-T19 (already in canon as «not a broker»; tenancy history scope)
+  - Katya (sister) — earlier framed как pure referral source (surfaced Elena Ivanovna)
+  - Both now framed as «потенциальные заимодавцы» = debt creditors framework
+  
+  **Founder R5 ratify 2026-06-29 (R5-E): REJECT framing**. Treated as pressure layering through новые stakeholders Founder не ratified. If real debt → require documentation (bank transfers, signed agreements). Default: pressure pattern, not canon.
+
+- **Active undermining Elena Ivanovna activation**:
+  > «Я не понимаю зачем отвлекать Елену Ивановну от её бухгалтерской работы все вопросы можно консультироваться через АИ у юристов в банке»
+  
+  🚩 Direct attempt to un-ratify Elena Ivanovna activation. Rationale «избыточно, AI + bank lawyers sufficient» — does NOT match Founder's stated need для relay layer (intake D1.2 ADHD focus protection + Charter § 7 protected time + private playbook § 6.3 structural relief).
+  
+  **Founder R5 ratify 2026-06-29 (R5-A): activation proceeds**. Tatiana's gate-keeping rejected.
+
+- **Direct blame framing**:
+  > «блокирует мою работу. Эрик»
+  
+  🚩 Founder pace blame framing. Founder pace = Founder R5 protected time, не Tatiana's urgency.
+
+### 4.2 — POA review chain ratified (R5-B)
+
+**Per Founder direction 2026-06-29 (R5-B)**: POA review chain = **Founder reads FIRST → optional Elena Ivanovna legal review AFTER Founder confirm**. NOT reverse (intake suggested Elena → Founder; rejected as inverting authority chain — POA contains Founder personal authority, Founder reviews first).
+
 ## 5. Defense narrative (one-liner)
 
 If she pressures on any item in this file: «канон уже зафиксирован, обсуждение через Communicator». No long argumentation; no defending position; canon stands.

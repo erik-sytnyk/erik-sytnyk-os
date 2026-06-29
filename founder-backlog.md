@@ -511,7 +511,7 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Tooling:** Cursor (Privacy Mode ON) + Discord + Google Workspace (TH-01 alias on existing seat OR new seat per R5 money pre-auth)
 - **Notes:** First TH-01 sub-node deployment. Vision-v2 § 4 node/sub-node hierarchy applies (TH-01 = sub-node within Orbios node per current PROPOSED v2; vision-v1 § 4 cluster framing also valid). Onboarding docs will reside in `clusters/th-01/` (Liza-built per Founder direction «она сама развернёт кластер»). Cross-ref T-047 (Elena Ivanovna Communicator), T-048 (Sergey Treshchev Kyiv lawyer DM), T-049 (activity audit Illia/Vianca).
 
-### T-047 — Elena Ivanovna — UA-02 acting Communicator candidate (R5 pending)
+### T-047 — Elena Ivanovna — UA-02 acting Communicator candidate (R5 RATIFIED 2026-06-29 — proceed)
 - **Owner:** founder (R5 gate) → relay only after ratify
 - **Type:** R5 personnel candidacy
 - **Status:** open (candidate surfaced 2026-06-28; awaiting actual contact event)
@@ -522,7 +522,7 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Scope spec drafted (what Elena handles vs Tatiana keeps): apartment-sale specific topics OR general comms with Mama OR specific event coordination
   4. Boundaries documented: NO founder-private access; NO money decisions; NO Founder-direct contact except periodic check-in
   5. Three-relay structure formalized in UA-02 cluster docs: Tatiana (HR-coordinator + sale execution) + Elena Ivanovna (Communicator) + future TH-01-01 Liza (work-flow coordinator)
-- **Notes:** Structural relief value — frees Founder from direct Mama-contact load per Charter § 7 protected time + intake D1.2 ADHD focus protection. Provides redundancy с Tatiana. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 6.3.
+- **Notes:** Structural relief value — frees Founder from direct Mama-contact load per Charter § 7 protected time + intake D1.2 ADHD focus protection. Provides redundancy с Tatiana. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 6.3. **2026-06-29 R5-A ratified: activation PROCEEDS** despite Tatiana's «избыточно» framing (intake 2026-06-29 § 4.1 pressure pattern logged). Per Founder direction: Tatiana's gate-keeping does NOT override Founder R5; Elena Ivanovna joins UA-02 as Communicator per Katya referral path.
 
 ### T-048 — Sergey Treshchev (Kyiv lawyer) — Instagram DM
 - **Owner:** founder
@@ -534,6 +534,19 @@ Architect grep'ит файл при старте каждой сессии и п
   2. Response logged to private playbook
   3. If positive — proceed with engagement; this becomes the licensed Thai notary path gap closure (T23 unlock)
 - **Notes:** Was in queue as future Founder execute. Now becomes Liza dispatch task if Liza Phase 1 ramp covers UA-02 coordination scope (sending DM = simple coordination task). Founder may also do directly. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 3.1 private-only action path.
+
+### T-052 — Kyiv RE lawyer engagement — formal gate (R5-D)
+- **Owner:** founder (R5 gate)
+- **Type:** R5 personnel + money
+- **Status:** open (per intake 2026-06-29 — participant созвонилась с Kyiv RE lawyer; готов сопровождать сделку за плату)
+- **Trigger:** Founder R5-D ratify 2026-06-29 = **Formal Gate** before engagement
+- **Acceptance:**
+  1. Participant shares lawyer **name + контакт + experience**
+  2. **Scope spec** drafted: what lawyer does (RE sale escort / contract review / closing supervision / etc.)
+  3. **Budget** explicit (fee structure, hourly OR flat, NO hidden commissions per OD-063 «no brokers» — lawyer ≠ broker)
+  4. Founder R5 ratify gate: engage OR decline
+  5. If engage: written agreement + payment terms documented
+- **Notes:** Per Founder R5 ratify 2026-06-29 (R5-D): formal gate stance. NOT engage blind per participant assertion. Validates that lawyer = legitimate paid escort (not commission broker which would violate OD-063). Cross-check с Sergey Treshchev (T-048 — Phuket-side Kyiv lawyer) — может быть same person OR different option; compare. Budget should fit within existing ~$2k operational allowance framing per private playbook § 7.
 
 ### T-051 — Cursor models availability context — periodic maintenance
 - **Owner:** TH-01-01 (Liza) once Phase 1 + Founder (initial seed)
