@@ -535,6 +535,19 @@ Architect grep'ит файл при старте каждой сессии и п
   3. If positive — proceed with engagement; this becomes the licensed Thai notary path gap closure (T23 unlock)
 - **Notes:** Was in queue as future Founder execute. Now becomes Liza dispatch task if Liza Phase 1 ramp covers UA-02 coordination scope (sending DM = simple coordination task). Founder may also do directly. Cross-ref `modules/founder-private/topics/kyiv-apartment-private.md` § 3.1 private-only action path.
 
+### T-050 — Architect + Lana persona updates — SOP authority precedence + pre-flight coherence check
+- **Owner:** architect (drafts PROPOSED) → founder (ratify gate per OD-062)
+- **Type:** canon-class persona update
+- **Status:** open (deferred — Founder direction 2026-06-29 «оставь в очереди на потом»)
+- **Trigger:** 2 spec drift events 2026-06-29 reached Founder as verification layer (Architect Workspace-vs-Gmail drift + Lana addressed-Founder-vs-Liza drift); pattern documented in memory `feedback_sop_authority_precedence`
+- **Acceptance:**
+  1. `agent/personas/architect.md` — add «Citation discipline» section: every operational claim cites source SOP path; no paraphrasing from memory; flag «not SOP-checked» explicitly if SOP unread
+  2. `agent/personas/lana.md` — add «Pre-flight SOP coherence check» section: at session start with any spec, silent read all referenced SOPs, validate claims, flag drift to Architect (NOT Founder)
+  3. `agent/personas/composer.md` — add similar pre-flight: refuse to execute spec with un-cited operational claims; bounce back to Architect
+  4. PROPOSED status → Founder explicit ratify per OD-062 → ACTIVE
+  5. Cross-ref to memory feedback as authoritative source
+- **Notes:** Per Charter § 7 + vision-v2 § 5.5 P2 — Founder must not be primary error verification layer. Pattern recognition: if drift errors repeat after this lands, escalate to OD-class entry in manifest. Defer not because unimportant — because canon-class deserves dedicated ratify session, not «между делом» during ops execution.
+
 ### T-049 — Activity audit Illia/Vianca (Phase 2 deliverable for TH-01-01 / Liza)
 - **Owner:** TH-01-01 (Liza) once Phase 2 trigger fires
 - **Type:** audit + reporting
