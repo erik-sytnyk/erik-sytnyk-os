@@ -494,7 +494,7 @@ Architect grep'ит файл при старте каждой сессии и п
 ### T-046 — TH-01-01 (Liza) onboarding — Founder personal assistant + TH-01 sub-node deployment
 - **Owner:** founder (gate decisions) → Liza (self-deployment per Founder direction)
 - **Type:** infrastructure + onboarding + sub-node bootstrap
-- **Status:** open (newly opened 2026-06-29; Founder hire ratified post questionnaire review)
+- **Status:** open (non-primary capacity as of 2026-06-30; primary slot → T-053 Анжелика)
 - **Trigger:** Yoan-found candidate (₽200 placement); Founder questionnaire review 2026-06-29 → fit verdict GO
 - **Candidate:** Новикова Елизавета Антоновна, 23, currently not employed; questionnaire indicates strong responsibility orientation + AI tools comfort + admin process experience (beauty salon network) + social media (IG/TikTok content)
 - **Scope:** Founder personal assistant в контуре TH-01 cluster; focus = Founder Track A support + UA-02 apartment sale coordination
@@ -510,6 +510,49 @@ Architect grep'ит файл при старте каждой сессии и п
   - Compensation tier: Individual Contractor sandbox (income < $1.5k/mo per vision-v2 § 3.5 sandbox); LLC required if/when threshold crossed
 - **Tooling:** Cursor (Privacy Mode ON) + Discord + Google Workspace (TH-01 alias on existing seat OR new seat per R5 money pre-auth)
 - **Notes:** First TH-01 sub-node deployment. Vision-v2 § 4 node/sub-node hierarchy applies (TH-01 = sub-node within Orbios node per current PROPOSED v2; vision-v1 § 4 cluster framing also valid). Onboarding docs will reside in `clusters/th-01/` (Liza-built per Founder direction «она сама развернёт кластер»). Cross-ref T-047 (Elena Ivanovna Communicator), T-048 (Sergey Treshchev Kyiv lawyer DM), T-049 (activity audit Illia/Vianca).
+- **2026-06-30 update:** Day 1 email task (Phase 0 § A1) **НЕ выполнено** yesterday. Reliability signal flagged. Primary TH-01-01 slot reassigned to Анжелика per Founder direction 2026-06-30. Liza continues Phase 0 в **non-primary** capacity; complete Phase 0 acceptance criteria → evaluate Phase 1 role assignment based on actual delivery. HR dossier: `log/hr/liza-novikova.md`.
+
+### T-053 — Анжелика (Chekhova) — TH-01-01 primary candidacy + paid trial (Vianca pattern)
+- **Owner:** founder (R5 gate) → Анжелика (first ops task on GO)
+- **Type:** R5 personnel candidacy + onboarding
+- **Status:** open (candidacy logged 2026-06-30 post questionnaire processing)
+- **Trigger:** Founder direction 2026-06-30 — primary TH-01-01 slot; replaces Liza primary
+- **Candidate:** Chekhova Anzhelika Igorevna, 27, Phuket TH; business/systems analyst background; questionnaire 2026-06-29
+- **Acceptance:**
+  1. Founder R5 ratify trial start
+  2. **First task:** register email `th01.orbios@gmail.com` per `sops/cluster_account_strategy.md` + `sops/add_unit.md` — recovery → `erik.sytnyk@orbios.io` (Founder confirms exact); 2FA on **her phone**; NOT Founder phone
+  3. Weekly timesheet `clusters/th-01/timesheets/<YYYY-WNN>.md`
+  4. Trial: **$5/hr + $500 ceiling + 4-week cap** (OD-052 Vianca calibration 20/30/35/35)
+  5. Phase 0 close per `templates/onboarding/th-01-01-phase-0.md` (reassign A1 owner to Анжелика)
+- **Budget envelope:** Charter § 4 trust-tier $50/unit emergency + $500 trial ceiling
+- **Notes:** Public profile `context/personnel/th-01-01-candidate-anzhelika.md`; HR dossier `log/hr/anzhelika-chekhova.md`. Trial agreement NOT auto-canonized — Founder R5 ratify required. Cross-ref T-046 (Liza non-primary).
+
+### T-054 — Яна (Baidachnik) — TH-01-02 contractor candidacy + paid trial
+- **Owner:** founder (R5 gate) → Яна (on GO)
+- **Type:** R5 personnel candidacy
+- **Status:** open (candidacy logged 2026-06-30)
+- **Trigger:** Founder direction 2026-06-30 — TH-01-02 contractor slot
+- **Candidate:** Baidachnik Yana Igorevna, 33, Thailand (**city verify required**); part-time elsewhere; comms/content + AI depth
+- **Acceptance:**
+  1. **Verify Яна location** — exact TH city + weekly hour availability
+  2. Founder R5 ratify contractor trial
+  3. Scope: content/comms ops + AI workflow design for TH-01
+  4. Trial: $5/hr + $500 ceiling + 4-week cap; **lower initial hour caps** (part-time constraint)
+  5. Probe questionnaire «Частично» on decision responsibility — define boundaries in writing
+  6. On GO: scaffold TH-01-02 per `sops/add_unit.md`; shared cluster account per `sops/cluster_account_strategy.md`
+- **Budget envelope:** same sandbox tier as T-053
+- **Notes:** Public profile `context/personnel/th-01-02-candidate-yana.md`; HR dossier `log/hr/yana-baidachnik.md`. Separate R5 from T-053 primary slot.
+
+### T-055 — Standardize Google Forms candidate questionnaire format → PH-01 recruitment canonical template
+- **Owner:** Vianca (PH-01-01) — M015 / recruitment scope
+- **Type:** template + process
+- **Status:** open (deferred trigger: post Liza Phase 0 close)
+- **Trigger:** Founder praised questionnaire format 2026-06-29; three candidates processed (Liza, Анжелика, Яна) — reusable for future TH-01 / cluster hires
+- **Acceptance:**
+  1. Template documented in `templates/recruitment/candidate-questionnaire.md` (form structure + field definitions)
+  2. Scoring rubric section stubbed OR deferred to separate Founder session (do NOT engineer rubric without direction)
+  3. Cross-link from PH-01 recruitment missions + `sops/add_unit.md` § 1.5 HR dossier intake
+- **Notes:** Owner Vianca executes after Liza Phase 0 closes. Source artifacts: `integration/th01_hr/*.jpg` (local). Do not contact candidates from this task — template extraction only.
 
 ### T-047 — Elena Ivanovna — UA-02 acting Communicator candidate (R5 RATIFIED 2026-06-29 — proceed)
 - **Owner:** founder (R5 gate) → relay only after ratify
