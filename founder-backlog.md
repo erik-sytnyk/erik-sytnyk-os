@@ -591,6 +591,18 @@ Architect grep'ит файл при старте каждой сессии и п
   5. If engage: written agreement + payment terms documented
 - **Notes:** Per Founder R5 ratify 2026-06-29 (R5-D): formal gate stance. NOT engage blind per participant assertion. Validates that lawyer = legitimate paid escort (not commission broker which would violate OD-063). Cross-check с Sergey Treshchev (T-048 — Phuket-side Kyiv lawyer) — может быть same person OR different option; compare. Budget should fit within existing ~$2k operational allowance framing per private playbook § 7.
 
+### T-060 — Kazakhstan candidate backup for Liza slot (TH-01)
+- **Owner:** founder (initial contact) → Vianca (Phase 1+ recruitment coord если пойдёт)
+- **Type:** REVENUE / staffing backup
+- **Status:** open (backup activated 2026-06-30 pending Liza status decision)
+- **Trigger:** Liza slot vacates OR Liza Phase 0 fails
+- **Acceptance:**
+  1. Verify Kazakhstan candidate current status (still available? still interested?)
+  2. If ready → 4-week trial framework same as T-053/T-054 ($5/hr + $500 ceiling)
+  3. Scope: TH-01 role — likely Liza's original scope OR reassigned based on Founder decision
+  4. Passport policy per `context/personnel/hiring-criteria.md` — Kazakh passport OK; verify residence outside RF
+- **Notes:** Per Founder direction 2026-06-30 Illia DM — «Есть 4й кандидат из Казахстана, она запасная если с Лизой не пойдет. У Лизы конечно украинский паспорт был бы хорошим бонусом». Liza's UA passport was leverage для UA-related work; Kazakhstan candidate would need different scope allocation OR Yana/Anzhelika absorb Liza's UA coordination (routed через них до найма UA-passport replacement).
+
 ### T-058 — Call friend for AI outstaff agency referral details
 - **Owner:** founder
 - **Type:** REVENUE pipeline action
