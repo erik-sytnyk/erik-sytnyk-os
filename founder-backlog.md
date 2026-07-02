@@ -591,6 +591,30 @@ Architect grep'ит файл при старте каждой сессии и п
   5. If engage: written agreement + payment terms documented
 - **Notes:** Per Founder R5 ratify 2026-06-29 (R5-D): formal gate stance. NOT engage blind per participant assertion. Validates that lawyer = legitimate paid escort (not commission broker which would violate OD-063). Cross-check с Sergey Treshchev (T-048 — Phuket-side Kyiv lawyer) — может быть same person OR different option; compare. Budget should fit within existing ~$2k operational allowance framing per private playbook § 7.
 
+### T-058 — Call friend for AI outstaff agency referral details
+- **Owner:** founder
+- **Type:** REVENUE pipeline action
+- **Status:** open (surfaced 2026-06-30)
+- **Trigger:** now (Founder call slot)
+- **Acceptance:**
+  1. Call friend → get agency name + contact + Founder's role в referral
+  2. Direct call с agency contact → get engagement model + contract structure + volume
+  3. Log outcome в `log/vector/pipeline/friend-referral-ai-outstaff.md`
+  4. Decision: pursue OR decline based on fit + capacity
+- **Notes:** Rate range £30-60/hr signals outstaff/subcontractor model. Complementary к Patrik pipeline (agency-intermediated vs direct sub-partnership). Both в REVENUE track. Founder dev capacity constraint (single dev near-term) means screening priority = fit + volume alignment.
+
+### T-059 — Dev internship batch planning (post-stabilization)
+- **Owner:** founder (planning) → future TH-01-XX (execution)
+- **Type:** future hiring pattern
+- **Status:** open (deferred trigger)
+- **Trigger:** когда company revenue stabilizes (first Fractional CTO close + Patrik pipeline OR outstaff volume steady)
+- **Acceptance:**
+  1. Same 3-candidate parallel trial pattern (per T-053/T-054/T-055 template) applied к dev roles
+  2. Budget envelope planning (per Charter § 4 — likely $500 × 3 = $1500 initial + ramp)
+  3. Reuse standardized candidate questionnaire (per T-055) adapted к dev skills
+  4. Recruitment channel: Vianca M009 pattern OR direct network referrals
+- **Notes:** Per Founder direction 2026-06-30 — «по программистам я на ближайшее время единственный программист, когда компания в таком формате стабилизируется я мог бы организовать еще одну стажировку для девелоперов». Complements current non-dev candidate trio (Liza + Anzhelika + Yana). Timing deferred until revenue signal clear.
+
 ### T-051 — Cursor models availability context — periodic maintenance
 - **Owner:** TH-01-01 (Liza) once Phase 1 + Founder (initial seed)
 - **Type:** infrastructure / context maintenance
