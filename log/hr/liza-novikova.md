@@ -1,4 +1,4 @@
-# HR dossier — Novikova Elizaveta Antonovna (TH-01-01 — non-primary)
+# HR dossier — Novikova Elizaveta Antonovna (TH-01 candidacy — PAUSED 2026-06-30)
 
 > Internal / DEV-01 + Claude only. Convention: `modules/founder-private/log/hr/<slug>.md`.
 
@@ -37,8 +37,27 @@
 
 **Continued path:** Liza remains in Phase 0 **non-primary** capacity. Complete Phase 0 acceptance criteria → evaluate Phase 1 role assignment based on **actual delivery**, not questionnaire fit alone.
 
-## Open HR items
+## Candidacy PAUSED — 2026-06-30 (Founder direction)
 
-- Phase 0 completion vs stall — Founder decision after delivery evidence
-- No trial compensation until Phase 0 close + explicit R5 for paid trial (if any)
-- Cross-ref T-053 (Анжелика primary), T-046 update note
+**Founder direction verbatim** (2026-06-30):
+> «Лиза не отвечала на мои сообщения вчера, уже сегодня все без нее стартовали, вряд ли ей дадим стажировку. То что мы договорились на четверг, а она со связи пропала уже красный флаг, который я не могу игнорировать. Пожалуйста приостанови ее стажировку.»
+
+**Signals leading to pause**:
+1. Day 1 email task (Phase 0 § A1) NOT completed 2026-06-29 — initially flagged as systemic Google issue (retroactive correction) — но
+2. **No response to Founder messages** 2026-06-29 (agreed Thursday timeline)
+3. **Missed agreed start date** 2026-06-30 — Анжелика + Яна started, Liza absent from onboarding
+4. **Communication silence** = red flag per Founder judgment (не acceptable for TH-01 coordinator role где ежедневная communication = основа роли)
+
+**Status**: PAUSED (не killed outright — Founder «приостанови»). Реактивация возможна только на Founder explicit direction.
+
+**Practical implications**:
+- No trial compensation
+- Slot reassigned: Анжелика primary; T-060 Kazakhstan backup elevated to actual next candidate
+- Discord/GitHub access не provisioned (не progressed через Phase 0 setup)
+- Personnel profile stays private tier (no public canon reference)
+
+## Open HR items (post-pause)
+
+- Kazakhstan candidate T-060 → activate as backup fill (не blocker для current TH-01 team = 2 people is enough for start)
+- Если Liza reappears + apologizes → Founder R5 gate: rejoin OR firm no
+- Cross-ref: T-053 Анжелика primary, T-054 Яна, T-060 Kazakhstan backup activated

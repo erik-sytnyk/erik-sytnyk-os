@@ -491,7 +491,7 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Если 0 за 3 месяца от today (cutoff 2026-09-26) → archive entirely; remove from tooling
 - **Notes:** Per state-of-orbios 2026-06-26 priority pivot — Toptal de-prioritized; REVENUE focus shifted to Patrik partnership + apartment sale + active outbound pipeline. Not a source of runway expectation anymore.
 
-### T-046 — TH-01-01 (Liza) onboarding — Founder personal assistant + TH-01 sub-node deployment
+### T-046 — TH-01 (Liza) onboarding — PAUSED 2026-06-30 (candidacy suspended per Founder direction)
 - **Owner:** founder (gate decisions) → Liza (self-deployment per Founder direction)
 - **Type:** infrastructure + onboarding + sub-node bootstrap
 - **Status:** open (non-primary capacity as of 2026-06-30; primary slot → T-053 Анжелика)
@@ -510,6 +510,8 @@ Architect grep'ит файл при старте каждой сессии и п
   - Compensation tier: Individual Contractor sandbox (income < $1.5k/mo per vision-v2 § 3.5 sandbox); LLC required if/when threshold crossed
 - **Tooling:** Cursor (Privacy Mode ON) + Discord + Google Workspace (TH-01 alias on existing seat OR new seat per R5 money pre-auth)
 - **Notes:** First TH-01 sub-node deployment. Vision-v2 § 4 node/sub-node hierarchy applies (TH-01 = sub-node within Orbios node per current PROPOSED v2; vision-v1 § 4 cluster framing also valid). Onboarding docs will reside in `clusters/th-01/` (Liza-built per Founder direction «она сама развернёт кластер»). Cross-ref T-047 (Elena Ivanovna Communicator), T-048 (Sergey Treshchev Kyiv lawyer DM), T-049 (activity audit Illia/Vianca).
+
+**PAUSED 2026-06-30 (Founder direction)**: Liza не отвечала на Founder messages 2026-06-29, missed agreed Thursday start, absent from onboarding 2026-06-30 when Анжелика + Яна started. Communication silence = red flag Founder не игнорирует. TH-01 slot reassigned (Анжелика primary + Яна active + T-060 Kazakhstan backup activated). Реактивация только на Founder explicit direction. HR dossier updated `modules/founder-private/log/hr/liza-novikova.md`.
 - **2026-06-30 update:** Day 1 email task (Phase 0 § A1) **НЕ выполнено** yesterday. Reliability signal flagged. Primary TH-01-01 slot reassigned to Анжелика per Founder direction 2026-06-30. Liza continues Phase 0 в **non-primary** capacity; complete Phase 0 acceptance criteria → evaluate Phase 1 role assignment based on actual delivery. HR dossier: `log/hr/liza-novikova.md`.
 
 ### T-053 — Анжелика (Chekhova) — TH-01-01 primary candidacy + paid trial (Vianca pattern)
