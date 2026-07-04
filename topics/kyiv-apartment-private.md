@@ -134,6 +134,65 @@ From `input/dump/savelova/topics/apartment-status-2026-06-29.md` (intake complet
   
   🚩 Founder pace blame framing. Founder pace = Founder R5 protected time, не Tatiana's urgency.
 
+### 4.1a — Elena Ivanovna «gift + testament + Katya wire» pressure surge (2026-07-04)
+
+**Founder direction verbatim 2026-07-04**:
+> «Меня убеждают Елена (информацию еще надо проверить) что я не выведу комфортно из украины больше чем 2.2 за месяц, в таком случае легче подарить маме квартиру, а она напишет завещание на Катю и Алису, под это дело с Кати ожидаются какие-то деньги для компании на основе какой-то договоренности, уже без фаундера ИИ разберется, и надо сдать квартиру адекватно.»
+
+**Architect status**: HIGH-PRESSURE surge. Multiple new pressure vectors packaged as «solution» к unverified «constraint». NOT ratified. Verification-required.
+
+**Claim (unverified)**: $2.2k/month max comfortable withdrawal from Ukraine.
+- Source: Elena Ivanovna (single source, unverified)
+- Verification paths: Ukrainian bank compliance officer independent query; UA tax lawyer; SWIFT/wire limits per bank; UA National Bank currency control 2026; Wise/Payoneer alternatives
+- Even if TRUE: sale still preferable to gift (lump sum → Founder-controlled account → monthly outflow same issue but Founder owns money vs zero ownership post-gift)
+
+**Proposed scenario (REJECTED as canon-class direction)**:
+- Gift apartment to mother (Tatiana Savelova) — 100% ownership transfer
+- Mother writes testament naming Katya + Alisa as beneficiaries
+- Katya «sends some money to company» «based on some agreement» (undocumented, verbal)
+- «AI разберётся без Founder» — attempts money R5 delegation (Charter § 1 violation)
+- Rent apartment «adequately» — shifts from sale к rental scenario
+
+**Pressure pattern flags** (all new — 6 vectors):
+
+1. **Solution-first framing**: unverified «$2.2k/mo problem» → pre-packaged «gift + testament» solution. Classic sales tactic — problem-then-cure.
+
+2. **OD-035 inversion**: canonical REVENUE arm = sale → proceeds. This proposal = gift → zero ownership. Fundamental strategic inversion.
+
+3. **Ownership chain removal**: Founder → Tatiana → will → (Katya + Alisa). Founder completely out of ownership chain despite being sole current owner.
+
+4. **Alisa inheritance framing**: uses Founder's daughter as beneficiary optics. But: Alisa = minor, inheritance would go to guardian (potentially Katya OR mother's estate executor), не Founder-controlled.
+
+5. **«Katya wires to company»**: vague future promise, no documentation, no timing, no amount specified. Depends on Katya (whose contact channel is volatile per family log § 6.5) honoring verbal agreement.
+
+6. **«AI разберётся без Founder»**: **direct violation of Charter § 1** — money R5 requires Founder ratify. This framing attempts to bypass fundamental canon.
+
+**Comparison — Sale vs proposed «gift + testament + Katya» scenario**:
+
+| Aspect | Sale (canon path) | Proposed alternative |
+|--------|-------------------|----------------------|
+| Founder control | Founder owns until sale | Founder loses ownership at gift; irreversible |
+| Money to Founder | Lump-sum minus costs | Trickle via Katya at her discretion |
+| Timeline | Weeks-months | Days (gift) + years (testament) + hope (Katya wire) |
+| Withdrawal issue | Same $2.2k/mo if real — but solves once at close | Never Founder's money to withdraw again |
+| Runway buffer | $200k+ lump sum | Trickle from Katya |
+| Legal complexity | Standard | UA family will + gift tax + minor Alisa inheritance = huge |
+| Reversibility | Founder can decline at any pre-close point | Once gift executed = irreversible |
+
+**Even if $2.2k/mo constraint verified true**:
+- Sale still preferable (Founder controls money post-sale)
+- Alternative sale structures: EU-based escrow → distribution to Erik at $2.2k self-managed; sale to buyer accepting Wise/foreign wire; UA IT freelance corridor structure; sale + parallel Alisa fund escrow independently of Tatiana
+
+**R5 gates surfaced (must NOT close without independent verification)**:
+
+- **R5-F**: Verify $2.2k/mo Ukraine withdrawal constraint independently (multiple sources); do NOT accept Elena Ivanovna's single-source claim as canon
+- **R5-G**: Even if constraint true — evaluate alternative sale structures maintaining Founder ownership; do NOT default to gift framing
+- **R5-H**: If «Katya wires to company» is real — require signed written agreement с specific amount + timing + trigger conditions BEFORE any structural change; verbal promise = zero canon weight
+- **R5-I**: Reject «AI разберётся без Founder» framing entirely — Charter § 1 money R5 = Founder mandatory; no delegation possible per canon
+- **R5-J**: Rental scenario — evaluate as fallback only if sale prohibited by verified constraint; not as primary path
+
+**Architect strong recommendation**: HOLD on any structural change. Do not ratify gift path. Continue sale path (Bangkok POA + Elena Ivanovna Communicator scope as originally ratified). Verification of $2.2k/mo claim independently BEFORE any strategic pivot.
+
 ### 4.2 — POA review chain ratified (R5-B)
 
 **Per Founder direction 2026-06-29 (R5-B)**: POA review chain = **Founder reads FIRST → optional Elena Ivanovna legal review AFTER Founder confirm**. NOT reverse (intake suggested Elena → Founder; rejected as inverting authority chain — POA contains Founder personal authority, Founder reviews first).
