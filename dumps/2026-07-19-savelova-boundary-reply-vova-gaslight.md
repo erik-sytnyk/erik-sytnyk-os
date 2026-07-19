@@ -7,6 +7,7 @@ model: Grok 4.5
 proposed_at: 2026-07-19 17:05 +07:00
 os_source: Founder — hard boundary reply; Vova contact gaslight + company harm; not court-loop
 tier: E
+evidence: people/savelova/evidence/E-001-2026-07-19-vova-contact-gaslight.md
 ---
 
 # Boundary reply draft — Savelova (Vova channel gaslight)
