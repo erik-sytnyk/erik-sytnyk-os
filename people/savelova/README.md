@@ -28,6 +28,11 @@ OS / Mira / Vector: фиксируют кейсы из логов → сюда. 
 
 Триггер для агента: «нарушение обещания Савеловой» / «V к P-001» → новый файл в `promises/violations/`.
 
+## Suspicions (unverified)
+
+См. [`suspicions/README.md`](suspicions/README.md).  
+Открыто: **S-001** — обморок на рынке (Пятихатки); дрейф формулировок; Founder готов remote-MD (забота **или** R2 по вранью).
+
 ## Evidence index
 
 | Id | Date | Type | Title | File |
