@@ -1,8 +1,9 @@
 # T-005 — Disk purchase spec (recommended)
 
-> **Status:** PROPOSED for TH-01 ops validation with agent (2026-07-19)  
+> **Status:** SUPERSEDED for ops execution by **full buy pack**  
+> **Use instead:** [`t-005-disk-buy-pack.md`](t-005-disk-buy-pack.md) — SKU + links + price band + steps  
 > **Owner purchase:** Yana / TH-01 (not Founder shopping)  
-> **Founder:** R5 on SKU+price only → then install day  
+> **Founder:** R5 on cart screenshot only → then install day  
 
 ## Observed hardware (Founder PC, 2026-07-19)
 
