@@ -21,6 +21,13 @@ OS / Mira / Vector: фиксируют кейсы из логов → сюда. 
 | `management/savelova.md` | Ops interaction log (UA-02 buffer) |
 | `integration/savelova-telegram/` (parent workspace, local) | Сырые дампы |
 
+## Promises (отдельный трек)
+
+См. [`promises/README.md`](promises/README.md) — дословные обещания + лог нарушений `V-00N`.  
+Активно: **P-001** (2026-07-19) — квартира / AI-опрос / разбор вреда / без иных рабочих вопросов без GO Founder.
+
+Триггер для агента: «нарушение обещания Савеловой» / «V к P-001» → новый файл в `promises/violations/`.
+
 ## Evidence index
 
 | Id | Date | Type | Title | File |
