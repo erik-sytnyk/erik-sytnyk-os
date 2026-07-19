@@ -5,14 +5,15 @@ Architect grep'ит файл при старте каждой сессии и п
 
 **Format:** per `sops/task_management.md` — `T-NNN` global counter, Founder surface.
 
-## SESSION FOCUS (2026-06-22)
+## SESSION FOCUS (2026-07-19 refresh)
 
 | | |
 |---|---|
-| **Active (primary)** | **T-031** — file intake + Google Drive asset pipeline |
-| **Active (secondary)** | **T-037** — company email restore (blocked since Orbios 2.0) |
-| **Mode** | Architect design → Founder account unblock → Composer WPs |
-| **Background** | All other open T-NNN — no active Lana pull unless Founder surfaces |
+| **Strategy** | **T-078** — Founders 100+ Track (Phase A эталон → B child-nodes → C 100+) |
+| **Active (ops surface)** | **T-061 / T-077** — Cursor+Discord; 1–2 Linux ops-calls/day |
+| **Active (people)** | **T-054** Яна ops (+ Mini-Founder fork later) · **T-079** Founder-focus slot (fix Lika / +1) |
+| **Active (revenue)** | **T-076** Patrik ∥ market extension |
+| **Background** | T-031 files, T-005 Pop!_OS (disk delegated), T-075 apartment cushion, rest of open T-NNN |
 
 ---
 
@@ -60,13 +61,23 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Acceptance:** Per scripts/discord-import/SETUP_PHASE3.md — Discord bot создан, invited в PH-01 server (Read Message History only), token в Windows Credential Manager, config.toml заполнен, Task Scheduler XML импортирован, smoke run прошёл. После — 4x/день автономно.
 - **Notes:** Pipeline готов (OD-061). Architect видит свежий Discord контекст со следующей сессии.
 
-### T-005 — Pop!_OS dual-boot установка (time-boxed)
-- **Owner:** founder
-- **Type:** action
+### T-005 — Pop!_OS dual-system на 2-м диске + remote/coding (до ДР)
+- **Owner:** founder (install day + R5 spec only) → **TH-01 ops (Lika/Yana)** — закупка диска + логистика
+- **Type:** action / infra personal
 - **Status:** open
-- **Trigger:** свободный weekend slot
-- **Acceptance:** Pop!_OS установлен как secondary, boots, базовый AI-stack доступен для dev experiments. **Hard time-box: 4 часа.** Если yak-shaving превышает — abandon, rollback, защита FVE.
-- **Notes:** Personal dev experiment с AI automation в режиме dev.
+- **Priority:** **P0 personal / «подарок себе к ДР»** — Founder override 2026-07-18 01:16: выше Camp-build uncertainty; environment setup energy → Linux
+- **Trigger:** ops заказывает 2-й диск по спеке → Founder install window (не Founder shopping)
+- **Acceptance:**
+  1. **Hardware (DELEGATED):** ~1TB disk ordered + delivered/installed physically as needed — **не Founder owner-action**; ops получает спеку (interface/size/budget gate) и закрывает закупку
+  2. **Pop!_OS** стоит второй системой, boot menu ок, Windows не сломан — Founder install day
+  3. Базовый **coding** stack (git, editor/Cursor path or VSCodium, SSH keys) работает
+  4. **Remote sessions** настроены достаточно для своего use-case
+  5. **Hard time-box install day: 4 часа.** Yak-shaving >4h → abandon polish, leave «boots + code»
+- **Notes:**
+  - **2026-07-18 01:18 Founder correction:** «почему я заказать диск — делегировать; я сажусь за DEV, всё остальное делегируется». Mira catch: не предлагать Founder routine procurement.
+  - **2026-07-18 01:16:** приоритет до ДР как working gift; информационная гигиена.
+  - Founder surface = install + coding setup only. Shopping/доставка = TH-01.
+  - Cross-ref: T-034 laptop, T-045 Win remote LinkedIn, T-063 ДР prep, T-061/T-067 ops capacity.
 
 ### T-006 — Limit личного контакта с Broker-1 (Savelova) ≤ 2x/неделю
 - **Owner:** founder
@@ -182,6 +193,7 @@ Architect grep'ит файл при старте каждой сессии и п
   4. Picked path → M006 Task 1 updated + Thai lawyer engaged
 - **Notes:** Founder direction 2026-06-02 (Nova packet (f)) — «ОС должна предлагать альтернативы если возможно, сейчас вопрос как убрать токсичного паразита Нану из наших кэмп партнеров перед началом строительства, Анна заинтересована в работе». Anna = ONE option, not predetermined. Thanan = contractor not partner (different class). Architect homework: draft option matrix in next session.
   - **Update 2026-06-27:** Founder left 25k THB with Anna (new Thai partner) for Nana's exit to secure the land document, keys, and car technical passport. Once documents/keys are received, Orb construction planning can begin.
+  - **Update 2026-07-17 (TH-01 archive dump):** Camp business with Nana treated closed; Anna residual contact. Car: Founder paid **~27k THB** already; **keys still missing**; car parked. Founder was not aware Nana pawned car dynamics at the time; unsure if she needed higher sum. Anna offered service unlock + duplicate keys (2026-07-16). Prefer car over bike for camp trips — not urgent, chronic mental drain → see **T-066**.
 
 ### T-016 — Orb 1 site selection (Camp 0 plot placement)
 - **Owner:** founder + Anna (external)
@@ -266,6 +278,7 @@ Architect grep'ит файл при старте каждой сессии и п
   2. Founder **GO TASK-POOL v1**
   3. WP-TASK-1/2 landed (registry generator + vector_steering SOD)
 - **Notes:** Founder 2026-06-17 — pre-form task pool before hires; PH-01 + UA-02 dispatch.
+  - **2026-07-19:** Optimize CTR pull order under **Founders 100+ Strategy** — Phase A эталон first (`context/local/2026-07-19-founders-100-strategy.md`); park mass founder-hire until эталон green. Cross-ref T-078.
 
 ### T-024 — TH-01 Founder Assistant — Yoan sourcing launch
 - **Owner:** founder (send brief + pay) → Yoan (search)
@@ -356,6 +369,7 @@ Architect grep'ит файл при старте каждой сессии и п
   4. End-to-end smoke test (1+ real blob indexed + triage ref)
   5. SOP addendum: **Google Drive primary**; Dropbox legacy/supported only
 - **Notes:** OD-064 spec exists but **assets not connected** — zero production `.asset.md`. Architect packet: `context/proposals/file-intake-gdrive-v1.md`. Collateral unblock: PH-01-M009-T03 recruiting inbox (`jobs@orbios.io`). Background queue: all other T-NNN.
+  - **2026-07-18 unload:** Founder wants OS **file support** pushed (this T) **+ passwords if possible** → pair T-010; not a Sat DEV-day blocker — design track.
 
 ### T-032 — Camp + Orbios website — minimum refresh + agent workflow
 - **Owner:** founder (sequencing) → composer (build) or agent-assisted interim
@@ -382,11 +396,13 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Owner:** founder
 - **Type:** action
 - **Status:** open
-- **Trigger:** trip to Phuket Town (service-center window)
+- **Priority:** **P0 personal** — needed anyway; blocks clean ДР travel (T-063)
+- **Trigger:** soon / before road prep solidifies; Phuket Town service-center window
 - **Acceptance:**
   1. Laptop delivered to warranty authorized service in Phuket Town
   2. Ticket / RMA number + expected return date logged (founder-private note or here)
-- **Notes:** Warranty path — not ad-hoc repair shop unless warranty rejects.
+  3. Machine usable for travel window (or interim workaround documented)
+- **Notes:** Warranty path — not ad-hoc repair shop unless warranty rejects. **2026-07-17 unload:** Founder — «нужно фиксить ноут, мне он нужен в любом случае» (even if trip stays short/local).
 
 ### T-035 — Auto phone top-up via OS
 - **Owner:** founder (operator choice) → architect (design) → composer (automation)
@@ -532,18 +548,21 @@ Architect grep'ит файл при старте каждой сессии и п
 ### T-054 — Яна (Baidachnik) — TH-01-02 contractor candidacy + paid trial
 - **Owner:** founder (R5 gate) → Яна (on GO)
 - **Type:** R5 personnel candidacy
-- **Status:** open (candidacy logged 2026-06-30)
+- **Status:** open (candidacy logged 2026-06-30; **strategy refresh 2026-07-19**)
 - **Trigger:** Founder direction 2026-06-30 — TH-01-02 contractor slot
 - **Candidate:** Baidachnik Yana Igorevna, 33, Thailand (**city verify required**); part-time elsewhere; comms/content + AI depth
 - **Acceptance:**
   1. **Verify Яна location** — exact TH city + weekly hour availability
   2. Founder R5 ratify contractor trial
-  3. Scope: content/comms ops + AI workflow design for TH-01
-  4. Trial: $5/hr + $500 ceiling + 4-week cap; **lower initial hour caps** (part-time constraint)
-  5. Probe questionnaire «Частично» on decision responsibility — define boundaries in writing
+  3. Scope **now:** взять **операционку** TH-01 (content/comms + AI workflows + external touches relay per T-061) — сильный ops
+  4. Trial: $5/hr + $500 ceiling + 4-week cap; **lower initial hour caps** (part-time constraint); path to **хорошая ЗП** если остаётся в команде
+  5. Probe questionnaire «Частично» on decision responsibility — define boundaries in writing; watch **ownership 4–8 weeks**
   6. On GO: scaffold TH-01-02 per `sops/add_unit.md`; shared cluster account per `sops/cluster_account_strategy.md`
+  7. **Fork (not now):** (A) stay Orbios Principal/ops with strong comp · (B) **Mini-Founder / отдельная нода** (AI DEV agency clone) — Founder sees potential; **RF passport OK** if residence outside RF (`hiring-criteria.md`)
 - **Budget envelope:** same sandbox tier as T-053
-- **Notes:** Public profile `context/personnel/th-01-02-candidate-yana.md`; HR dossier `log/hr/yana-baidachnik.md`. Separate R5 from T-053 primary slot.
+- **Notes:**
+  - Public profile `context/personnel/th-01-02-candidate-yana.md`; HR `modules/founder-private/log/hr/yana-baidachnik.md`. Separate R5 from T-053 primary slot.
+  - **2026-07-19:** Founder — Яна сильный ops; может стартовать отдельную ноду; не путать с Founder-focus personal slot (T-079). Strategy: `context/proposals/founders-100-track-v1.md` + T-078.
 
 ### T-055 — Standardize Google Forms candidate questionnaire format → PH-01 recruitment canonical template
 - **Owner:** Vianca (PH-01-01) — M015 / recruitment scope
@@ -693,6 +712,287 @@ Architect grep'ит файл при старте каждой сессии и п
   4. Public canon = scope acknowledgment only; no surface-level details
 - **Notes:** Target framing «тайка locally» (Thai partner, in-location, Phuket-adjacent per Founder direction). Personal scope. Charter Phase 1 era — Vector tracks as ongoing FOUNDER track signal in daily digests; no autopilot execution. Cross-ref `state-of-orbios/2026-06-26-priority-pivot.md` § 2 + § 3 partner sub-track scope.
 
+### T-061 — External-world comms via TH-01 ops (work-mode by ДР)
+- **Owner:** founder (gate) → TH-01 ops (Yana lead + +1 capacity)
+- **Type:** work-mode / ops protocol
+- **Status:** open
+- **Priority:** high — **deadline 2026-08-04** (ДР Founder); test mode **желательно раньше** (до 4-го)
+- **Trigger:** +1 TH-01 onboarded enough for relay capacity; Founder request «через ops»
+- **Acceptance:**
+  1. **Working mode:** все **внешние касания** идут через TH-01 ops (не Founder direct default)
+  2. **+1 TH-01** закрыт как capacity для этого режима (без +1 режим не устойчив)
+  3. **Test mode** включён до 2026-08-04 (хотя бы частичный контур: выбранные каналы / типы запросов)
+  4. К **2026-08-04** режим подключён на уровне рабочего режима (не «идея», а практика)
+  5. Протокол: кто принимает, кто драфтит, когда эскалация к Founder, что остаётся Founder-only
+  6. **Founder work interfaces = только Cursor + Discord** — максимально удобно, **без доп. инструментов** (не Linear/Notion/mail clients as daily surface). Внешний мир → TH-01 → Discord digest / Cursor OS; Founder отвечает в этих двух.
+- **Notes:**
+  - Captured Mira unload 2026-07-17 ~21:23 +07 — внешние коммуникации через TH-01 ops; +1; до ДР; test раньше.
+  - **2026-07-18 01:24 sharpen:** «ведение всех внешних касаний через TH-01»; рабочие интерфейсы Founder = **Cursor + Discord only**; convenience without extra tools. August plan strokes enough (Patrik∥market) — this is next architecture stroke.
+  - Cross-ref: T-021, T-045 (LinkedIn remote stays ops-side), T-027, T-067, T-076, vision Monday draft.
+  - Scope: personal Track A channels may stay opaque/exception list — external *work* touches default via TH-01.
+
+### T-062 — Personal finance clarity + delegate to TH-01 ops
+- **Owner:** founder (R5 gates / spend decisions) → TH-01 ops (tracking, rollups, nudges) · ledger detail → `orbios-finance-kb` (OD-043)
+- **Type:** personal/finance + ops delegation
+- **Status:** open
+- **Priority:** high (personal stress / «пофиксить финансы») — soft target align with T-061 window where capacity allows; **no hard ДР deadline stated**
+- **Trigger:** now — Founder needs spend clarity before heavier personal burn; TH-01 +1 capacity (same as T-061)
+- **Acceptance:**
+  1. **Clarity now:** Founder understands what he can count on at current spend rate (runway / burn vs reserve — simple picture, not full accounting thesis)
+  2. **Snapshot capture (Tier E / finance-kb):** current personal reserve band noted at unload (~USD 8–10k as of 2026-07-17 — verify live balances before acting); company framed as exiting crisis (qualitative — not a finance-kb fact until booked)
+  3. **Ongoing:** personal spend tracking + «на что рассчитываю» digest — operable without Founder holding the spreadsheet in head (ties T-002 monthly tracking)
+  4. **Delegation:** personal finance ops (tracking, reminders, category hygiene, surface digests) → **TH-01 ops**; Founder keeps R5 on transfers / large spend / Owner's Distribution gates
+  5. Boundaries written: what TH-01 may see / touch vs what stays Founder-only / finance-kb / Broker-1 perimeter
+- **Notes:**
+  - Captured Mira unload 2026-07-17 ~21:26 +07 — Founder: пофиксить финансы; понимать на что рассчитывать при тратах; запас ~8–10k; компания из кризиса вроде выходит; хочу личные финансы тоже делегировать на TH-01 ops.
+  - Cross-ref: T-002 (monthly expense tracking), T-003 (Owner's Distribution), T-008 (finance migration scratch), T-011 (UBI raise target), T-029/T-030 (bank rails), T-038 (personal subscriptions audit), T-061 (external comms via TH-01 — same +1 capacity dependency).
+  - Privacy: amounts stay Tier E / finance-kb — never public `orbios-os` body. TH-01 access = need-to-know + Privacy Mode discipline.
+  - Does **not** replace company bookkeeping (Vianca / finance-kb) — this is Founder-personal clarity + ops relay.
+  - **2026-07-17 add:** July personal fin-gap already (Founder paid Nana from personal) → any new personal allocation (clothes T-064, trip T-063) must be explicit extra line, not «из головы».
+
+### T-063 — ДР trip plan (2026-08-04) — light option, full road prep
+- **Owner:** founder (destination + budget gate) → TH-01 ops / Lika (calendar + logistics assist when delegated)
+- **Type:** personal / Track A
+- **Status:** open
+- **Priority:** high — **deadline 2026-08-04**; decision window **now → ~late July**
+- **Trigger:** unload 2026-07-17 — Founder wants to plan ДР; Bali not viable
+- **Acceptance:**
+  1. **Bali trip — dropped** (Founder: «Бали трип я не тяну») — do not keep as active option
+  2. Destination chosen among lighter options (prior signal: Chiang Mai ≤1 week; Bangkok combine-on-demand; Phuket deprioritized for ДР vibe) — Founder R5
+  3. **Full road prep** checklist closed: dates, stay, transport, packing, work-mode while away (T-061 test if possible)
+  4. Budget line for trip explicit vs reserve (ties T-062) — no silent burn
+  5. Laptop path resolved or workaround (T-034) before departure
+- **Notes:**
+  - Captured Mira unload 2026-07-17 ~21:31 +07.
+  - Days to ДР from capture: **~18**. Prefer destination lock with buffer for booking.
+  - Cross-ref: dump `dumps/2026-07-17-camp-partner-household-eod.md` (ДР track opaque), T-034 laptop, T-062 finance clarity, T-064 clothes, T-044 Track A partner (optional overlap only — not required for trip).
+  - **Conflict resolve:** Discord ~18:xx same day still listed Bali as option; later Mira unload = Bali dropped. **Authoritative = Bali out**; CM light option stands.
+
+### T-064 — New clothes + explicit personal allocation (July gap aware)
+- **Owner:** founder (amount gate) → TH-01 ops (remind / track once delegated)
+- **Type:** personal / spend
+- **Status:** open
+- **Priority:** medium-high — before ДР road (T-063); money must be **allocated**, not hoped
+- **Trigger:** Founder wants new clothes; July already in personal fin-gap after Nana payouts from own funds
+- **Acceptance:**
+  1. Explicit **extra personal allocation** set aside for clothes (amount Founder gates — not inferred)
+  2. Purchase done or deferred consciously (not open mental loop)
+  3. Logged against T-062 picture so spend doesn't surprise runway
+- **Notes:**
+  - Captured Mira unload 2026-07-17 ~21:31 +07 — «хотел новую одежду купить (надо себе денег выделить дополнительно, а то в этом месяце фин разрыв уже, потому что я Нане со своих выплачивал)».
+  - Nana personal payouts = context for gap only; company vs personal classification → finance-kb when booked. Opaque in public.
+  - Cross-ref: T-062, T-015 (Nana track), T-063 road prep.
+
+### T-065 — Tuhta household ops → Founder Track (next week, no Founder manage)
+- **Owner:** Lika (comms/ops) + founder (phone handoff + R5) · later OS agent relay
+- **Type:** household / Founder Track
+- **Status:** open
+- **Priority:** high — **next week** (Founder: «большой запрос пофиксить… у меня нет времени её менеджить»)
+- **Trigger:** 2026-07-17 TH-01 dump + Mira unload confirm
+- **Acceptance:**
+  1. Spare phone with Discord given to Tuhta; shown which channel
+  2. Founder Track: **separate channel** RU primary + EN translation; Lika↔Tuhta (start direct, later agent: OS→agent→Tuhta chat)
+  3. Work pattern optimized: 7/11 selected options / delivery easier; breakfast; clean (keep — real plus); ants **not** her scope → T-033
+  4. Ideal split explored: **3 days alt work + 3 days as now** (Founder preference); practice local + AI-agent results
+  5. Perimeter: stop / contain info leak Tuhta→Nana on Founder status (channel design + instruction)
+  6. Founder **not** day-managing Tuhta
+- **Notes:** No personal relationship with Tuhta (contrast Nana). Clean house = major plus post Orbios 1/2 collapses. Cross-ref dump `dumps/2026-07-17-camp-partner-household-eod.md` § Household.
+
+### T-066 — Camp car keys / unlock (post-Nana exit residual)
+- **Owner:** founder (gate) → Anna (local execution advice)
+- **Type:** action
+- **Status:** open
+- **Priority:** medium — not urgent; chronic drain
+- **Trigger:** paid ~27k; keys never received; car sits; want car for camp not bike
+- **Acceptance:**
+  1. Path chosen: Anna service unlock + duplicate keys **or** other
+  2. Keys in Founder hand; car usable for camp trips
+  3. Money/keys story closed enough to leave mental load (ties T-015 exit residual)
+- **Notes:** 2026-07-17 dump. Opaque in public. Cross-ref T-015.
+
+### T-067 — Hire / unload gate: capacity before dump + stability before scale
+- **Owner:** founder (R5) · TH-01 ops aware
+- **Type:** operating principle
+- **Status:** open (standing rule)
+- **Priority:** high — frames +1 TH-01 / +1 PH-01 and task unload
+- **Trigger:** 2026-07-17 TH-01 evening + Yana thread
+- **Acceptance:**
+  1. **Do not** unload all Founder tasks into OS if no ops capacity to execute
+  2. Growth not at expense of quality; DEV grows on demand (orders), not max headcount
+  3. **+1 TH-01 + +1 PH-01** before further scale; after that grow via processes + AI
+  4. Soft gate: after **Patrik first payment** — think +1 ops TH-01; if Lika focus = dev-assist + camp → delegate some Founder Track
+  5. Company priority = **stability / buffer** before scale attempts (two logged fails: camp launch + dev agency → each followed by depressive episode — Tier E context only)
+  6. Context unload to TH-01 **as-is** OK; agents later normalize + access tiers (Orbios 2.0 anti-pattern: too much info to all staff)
+- **Notes:** Complements T-061/T-062 (+1 capacity). Vision Monday draft. Flexible cluster/project ACL modules = later Architect work — not this T.
+
+### T-068 — Steinar (UA-02 / pref junior) — decide path after 2026-07-18 call
+- **Owner:** founder (R5) → Illia (hours/scope day-to-day) · Lana (onboarding packets)
+- **Type:** personnel / experiment
+- **Status:** open
+- **Priority:** medium — call **2026-07-18 12:50 +07**; decision after signal, not mid-night spiral
+- **Trigger:** Founder unload 2026-07-17 «не знаю что со стажером делать»
+- **Acceptance:**
+  1. Post-call: pick path — **(A)** time-boxed pref tester under Illia hours · **(B)** clear trial DoD then continue · **(C)** pause/exit · **(D)** keep as community-cluster quality experiment only (no expand scope)
+  2. Hours/reporting owned by **Illia** (Founder stated); Steinar knows Illia role without family/perimeter digressions
+  3. Scope lock: pref = pilot/training; **no** betting/ads/Thai-law productizing without Founder R5; site updates ≠ Steinar default
+  4. Timesheet / «насчитал не пойми сколько часов» + P'yatikhatki / Savelova-cluster curiosity → Illia hygiene check
+  5. Lesson for next juniors: prefer **Yoan GO** bar; this seat = data point on community-cluster quality
+- **Notes:** Dump `dumps/2026-07-17-steinar-pref-junior.md`. Shipping signal exists (scoring beat, PR merged, playtest). Org literacy weak. Cross-ref T-059, T-067, Artem pref P0.
+
+### T-069 — TH-01 self-improved surveys + shared bottleneck ownership
+- **Owner:** TH-01 ops (Yana lead + Lika + Vianca as fits) · founder answers questions · OS/Lana may scaffold forms
+- **Type:** work-mode / ops culture
+- **Status:** open
+- **Priority:** high — aligns vision «легко устранимые горлышки» + T-067 collective capacity
+- **Trigger:** Mira unload 2026-07-17 ~23:52 — Founder ready to answer; refuses sole performance ownership
+- **Acceptance:**
+  1. TH-01 runs **self-improved surveys** among themselves (what blocks us / what we need) on a cadence (weekly sprint-friendly)
+  2. Same loop surfaces **questions to Founder** (he answers; does not invent the whole performance plan alone)
+  3. Bottleneck removal = **shared** (ops + OS + Founder answers) — not Founder as single accountable for team performance
+  4. Lightweight artifact: survey → top bottlenecks → owners → done/next (no Founder-managed spreadsheet forever)
+  5. Monday vision discuss with TH-01 can introduce this as operating norm (cross-ref local vision draft)
+- **Notes:** Founder: «готов отвечать на вопросы, но не хочу нести ответственность за наш перформанс единолично». Ties T-061 (comms via ops), T-067 (capacity before unload), vision draft § bottlenecks. Not a blame ritual — joint hygiene.
+
+### T-070 — Sat 2026-07-18: DEV + pool + ultra → archive intake into OS
+- **Owner:** founder
+- **Type:** day plan / Track A + DEV
+- **Status:** open
+- **Priority:** **tomorrow P0** (after sleep)
+- **Trigger:** unload 2026-07-18 00:00 — calmer after perimeter handoff; wants ultra + heavy archive load into OS
+- **Acceptance:**
+  1. DEV day + бассейн done without opening full ops spiral
+  2. Ultra block used; archive data pushed into OS (as-is OK per T-067)
+  3. Soft stop if FVE dips — archive continues next sessions
+- **Notes:** Messenger-off friendly. Not a commit list — energy container.
+
+### T-071 — Discord order: Camp (+translator from start) vs Founder Track first
+- **Owner:** founder (pick order) → Illia/TH-01 (build)
+- **Type:** infra / camp
+- **Status:** open
+- **Priority:** next week (Camp Discord was Mon agenda)
+- **Trigger:** unload 2026-07-18 — translator must be on from Camp start **or** Founder Track as first working server
+- **Acceptance:**
+  1. Founder R5: **Camp-first with translator bot EN/RU/TH from day 1** OR **Founder Track first** as template then clone to Camp
+  2. Chosen server stands up; translator live at start (no «добавим потом»)
+  3. Cross-ref T-004 (Phase 3 import bot — related but not same as translator)
+- **Notes:** Dump camp Discord intent 2026-07-17. Prefer one decision, not both half-done.
+
+### T-072 — Patrik research — basic start
+- **Owner:** founder (DEV window) · Yana skeleton when Mon path
+- **Type:** revenue / research
+- **Status:** open
+- **Priority:** high — first commercial order path; soft start Sat if energy else Mon
+- **Trigger:** unload 2026-07-18 «ресерч Патрика базово начать»
+- **Acceptance:** Basic research packet started (not full 8-pt yet); enough to not carry as open mental loop
+- **Notes:** Vector daily: 8-pt → Tue 2026-07-21. Don't let research eat whole DEV day.
+
+### T-073 — Personal draw $500 to patch July fin-gap
+- **Owner:** founder (R5 transfer)
+- **Type:** personal/finance
+- **Status:** open
+- **Priority:** high — patch gap (Nana personal payouts context)
+- **Trigger:** unload 2026-07-18
+- **Acceptance:** $500 moved to personal usable balance; logged against T-062 picture; finance-kb if required later
+- **Notes:** Tier E amounts. Distinct from T-003 Owner's Distribution $1500 canon instance — this is gap patch. Cross-ref T-062, T-064.
+
+### T-074 — Personal bike broken / using Yoan's — resolve
+- **Owner:** founder
+- **Type:** personal / mobility
+- **Status:** open
+- **Priority:** medium — chronic friction; camp prefer car (T-066) separate
+- **Trigger:** unload 2026-07-18 — «проблема с личным байком, езжу на байке Йоана»
+- **Acceptance:** Path chosen: repair own / replace / keep borrow with clear return · dependency on Yoan not silent forever
+- **Notes:** Opaque. Don't conflate with camp car keys T-066.
+
+### T-075 — Kyiv apartment sale = next-week focus (company cushion)
+- **Owner:** founder (R5/strategy) → Illia/UA-02 Speaker path (ops) · Broker-1 perimeter rules hold
+- **Type:** runway / UA-02
+- **Status:** open
+- **Priority:** **high next week** — Founder: cushion for Orbios before potential 2026–27 stress; believes in current Orbios
+- **Trigger:** unload 2026-07-18 00:00
+- **Acceptance:**
+  1. Next-week attention on apartment sale progress via **OS→Illia→UA-02** (not Founder-Broker direct spiral)
+  2. Framed as **company safety cushion / buffer**, not only personal drama
+  3. Bangkok-trip claim from Broker-1 = verify only (dump 2026-07-17)
+  4. Does not re-capture 100% Founder bandwidth (anti-pattern: apartment-only mode)
+- **Notes:** Complements T-023 inventory, T-067 stability. Mira: coherent with buffer-before-scale; keep ops delegated.
+
+### T-076 — August dual-track: Patrik ∥ market extension
+- **Owner:** founder (R5 / DEV on Patrik) · TH-01/PH-01 (market extension execution)
+- **Type:** operating plan / revenue
+- **Status:** open (PROPOSED — local august draft sharpened 2026-07-18)
+- **Priority:** high — August frame
+- **Trigger:** Mira unload 2026-07-18 01:21 — Founder: работать с Патриком **параллельно** запускать market extension
+- **Acceptance:**
+  1. Patrik delivery runs without freezing market
+  2. Market extension live: тёплые касания + демо из **двух сайтов** + перебор поля общения + актуализация «кому Orbios интересен»
+  3. Owners split (who runs touches vs who runs Patrik ops) — not Founder day-managing both
+  4. Draft `context/local/august-2026-plan-draft.md` reflects parallel frame (done 01:21)
+- **Notes:** Not ratify-canon yet. Cross-ref T-067, T-072, vision Monday, T-075 apartment cushion.
+
+### T-077 — Ops browser surface: 1–2 Linux calls/day (LinkedIn, Mercury, market ops)
+- **Owner:** TH-01/PH-01 ops (execute) · founder (optional on-call / R5 only) · Vianca script (ops-session) per Fri framing
+- **Type:** work-mode / infra+cadence
+- **Status:** open
+- **Priority:** high — unlocks «Founder = Cursor+Discord only» (T-061 §6)
+- **Trigger:** Mira EOD 2026-07-18 01:31 — Founder: 1–2 кола/день на Linux утро+вечер; за колы автоматизировать LinkedIn, Mercury, прочий browser ops/market
+- **Acceptance:**
+  1. Cadence: **1–2 ops-сессии/день**, target **утро + вечер**, слот **~15 мин** (не 30+) — Founder в браузере рабочие вопросы **не** решает между сессиями
+  2. Surface: **Linux** (Pop!_OS / T-005) или interim `orbios-ops` remote — browser ops живут там, не на Founder daily desktop
+  3. Session bundle: LinkedIn (T-045 / `sops/linkedin-delegation-vianca.md`) + Mercury queue prep/approve nudges + market/ops browser chores — по чеклисту, не ad-hoc
+  4. **Logging:** каждая сессия → session log в OS (cluster timesheet / agent-log) + короткий digest в Discord; outbound copy per `sops/founder_outbound_comms.md` (`— Erik via Orbios OS`); личные/company аккаунты — tagged в логе (whose identity)
+  5. Founder path: Discord digest + Cursor OS only; R5 на money/price/weird; иначе ops закрывает
+- **Notes:** Extends Fri 2026-07-17 ops-session focus. Cross-ref T-061, T-005, T-045, T-021, T-076 market extension.
+
+### T-078 — Founders 100+ Track as Strategy (Phase A→B→C)
+- **Owner:** founder (R5) · Architect (child-node/fee when Phase A green) · TH-01 ops (эталон execution)
+- **Type:** strategy / ladder
+- **Status:** open (PROPOSED local 2026-07-19)
+- **Priority:** high — frames task-pool optimization
+- **Trigger:** Mira 2026-07-19 — Founder: сеть регистраций 100+ + кэмп; каждая нода = AI DEV agency; ops+DEV стандарт
+- **Acceptance:**
+  1. Strategy note live: `context/proposals/founders-100-track-v1.md` (+ local mirror OK)
+  2. **Phase A (now):** эталон Orbios — AI agency + ops + DEV; Cursor+Discord; T-061/T-077; Patrik∥market; cushion — **до** размножения нод
+  3. **Phase B:** 2–5 child-nodes после эталона; fee/legal packet (Architect) — not silent
+  4. **Phase C:** 100+ via protocol clone + camp hub
+  5. Task pool / Vector weekly: pull **P0 эталон** first; park mass founder-hire
+  6. Alternate growth paths OK — эталон всё равно обязателен
+- **Notes:** Name «Founders 100+» не в manifest — strategy label. Cross-ref vision-dump 2026-05-28 SERV→Principal→Mini-Founder. RF: passport OK outside RF.
+
+### T-079 — Founder-focus slot (личная жизнь) vs Lika → DEV assist + camp
+- **Owner:** founder (R5) · Lika (role clarify) · TH-01 ops (sourcing if +1)
+- **Type:** personnel / Track A
+- **Status:** open
+- **Priority:** high — развести слоты, не ломать Яну и Лику одним ТЗ
+- **Trigger:** Mira 2026-07-19 — нужна девочка с фокусом на фаундера; Лика пока не тянет; Лика готова DEV assist + кэмп
+- **Acceptance:**
+  1. **Decision:** (A) fix Lika on Founder-focus with clear DoD · **or** (B) +1 hire for Founder-focus · Lika moves fully to DEV assist + camp
+  2. Written role boundaries: Founder-focus ≠ ops-ноды (Яна) ≠ camp/DEV assist (Лика)
+  3. Tuhta/household (T-065) may sit under Founder-focus or ops — pick owner, no dual vacuum
+  4. Яна **не** назначается «няней личной жизни»
+- **Notes:** Complements T-054, T-065, T-027 schedule. Strategy § people slots.
+
 ---
 
-(добавляй items сюда сам или говори Architect'у при сессии — он закинет)
+## UNLOAD SESSION — 2026-07-17 (Mira bedtime)
+
+- T-061 landed (external comms → TH-01 ops by 2026-08-04).
+- T-062 landed (personal finance clarity + TH-01 ops delegation; reserve band noted Tier E).
+- T-034 bumped P0 (laptop — needed anyway / blocks clean travel).
+- T-063 landed (ДР plan — Bali dropped; full road prep; deadline 2026-08-04).
+- T-064 landed (clothes + explicit personal allocation; July gap / Nana personal payouts noted Tier E).
+- T-005 refreshed (Pop!_OS on 2nd ~1TB disk + remote/coding; soft deadline до 2026-08-04; realism: yes if disk ASAP + scoped).
+- **Savelova feedback thread closed** (Illia boundaries — replies sent; not backloged as tasks).
+- TH-01 evening dump triage: narrative already in `dumps/2026-07-17-camp-partner-household-eod.md`; backlog gaps → **T-065** (Tuhta/Founder Track), **T-066** (car keys), **T-067** (hire/stability gate); T-015 car note; T-063 Bali conflict resolved.
+- **T-068** Steinar/pref junior — dump + decide path after Sat 12:50 call; Illia owns hours.
+- **T-069** TH-01 self-surveys + shared bottleneck ownership (Founder answers ≠ sole performance owner).
+- EOD ~00:00: **T-070** Sat DEV+pool+ultra+archive · **T-071** Discord Camp vs Founder Track order · **T-072** Patrik research start · **T-073** $500 gap patch · **T-074** bike/Yoan · **T-075** apartment sale = next-week cushion · T-031/T-010 files+passwords note.
+- **T-005** P0 gift Pop!_OS до ДР; диск **делегирован** TH-01 (Founder correction 01:18).
+- **T-076** August = Patrik ∥ market extension (тёплые касания, демо 2 сайтов, перебор поля). August strokes **достаточно** (18.07 01:24).
+- **T-061 sharpened:** все внешние касания → TH-01; Founder interfaces = **Cursor + Discord only**.
+- **T-077** 1–2 Linux ops-calls/day (AM+PM ~15m): LinkedIn/Mercury/browser; logs→OS+Discord digest.
+- **2026-07-19:** **T-078** Founders 100+ Strategy · **T-079** Founder-focus vs Lika DEV/camp · T-054 Yana Mini-Founder fork · T-022 CTR pull order · `context/local/2026-07-19-founders-100-strategy.md`.
+- Session: Founder may stay as long as wants — sea is finite list.
+- **Closed 2026-07-18 ~00:04** — Founder sleep; perimeter held (Tier E backlog + dumps; Savelova thread closed outside canon).
+
+(добавляй items сюда сам или говори Architect'у / Mira при сессии — закинут)

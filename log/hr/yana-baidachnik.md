@@ -43,6 +43,10 @@
 
 > «это погружение в разработку и работа, направленная на улучшение жизни других компаний»
 
+## Strategy note (2026-07-19)
+
+Founder: strong ops; can take TH-01 operations now; **optional Mini-Founder / separate node later** (AI DEV agency clone). RF passport **OK** under residence-outside-RF policy. Alternate: strong compensation and stay in Orbios team. **Not** assigned Founder personal-life (Track A) slot — that is T-079 (Lika fix or +1). See `context/proposals/founders-100-track-v1.md` + backlog T-054/T-078.
+
 > «уточняю у источника задачи и разбираюсь, если возможно, как выполнить задачу наилучшим образом»
 
 ## Open HR items

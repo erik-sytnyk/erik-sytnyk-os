@@ -54,3 +54,7 @@ Capture Founder-shared history + household/ops intent so Vector/Lana/Architect d
 - Public TH-01 / Vector daily: ops tasks + opaque handles only.
 - This file: full narrative for Founder OS / Architect / Vector with Privacy Mode.
 - Do not paste Nana personal timeline into `#general` or company-wide channels again.
+
+## Addendum — Mira unload triage 2026-07-17 ~23:30 +07
+
+Discord archive above already held most narrative. **Backlog elevations:** T-065 (Tuhta/Founder Track next week), T-066 (car keys), T-067 (capacity before unload + stability before scale). T-015 updated (27k / keys missing). **Bali for ДР:** later same-night Founder→Mira drop overrides Discord «Bali or CM» list. Apartment «Bangkok not required» remains verify-only. Flexible ACL between clusters/projects = Architect later — not landed as T yet.
