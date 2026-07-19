@@ -754,7 +754,7 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Owner:** founder (destination + budget gate) → TH-01 ops / Lika (calendar + logistics assist when delegated)
 - **Type:** personal / Track A
 - **Status:** open
-- **Priority:** high — **deadline 2026-08-04**; decision window **now → ~late July**
+- **Priority:** medium — **optional by resource**; hard date 2026-08-04 still real, but planning may slip **+1 week**
 - **Trigger:** unload 2026-07-17 — Founder wants to plan ДР; Bali not viable
 - **Acceptance:**
   1. **Bali trip — dropped** (Founder: «Бали трип я не тяну») — do not keep as active option
@@ -767,6 +767,7 @@ Architect grep'ит файл при старте каждой сессии и п
   - Days to ДР from capture: **~18**. Prefer destination lock with buffer for booking.
   - Cross-ref: dump `dumps/2026-07-17-camp-partner-household-eod.md` (ДР track opaque), T-034 laptop, T-062 finance clarity, T-064 clothes, T-044 Track A partner (optional overlap only — not required for trip).
   - **Conflict resolve:** Discord ~18:xx same day still listed Bali as option; later Mira unload = Bali dropped. **Authoritative = Bali out**; CM light option stands.
+  - **2026-07-19 ~15:36:** Founder — ДР опционально по ресурсу; можно на неделю отложить; **Monday discuss** with TH-01 roles frame.
 
 ### T-064 — New clothes + explicit personal allocation (July gap aware)
 - **Owner:** founder (amount gate) → TH-01 ops (remind / track once delegated)
@@ -784,7 +785,7 @@ Architect grep'ит файл при старте каждой сессии и п
   - Cross-ref: T-062, T-015 (Nana track), T-063 road prep.
 
 ### T-065 — Tuhta household ops → Founder Track (next week, no Founder manage)
-- **Owner:** Lika (comms/ops) + founder (phone handoff + R5) · later OS agent relay
+- **Owner:** Lika (comms via translator / remote) + founder (R5 only; no day-explain) · later OS agent relay · Founder-focus +1 when hired (T-079)
 - **Type:** household / Founder Track
 - **Status:** open
 - **Priority:** high — **next week** (Founder: «большой запрос пофиксить… у меня нет времени её менеджить»)
@@ -796,7 +797,9 @@ Architect grep'ит файл при старте каждой сессии и п
   4. Ideal split explored: **3 days alt work + 3 days as now** (Founder preference); practice local + AI-agent results
   5. Perimeter: stop / contain info leak Tuhta→Nana on Founder status (channel design + instruction)
   6. Founder **not** day-managing Tuhta
+  7. **Remote path tried:** Lika manages Tuhta through translator; Founder does **not** spend resource explaining; standing order / checklist so «одно и то же из 7» is not re-ordered daily by Founder
 - **Notes:** No personal relationship with Tuhta (contrast Nana). Clean house = major plus post Orbios 1/2 collapses. Cross-ref dump `dumps/2026-07-17-camp-partner-household-eod.md` § Household.
+  - **2026-07-19 ~15:36:** Founder — Лика делает минимум, который устраивает; friction = daily same 7-Eleven order by Founder. Try organize **remote** + translator. Other personal tasks Founder keeps (volume OK with DEV+camp). Monday discuss.
 
 ### T-066 — Camp car keys / unlock (post-Nana exit residual)
 - **Owner:** founder (gate) → Anna (local execution advice)
@@ -908,14 +911,15 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Owner:** founder (R5/strategy) → Illia/UA-02 Speaker path (ops) · Broker-1 perimeter rules hold
 - **Type:** runway / UA-02
 - **Status:** open
-- **Priority:** **high next week** — Founder: cushion for Orbios before potential 2026–27 stress; believes in current Orbios
+- **Priority:** medium — **optional by resource**; may defer **+1 week** (Monday discuss 2026-07-19)
 - **Trigger:** unload 2026-07-18 00:00
 - **Acceptance:**
-  1. Next-week attention on apartment sale progress via **OS→Illia→UA-02** (not Founder-Broker direct spiral)
+  1. Attention on apartment sale progress via **OS→Illia→UA-02** (not Founder-Broker direct spiral) when capacity allows
   2. Framed as **company safety cushion / buffer**, not only personal drama
   3. Bangkok-trip claim from Broker-1 = verify only (dump 2026-07-17)
   4. Does not re-capture 100% Founder bandwidth (anti-pattern: apartment-only mode)
 - **Notes:** Complements T-023 inventory, T-067 stability. Mira: coherent with buffer-before-scale; keep ops delegated.
+  - **2026-07-19 ~15:36:** Founder — квартира опционально по ресурсу; можно на неделю отложить; Monday discuss with roles/ops frame.
 
 ### T-076 — August dual-track: Patrik ∥ market extension
 - **Owner:** founder (R5 / DEV on Patrik) · TH-01/PH-01 (market extension execution)
@@ -966,11 +970,13 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Priority:** high — развести слоты, не ломать Яну и Лику одним ТЗ
 - **Trigger:** Mira 2026-07-19 — нужна девочка с фокусом на фаундера; Лика пока не тянет; Лика готова DEV assist + кэмп
 - **Acceptance:**
-  1. **Decision:** (A) fix Lika on Founder-focus with clear DoD · **or** (B) +1 hire for Founder-focus · Lika moves fully to DEV assist + camp
+  1. **Decision lean (2026-07-19):** **(B)** +1 hire for Founder-focus (м/ж assistant PM Founder life as separate OS module) · Lika = DEV assist + camp (+ Tuhta min via translator/remote, T-065)
   2. Written role boundaries: Founder-focus ≠ ops-ноды (Яна) ≠ camp/DEV assist (Лика)
-  3. Tuhta/household (T-065) may sit under Founder-focus or ops — pick owner, no dual vacuum
+  3. Tuhta/household (T-065): Lika keeps **minimum that works** via translator + try remote; Founder does not re-explain daily; standing 7-Eleven order path so Founder stops re-ordering same item
   4. Яна **не** назначается «няней личной жизни»
+  5. Other personal tasks — Founder self for now; volume OK to combine with DEV + camp until +1 lands
 - **Notes:** Complements T-054, T-065, T-027 schedule. Strategy § people slots.
+  - **2026-07-19 ~15:36:** Discord roles update sent; this addendum OS-only / Monday discuss (not in #general paste).
 
 ---
 
