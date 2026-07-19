@@ -733,6 +733,7 @@ Architect grep'ит файл при старте каждой сессии и п
   - Cross-ref: T-021, T-045 (LinkedIn remote stays ops-side), T-027, T-067, T-076, vision Monday draft.
   - Scope: personal Track A channels may stay opaque/exception list — external *work* touches default via TH-01.
   - **2026-07-19 ~15:40:** Operating intent — **Yana lead** company management + comms; Founder = **DEV**, pinged as Founder only where needed. **Blocked on Yana explicit OK** (T-054 §8 / outbound confirm). Exception: Patrik DEV order = Founder direct as DEV.
+  - **2026-07-19 ~15:44 DM hygiene:** Founder Discord **DM only with Yana**; no Founder DMs with the rest of the team. Occasional logs into Yana DM via agent OK. All other people → delegate to **Yana or Illia** within the week. Broadcast → channels (`#general` etc.), not 1:1.
 
 ### T-062 — Personal finance clarity + delegate to TH-01 ops
 - **Owner:** founder (R5 gates / spend decisions) → TH-01 ops (tracking, rollups, nudges) · ledger detail → `orbios-finance-kb` (OD-043)
