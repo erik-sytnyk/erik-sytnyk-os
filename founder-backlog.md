@@ -78,6 +78,7 @@ Architect grep'ит файл при старте каждой сессии и п
   - **2026-07-18 01:18 Founder correction:** «почему я заказать диск — делегировать; я сажусь за DEV, всё остальное делегируется». Mira catch: не предлагать Founder routine procurement.
   - **2026-07-18 01:16:** приоритет до ДР как working gift; информационная гигиена.
   - Founder surface = install + coding setup only. Shopping/доставка = TH-01.
+  - **2026-07-19:** machine has WD Blue SN5000 1TB NVMe (Windows). Spec note: `setup/t-005-disk-spec-recommended.md`. Outbound Yana validate+buy: `log/vector/outbound/2026-07-19-yana-t005-disk-validate.md` (parent repo).
   - Cross-ref: T-034 laptop, T-045 Win remote LinkedIn, T-063 ДР prep, T-061/T-067 ops capacity.
 
 ### T-006 — Limit личного контакта с Broker-1 (Savelova) ≤ 2x/неделю
