@@ -554,15 +554,17 @@ Architect grep'ит файл при старте каждой сессии и п
 - **Acceptance:**
   1. **Verify Яна location** — exact TH city + weekly hour availability
   2. Founder R5 ratify contractor trial
-  3. Scope **now:** взять **операционку** TH-01 (content/comms + AI workflows + external touches relay per T-061) — сильный ops
+  3. Scope **now:** взять **операционку + маркет** Orbios + **company communications** (T-061); подключать Founder только где нужен R5
   4. Trial: $5/hr + $500 ceiling + 4-week cap; **lower initial hour caps** (part-time constraint); path to **хорошая ЗП** если остаётся в команде
   5. Probe questionnaire «Частично» on decision responsibility — define boundaries in writing; watch **ownership 4–8 weeks**
   6. On GO: scaffold TH-01-02 per `sops/add_unit.md`; shared cluster account per `sops/cluster_account_strategy.md`
   7. **Fork (not now):** (A) stay Orbios Principal/ops with strong comp · (B) **Mini-Founder / отдельная нода** (AI DEV agency clone) — Founder sees potential; **RF passport OK** if residence outside RF (`hiring-criteria.md`)
+  8. **Confirm appetite (open):** Яна явно ОК на режим «управление + коммуникации по компании; Founder = DEV» — outbound `log/vector/outbound/2026-07-19-yana-ops-ownership-confirm.md`
 - **Budget envelope:** same sandbox tier as T-053
 - **Notes:**
   - Public profile `context/personnel/th-01-02-candidate-yana.md`; HR `modules/founder-private/log/hr/yana-baidachnik.md`. Separate R5 from T-053 primary slot.
   - **2026-07-19:** Founder — Яна сильный ops; может стартовать отдельную ноду; не путать с Founder-focus personal slot (T-079). Strategy: `context/proposals/founders-100-track-v1.md` + T-078.
+  - **2026-07-19 ~15:40:** Founder — дальше Яна берёт управление и подключает его как фаундера где нужно; он концентрируется на DEV и делегирует company comms на неё **если ей это ОК** (уточнить).
 
 ### T-055 — Standardize Google Forms candidate questionnaire format → PH-01 recruitment canonical template
 - **Owner:** Vianca (PH-01-01) — M015 / recruitment scope
@@ -730,6 +732,7 @@ Architect grep'ит файл при старте каждой сессии и п
   - **2026-07-18 01:24 sharpen:** «ведение всех внешних касаний через TH-01»; рабочие интерфейсы Founder = **Cursor + Discord only**; convenience without extra tools. August plan strokes enough (Patrik∥market) — this is next architecture stroke.
   - Cross-ref: T-021, T-045 (LinkedIn remote stays ops-side), T-027, T-067, T-076, vision Monday draft.
   - Scope: personal Track A channels may stay opaque/exception list — external *work* touches default via TH-01.
+  - **2026-07-19 ~15:40:** Operating intent — **Yana lead** company management + comms; Founder = **DEV**, pinged as Founder only where needed. **Blocked on Yana explicit OK** (T-054 §8 / outbound confirm). Exception: Patrik DEV order = Founder direct as DEV.
 
 ### T-062 — Personal finance clarity + delegate to TH-01 ops
 - **Owner:** founder (R5 gates / spend decisions) → TH-01 ops (tracking, rollups, nudges) · ledger detail → `orbios-finance-kb` (OD-043)
