@@ -5,16 +5,16 @@ Architect grep'ит файл при старте каждой сессии и п
 
 **Format:** per `sops/task_management.md` — `T-NNN` global counter, Founder surface.
 
-## SESSION FOCUS (2026-07-19 refresh)
+## SESSION FOCUS (2026-07-19 evening → next week)
 
 | | |
 |---|---|
-| **Founder roles (RATIFIED 15:47)** | **DEV** + **Founder Личное** — company day-ops/comms ≠ default Founder surface |
-| **Strategy** | **T-078** — Founders 100+ Track (Phase A эталон → B child-nodes → C 100+) |
-| **Active (ops surface)** | **T-061 / T-077** — Cursor+Discord; 1–2 Linux ops-calls/day · Yana lead (await OK) |
-| **Active (people)** | **T-054** Яна ops · **T-079** +1 Founder-life PM · Lika = DEV assist + camp |
-| **Active (revenue)** | **T-076** Patrik ∥ market extension |
-| **Background** | T-031 files, T-005 Pop!_OS (disk delegated), T-075 apartment cushion (soft defer), rest of open T-NNN |
+| **Week frame** | **DEV + забота о себе** — family/Savelova/Katya hyperfocus **CLOSED** for week (dossier holds; no discovery) |
+| **Founder roles (RATIFIED)** | **DEV** + **Founder Личное** — company day-ops/comms ≠ default Founder surface |
+| **Hyperfocus A (DEV)** | **T-072 / T-076** Patrik delivery track · protected coding blocks |
+| **Hyperfocus B (self)** | Sleep / body / pool-ultra as fits · **T-005** Pop!_OS when disk ready (gift-to-self, not drama) |
+| **Delegate only** | Yana ops+comms (await OK) · Illia UA/PH · Lika DEV assist+camp · apartment/ДР soft defer |
+| **Background** | T-061/T-077 ops sessions via team · T-075 soft · Savelova P-001/S-001 parked unless remote-MD slot he opens |
 
 ---
 

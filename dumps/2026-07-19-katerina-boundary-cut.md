@@ -1,12 +1,14 @@
 ---
 id: 2026-07-19-katerina-boundary-cut
-status: proposed
+status: sent
 channel: Founder → Katerina
 persona: Mira
 model: Grok 4.5
 proposed_at: 2026-07-19 18:24 +07:00
+confirmed_at: 2026-07-19 18:30 +07:00
 supersedes: 2026-07-19-katerina-s001-remote-md-ask
 tier: E
+note: Founder «да, все ок»
 ---
 
 # Boundary cut — Katerina
@@ -34,4 +36,4 @@ tier: E
 
 ## Confirmation
 
-- [ ] Founder sent — awaiting `отправил` / `sent` / `правь: …`
+- [x] Founder OK / sent — 2026-07-19 ~18:30 +07
