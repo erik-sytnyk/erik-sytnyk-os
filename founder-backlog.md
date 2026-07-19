@@ -9,11 +9,12 @@ Architect grep'ит файл при старте каждой сессии и п
 
 | | |
 |---|---|
+| **Founder roles (RATIFIED 15:47)** | **DEV** + **Founder Личное** — company day-ops/comms ≠ default Founder surface |
 | **Strategy** | **T-078** — Founders 100+ Track (Phase A эталон → B child-nodes → C 100+) |
-| **Active (ops surface)** | **T-061 / T-077** — Cursor+Discord; 1–2 Linux ops-calls/day |
-| **Active (people)** | **T-054** Яна ops (+ Mini-Founder fork later) · **T-079** Founder-focus slot (fix Lika / +1) |
+| **Active (ops surface)** | **T-061 / T-077** — Cursor+Discord; 1–2 Linux ops-calls/day · Yana lead (await OK) |
+| **Active (people)** | **T-054** Яна ops · **T-079** +1 Founder-life PM · Lika = DEV assist + camp |
 | **Active (revenue)** | **T-076** Patrik ∥ market extension |
-| **Background** | T-031 files, T-005 Pop!_OS (disk delegated), T-075 apartment cushion, rest of open T-NNN |
+| **Background** | T-031 files, T-005 Pop!_OS (disk delegated), T-075 apartment cushion (soft defer), rest of open T-NNN |
 
 ---
 
@@ -979,8 +980,10 @@ Architect grep'ит файл при старте каждой сессии и п
   3. Tuhta/household (T-065): Lika keeps **minimum that works** via translator + try remote; Founder does not re-explain daily; standing 7-Eleven order path so Founder stops re-ordering same item
   4. Яна **не** назначается «няней личной жизни»
   5. Other personal tasks — Founder self for now; volume OK to combine with DEV + camp until +1 lands
+  6. **Founder self-role RATIFIED 2026-07-19 ~15:47:** official dual = **DEV** + **Founder Личное** (not company ops default)
 - **Notes:** Complements T-054, T-065, T-027 schedule. Strategy § people slots.
   - **2026-07-19 ~15:36:** Discord roles update sent; this addendum OS-only / Monday discuss (not in #general paste).
+  - **2026-07-19 ~15:47:** Founder: «официально в роли DEV и Фаундер Личное».
 
 ---
 
