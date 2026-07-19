@@ -1,15 +1,18 @@
 ---
 id: 2026-07-19-katerina-s001-remote-md-ask
-status: proposed
+status: superseded
 channel: Founder → Katerina (Telegram / family)
 persona: Mira
 model: Grok 4.5
 proposed_at: 2026-07-19 18:11 +07:00
+superseded_at: 2026-07-19 18:24 +07:00
+superseded_by: 2026-07-19-katerina-boundary-cut
 cross_ref: people/savelova/suspicions/S-001-2026-07-19-market-faint-claim.md
 tier: E
+note: Founder cut channel with Katerina — do not send 50/50 ask
 ---
 
-# To Katerina — S-001 remote MD (50/50) + AI analysis
+# To Katerina — S-001 remote MD (50/50) + AI analysis — SUPERSEDED
 
 ## AI analysis (for Founder; optional short share)
 
