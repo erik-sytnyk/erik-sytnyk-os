@@ -806,7 +806,7 @@ Architect grep'ит файл при старте каждой сессии и п
   7. **Remote path tried:** Lika manages Tuhta through translator; Founder does **not** spend resource explaining; standing order / checklist so «одно и то же из 7» is not re-ordered daily by Founder
 - **Notes:** No personal relationship with Tuhta (contrast Nana). Clean house = major plus post Orbios 1/2 collapses. Cross-ref dump `dumps/2026-07-17-camp-partner-household-eod.md` § Household.
   - **2026-07-19 ~15:36:** Founder — Лика делает минимум, который устраивает; friction = daily same 7-Eleven order by Founder. Try organize **remote** + translator. Other personal tasks Founder keeps (volume OK with DEV+camp). Monday discuss.
-  - **2026-07-20 ~14:30:** Float model — top up **~1k THB on request**; day ~450–500 (incl. ~350 rate + gas + breakfast extras). Founder **stops** calculating per task/receipt. Keep working 7-Eleven set; farther store first; pastry substitute OK. Dump: `dumps/2026-07-20-tuhta-float-standing-orders.md`. Tonight = top-up + sleep; Lika continues Line/comms.
+  - **2026-07-20 ~14:30–14:36:** Float = **+1000 on Discord notify** («Эрик, пополни счёт Тухте на +1000»); Lika↔Tuhta gradually learn real burn — Founder does not itemize. Store name **7/11** (เซเว่น), not bare «7». Standing set + farther store first + pastry substitute. Dump: `dumps/2026-07-20-tuhta-float-standing-orders.md`.
 
 ### T-066 — Camp car keys / unlock (post-Nana exit residual)
 - **Owner:** founder (gate) → Anna (local execution advice)
