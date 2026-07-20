@@ -42,10 +42,14 @@ Discord Orbios-UA-02 only if/when explicitly opened for field ops — **not** PH
 
 ---
 
-## One-liners
+## Correct data plane (Founder 2026-07-20 revise)
 
-| To | Line |
-|----|------|
-| Savelova | «Не в Discord компании — в наш Telegram; там агент/OS.» |
-| Illia | «Не продолжай тред в shared — перенос в Telegram / UA-02 lane.» |
-| Self | Approve only Telegram+Speaker path; ignore Discord pings from her in wrong rooms. |
+Not «Telegram to Erik/Illia instead of Discord».
+
+**Primary:** her **OS ops seat** → `intake #: …` or agent session → **live validation + probing questions** on disputed claims → OS dump/branch.
+
+Telegram = nudge only. Discord company = wrong room (no validation, wrong audience).
+
+**Illia AU pivot:** no mandatory new communicator if seat+agent path works; Illia = digest/gate, not day-relay.
+
+Public note: `clusters/ua-02/research/participant-os-seat-io-2026-07-20.md`
