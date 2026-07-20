@@ -1,0 +1,51 @@
+# Dump — channel discipline cases (Savelova ↔ staff) for Founder reply 2026-07-20
+
+> **Tier:** founder-private · Source: toxic-patterns report + Founder ask  
+> **Use:** arguments for Erik / Illia / soft framing to Savelova  
+> **Do not** paste raw quotes into company Discord or public OS.
+
+---
+
+## Why not company Discord («сюда»)
+
+| Audience | Risk if she posts in company Discord |
+|----------|--------------------------------------|
+| PH / Vianca | Sees apartment / A023 names — hygiene fail (2026-07-20 already) |
+| Team | Treats her as ops peer without OS access |
+| Founder | Agent/OS intake broken — Telegram setup wasted |
+| Illia | Parallel threads → dual truth |
+
+**Correct lane:** private Telegram (agent-capable) + Illia Speaker → OS.  
+Discord Orbios-UA-02 only if/when explicitly opened for field ops — **not** PH shared / TH general.
+
+---
+
+## Case anchors (for Erik — not for her paste)
+
+### Illia (positive — use with him)
+
+- Apr–May 2026: she offered bypass («без Эрика») and asked for passport/ID from DB for apartment docs.  
+- Illia held: talk to Erik first; no steps without picture.  
+→ **Argument for Illia:** you already set the standard — don’t reopen Discord as informal bypass.
+
+### Savelova (soft in her message; hard in private)
+
+- Pattern across COO/AI Ops: side Telegram with staff, tasks without mandate, discuss Founder personally.  
+- Vova channel: «мы с вами решаем» — Founder not in loop (E-001 / report §2.3).  
+→ **Argument to her:** company Discord recreates the same failure mode (wrong people + no agent record). Telegram we built is the only place that feeds OS/agent.
+
+### Erik (self)
+
+- Spent heavy time wiring Telegram↔agent for her perimeter.  
+- If work stays in Discord random rooms → that investment fails; Founder again becomes human translator.  
+- Perimeter accreditation (2026-07-12): no free roam on company channels until accredited.
+
+---
+
+## One-liners
+
+| To | Line |
+|----|------|
+| Savelova | «Не в Discord компании — в наш Telegram; там агент/OS.» |
+| Illia | «Не продолжай тред в shared — перенос в Telegram / UA-02 lane.» |
+| Self | Approve only Telegram+Speaker path; ignore Discord pings from her in wrong rooms. |
