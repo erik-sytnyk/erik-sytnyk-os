@@ -42,7 +42,18 @@ Discord Orbios-UA-02 only if/when explicitly opened for field ops — **not** PH
 
 ---
 
-## Correct data plane (Founder 2026-07-20 revise)
+## Evidence anchors (dumps `integration/savelova-telegram/` — staff)
+
+Off-hours / personal-messenger pattern (Tatiana → employees, UTC+2 in exports):
+
+| Dump | Signal |
+|------|--------|
+| Volodymr | 18.03.2026 — «вечером… оперативку, Я долго не ложусь»; msg **19:23** same day |
+| anastasia | **~51** Tatiana msgs off-hours (≥19 or <08), e.g. 01.01 **05:36**, 03.01 **22:10**, mornings ~06–07 |
+| Olya_Kyrylenko | **~273** Tatiana off-hours msgs (evenings ~19–21+) |
+| Illya | fewer; still evening touch e.g. 04.05 **19:51** |
+
+Unsanctioned staff DM: Volodymr channel — Founder knew Vova–Katerina, **not** Vova–Tatiana (E-001 / perimeter). Do not paste health/personality quotes into joint TG.
 
 Not «Telegram to Erik/Illia instead of Discord».
 
