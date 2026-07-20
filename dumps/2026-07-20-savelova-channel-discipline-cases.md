@@ -48,8 +48,7 @@ Not «Telegram to Erik/Illia instead of Discord».
 
 **Primary:** her **OS ops seat** → `intake #: …` or agent session → **live validation + probing questions** on disputed claims → OS dump/branch.
 
-Telegram = nudge only. Discord company = wrong room (no validation, wrong audience).
+Telegram OK only as **short nudge** / joint start prompt (Tatiana+Illia alt chat) — not as the data plane. Full signature on pastes: `— Erik | Vector [<model>]`.
 
-**Illia AU pivot:** no mandatory new communicator if seat+agent path works; Illia = digest/gate, not day-relay.
-
-Public note: `clusters/ua-02/research/participant-os-seat-io-2026-07-20.md`
+**Joint paste:** `log/vector/outbound/2026-07-20-ua02-tatiana-illia-os-seat-joint.md`  
+Illia forwards start-prompt; reject unstructured walls.
