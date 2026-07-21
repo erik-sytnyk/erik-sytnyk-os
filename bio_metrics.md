@@ -2,7 +2,9 @@
 
 > **Audience:** Erik (DEV-01) + Claude on explicit request only.
 > **Source:** `orbios-os-v3:/log/open_decisions.md` OD-027.
-> **Note:** High-level operational BP readings used for the Read-Only gate live in `orbios-os-v3:/context/state-of-orbios/<date>.md § 5`. This file holds the deep history: daily logs, symptoms, fitness, supplements.
+> **Note:** High-level operational BP readings used for the Read-Only gate live in `orbios-os-v3:/context/state-of-orbios/<date>.md` § 5. This file holds the deep history: daily logs, symptoms, fitness, supplements.
+>
+> **Episode / recovery canon:** `health/context-log.md` (updated 2026-07-21). Do not duplicate clinical narrative here — pointer only.
 
 ---
 
