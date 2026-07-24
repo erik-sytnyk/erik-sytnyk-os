@@ -40,14 +40,14 @@ This does **not** restore company accreditation. It is a **Founder energy experi
 | **Cycle start** | 2026-07-24 (post-session) |
 | **Hard cap** | **120 minutes** voice cumulative |
 | **Cycle end trigger** | Next psychologist / support session (Olya or named) — then mandatory review |
-| **Used** | 0 min (log below) |
-| **Remaining** | 120 min |
+| **Used** | ~TBD (post-session call logged — minutes pending Founder) |
+| **Remaining** | 120 − used |
 
 ### Usage log
 
 | Date | Start–end (SEAST) | Minutes | Initiator | Topics (opaque) | AI note |
 |------|-------------------|---------|-----------|-----------------|---------|
-| — | — | — | — | — | — |
+| 2026-07-24 | after psych session → before ~16:34 | **TBD** | Founder | post-therapy contact | Logged late: call happened **before** budget file landed. Ask Founder for minutes + energy 1–5 before/after + leak flags. |
 
 ---
 
