@@ -115,6 +115,7 @@ Exile = Layer A only. Layer B without structure = another 2h usefulness-bait cra
 
 ## 7. Cross-refs
 
+- **Hub:** `savelova-profile.md` — this file is a **leaf** under the person profile (Founder directive 2026-07-24 evening: all comms + analysis anchor there)  
 - `savelova-voice-budget-2026-07-24.md`  
 - `savelova-perimeter-accreditation.md` (Layer A)  
 - `savelova-one-way-channel.md`  

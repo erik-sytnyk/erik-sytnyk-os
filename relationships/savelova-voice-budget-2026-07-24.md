@@ -92,6 +92,7 @@ Checklist for AI + Founder (Tier E only):
 
 ## 7. Cross-refs
 
+- **Hub:** `savelova-profile.md` — contact ledger §3 is now the master log; voice rows land there as well as in §3 above  
 - Public opaque: UA-02 ops continue; contact = Speaker / Discord — no public «toxicity» copy  
 - Opus: may help structure PoA/tax without Founder–Savelova live voice  
 - Next: land first usage row when a call happens; schedule review at next Olya/psych session
