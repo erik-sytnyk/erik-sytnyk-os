@@ -98,6 +98,20 @@ Checklist for AI + Founder (Tier E only):
 
 ---
 
+## 9. Pattern lock — Usefulness bait (2026-07-24 dump)
+
+**Observed:** After «кроме квартиры нет рабочих» + energy-leak frame → she offered cleaner / UA diaspora / Camp construction contacts → Founder interest → insisted intake + copied TG history → energy **3→1**.
+
+**ACTIVE rule for AI + Founder:**
+1. Mid-call usefulness offer = **bait**, not gift.  
+2. Response script: «Ок, кинь в Telegram / OS intake — я не разбираю голосом. Стоп через 2 минуты.»  
+3. **Forbidden:** live дожим, live intake wizard on the same call, expanding agenda.  
+4. Extract = agent session later. Founder ratifies cards async.  
+5. Psych 2026-07-25: primary case for this pattern.
+
+---
+
+
 ## 8. Cycle lock (2026-07-24 16:42 SEAST — Vector command)
 
 **Founder granted behavioral management** (low energy + company crisis). Vector command:
@@ -111,3 +125,4 @@ Checklist for AI + Founder (Tier E only):
 
 *Founder direction 2026-07-24 — voice budget + energy-leak cycle.*  
 *Vector lock 2026-07-24 16:42 — budget exhausted; dump then company/rest.*
+*Pattern lock §9 — usefulness bait 2026-07-24.*
