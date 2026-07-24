@@ -35,6 +35,7 @@
 **Rule (ACTIVE):** Interest ≠ green light for open voice. Contacts → **async extract only** (TG forward / intake / agent). **No live «дожим».** If bait appears mid-call: hard stop, «в OS асинхронно», end call ≤5 min.
 
 ## Extract queue (no Founder voice)
-- [ ] Land Telegram history copy → `savelova-orbios-os` intake/evidence or founder-private dump
-- [ ] Agent extract: cleaner / diaspora / Camp construction contacts → structured cards
-- [ ] Founder only ratifies «use / park / discard» per contact — not another call
+- [x] Land Telegram history copy → `savelova-orbios-os/_private/telegram/help-contacts/` (gitignored)
+- [x] Agent extract: Camp construction / driver / diaspora / helper / insurance → **14 cards** in `relationships/savelova-contact-cards-2026-07-24.md` (Vector 2026-07-24, no Founder voice)
+- [ ] `vitaly.zip` second pass (no Founder)
+- [ ] Founder only ratifies «use / park / discard» per contact — not another call. **Vector pre-verdict: 0 USE, park behind existing triggers** — nothing on August-cash or UA-02 path.

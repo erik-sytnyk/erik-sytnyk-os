@@ -105,7 +105,8 @@ Exile = Layer A only. Layer B without structure = another 2h usefulness-bait cra
 
 - [x] Voice budget + usefulness-bait lock  
 - [x] Call dump 2026-07-24 (3→1)  
-- [ ] Unpack / card `help_contacts.zip` + `vitaly.zip` (in `integration/savelova-telegram/` → copied `_inbox`)  
+- [x] Unpack + card `help_contacts.zip` → `savelova-contact-cards-2026-07-24.md` (14 cards, Vector agent extract, zero Founder voice) — awaits async USE/PARK/DISCARD pass  
+- [ ] Unpack / card `vitaly.zip` (in `integration/savelova-telegram/`) — second pass, no Founder  
 - [ ] Psych packet 2026-07-25 from dump  
 - [ ] After psych: leak verdict → HOLD/INCREASE/DECREASE  
 - [ ] Optional: Opus pass on frame v1 vs accreditation (no Founder energy)
