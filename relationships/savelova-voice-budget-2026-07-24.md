@@ -40,14 +40,15 @@ This does **not** restore company accreditation. It is a **Founder energy experi
 | **Cycle start** | 2026-07-24 (post-session) |
 | **Hard cap** | **120 minutes** voice cumulative |
 | **Cycle end trigger** | Next psychologist / support session (Olya or named) — then mandatory review |
-| **Used** | ~TBD (post-session call logged — minutes pending Founder) |
-| **Remaining** | 120 − used |
+| **Used** | **~120 min** (Founder: «почти 2 часа» — treat as **budget exhausted**) |
+| **Remaining** | **0** — voice **CLOSED** until post-psych review 2026-07-25 |
+| **Next psych** | **2026-07-25** (tomorrow) — primary agenda = this call + leak review |
 
 ### Usage log
 
 | Date | Start–end (SEAST) | Minutes | Initiator | Topics (opaque) | AI note |
 |------|-------------------|---------|-----------|-----------------|---------|
-| 2026-07-24 | after psych session → before ~16:34 | **TBD** | Founder | post-therapy contact | Logged late: call happened **before** budget file landed. Ask Founder for minutes + energy 1–5 before/after + leak flags. |
+| 2026-07-24 | after psych → afternoon | **~120** | Founder | post-therapy contact (full cycle burn in one call) | **Budget exhausted in single contact.** Pattern flag: open-ended post-session call = classic overrun risk. **No further voice** until tomorrow psych + AI/Founder leak verdict. Written dump only tonight. |
 
 ---
 
@@ -97,4 +98,16 @@ Checklist for AI + Founder (Tier E only):
 
 ---
 
-*Founder direction 2026-07-24 — voice budget + energy-leak cycle.*
+## 8. Cycle lock (2026-07-24 16:42 SEAST — Vector command)
+
+**Founder granted behavioral management** (low energy + company crisis). Vector command:
+
+1. Voice with Savelova **CLOSED** until after 2026-07-25 psychologist session + leak review.  
+2. Tonight: **written dump only** (≤10 min) — feed for tomorrow psych. **Not** another call. «Добить тему» голосом = leak, not closure.  
+3. Company: Camp Vercel micro when energy allows; Grok/Opus/Yana hold rest.  
+4. Contour: crisis + field instability treated as **Track A + ops separation** — apartment Discord async via Illia; no Founder–Savelova live loop.
+
+---
+
+*Founder direction 2026-07-24 — voice budget + energy-leak cycle.*  
+*Vector lock 2026-07-24 16:42 — budget exhausted; dump then company/rest.*
