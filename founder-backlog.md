@@ -81,13 +81,17 @@ Architect grep'ит файл при старте каждой сессии и п
   - **2026-07-19:** machine has WD Blue SN5000 1TB NVMe (Windows). Spec note: `setup/t-005-disk-spec-recommended.md`. Outbound Yana validate+buy: `log/vector/outbound/2026-07-19-yana-t005-disk-validate.md` (parent repo).
   - Cross-ref: T-034 laptop, T-045 Win remote LinkedIn, T-063 ДР prep, T-061/T-067 ops capacity.
 
-### T-006 — Limit личного контакта с Broker-1 (Savelova) ≤ 2x/неделю
-- **Owner:** founder
+### T-006 — Limit личного контакта с Broker-1 (Savelova) — voice budget cycle
+- **Owner:** founder + AI frame (Vector/Mira)
 - **Type:** action
 - **Status:** in-progress
 - **Trigger:** ongoing protocol
-- **Acceptance:** Day-to-day Telegram/Viber/etc прекращён. Контакт только: (а) ≤2x/неделю в Founder-выбранное время когда Track A в ресурсе, ИЛИ (б) через терапевта как третью сторону для сложных family узлов.
-- **Notes:** Per Nova framing 2026-05-30 + OD-037 hardening. Операционка по квартире — через **Illia relay → Lana digest** (UA-02-M001-T16), not routine Founder↔participant channel. **2026-06-17:** goal = **delegation**, not endurance; on-site inventory via participant (T17); Founder gates only.
+- **Acceptance (superseding soft «≤2x/week» for this cycle):**  
+  1. **Voice ≤ 120 min cumulative** until next psychologist/support session  
+  2. Post-session: **energy-leak review** of those minutes (HOLD / INCREASE / DECREASE)  
+  3. AI frame may assign/refuse voice blocks inside the budget  
+  4. Company perimeter still closed pending accreditation  
+- **Notes:** Founder post-therapy 2026-07-24. Spec: `relationships/savelova-voice-budget-2026-07-24.md`. Apartment ops via Illia/Discord async — not a voice bypass. Prior: Nova 2026-05-30 + OD-037; one-way 2026-06-17; perimeter out 2026-07-12.
 
 ### T-007 — Setup therapist channel для family-content
 - **Owner:** founder
