@@ -15,7 +15,8 @@
 
 - **Place:** Dnipro (Днепр).  
 - **Housing:** 2-room Khrushchevka (**«2шка хрущёвка»**), described as **clogged with clutter / junk** («забитой хламом»).  
-- Home-ed + cluttered small flat = high density of parent presence, low peer / institutional buffer until school entry ~grade 6.
+- **Household (Founder correction 2026-07-25 ~01:53):** mother, father, **younger sister**, Founder — **four people** in two rooms + clutter.  
+- Home-ed + crowded cluttered flat = **no private space**, **no peer flock / «стая»** until school ~grade 6. (Founder: format = parents+sister+me; space/flock reading **confirmed correct**.)
 
 ## Why it matters (Founder-facing, night thread)
 
@@ -45,6 +46,7 @@ Logged in same session as:
 ## Expand later (Founder-led)
 
 - [ ] Years / ages more precise  
-- [ ] Who else in the flat  
+- [x] Who else in the flat — mother, father, younger sister, Founder (4)  
 - [ ] What «домашнее образование» looked like day-to-day  
 - [ ] First school experience grade 6+
+- [ ] Father / sister roles in the density (only if Founder wants)
