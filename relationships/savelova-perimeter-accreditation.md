@@ -53,7 +53,8 @@
 - `people/savelova/` — **personal evidence dossier** (E-001+ pathological lying / gaslight cases; AI-collected so Founder is not forced to gather under live abuse)
 - `relationships/savelova-toxic-patterns-report.md` (audit evidence)
 - `relationships/savelova-one-way-channel.md` (prior one-way design — still relevant post-accreditation)
-- `relationships/savelova-voice-budget-2026-07-24.md` (**ACTIVE** Track A experiment: ≤2h voice / cycle + energy-leak review — does **not** restore company accreditation)
+- `relationships/savelova-engagement-frame-v1.md` (**ACTIVE** — work WITH under AI frame; exile ≠ sole strategy; Layer A company perimeter still closed)  
+- `relationships/savelova-voice-budget-2026-07-24.md` (**ACTIVE** Track A experiment: ≤2h voice / cycle + energy-leak review)  
 - `context/contractors/savelova.md` (public contractor stub — update separately when Founder asks public landing)
 
 ---
