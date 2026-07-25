@@ -21,6 +21,7 @@
 - No life decisions on support session; August R5 gated 01.08  
 - Survival load of Orbios acknowledged — do not argue «close company» as night fix
 
-## Morning
+## Morning / day add (2026-07-25 ~16:31)
 
-Founder returns on his terms. Vector: one-line state, no dump of night unless he asks.
+Founder: already **ready to abandon/quit** («готов и бросить»); **downplaying significance**; focusing on **own problems** too.  
+Vector hold: name both poles without night-style binary — not ratify close, not shame self-focus. Decision class remains clear-state + not sole-load.
