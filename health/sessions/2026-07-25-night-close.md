@@ -21,7 +21,8 @@
 - No life decisions on support session; August R5 gated 01.08  
 - Survival load of Orbios acknowledged — do not argue «close company» as night fix
 
-## Morning / day add (2026-07-25 ~16:31)
+## Day ~16:45 — separation energy
 
-Founder: already **ready to abandon/quit** («готов и бросить»); **downplaying significance**; focusing on **own problems** too.  
-Vector hold: name both poles without night-style binary — not ratify close, not shame self-focus. Decision class remains clear-state + not sole-load.
+Founder: **all energy on separation from Orbios** (сепарация).  
+Vector reading: not automatic = close company. = detach sole-carrier / survival-identity merge.  
+Hold: support separation mechanics (ops to Yana, Founder = rare gates, no night survival decisions); do **not** treat «сепарация» as silent ratify of shutdown.
