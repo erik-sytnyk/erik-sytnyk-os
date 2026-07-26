@@ -34,6 +34,19 @@ Aligns with 2026-07-25 separation self-rule + «remove sole survival responsibil
 - [ ] What DEV-only still includes (sites, architecture, nothing else)?  
 - [ ] Timeline: explore this week vs after July full close 01.08?
 
-## Next wizard step
+## Sequencing add (Founder 2026-07-26 ~07:43)
 
-Ask Founder: **что важнее уточнить первым** — тип партнёра (equity vs lead) **или** «текущий потенциал» (кто/что использовать до поиска).
+1. **First:** use potential of the **last paid week of this month** for **Yana + Lika** (they are already paid through that window — extract value before it ends).  
+2. **Then:** company cash residual named by Founder as **low three-figure USD** (exact figure Tier E / finance only — not for public Discord).  
+3. **Company-level finance questions must be resolved** (recon, obligations, what can be committed) — not Founder-head math alone. Route: finance-kb + Vianca calendar (July full **2026-08-01**) + Yana ops when GO.
+
+### Implications for partner path
+
+- Partner search / cap talk **after** (or tightly coupled with) company finance clarity — do not promise partner terms from residual alone.  
+- Near-term leverage = **Yana + Lika paid week** + AI/OS — aligns with «current potential first».
+
+### Open (wizard)
+
+- [ ] What should Yana’s paid-week focus be? (ops ownership harden / Camp tone / partner brief prep / other)  
+- [ ] What should Lika’s paid-week focus be? (Camp Discord / ground / other)  
+- [ ] Who opens company finance packet? (Vianca + Yana review / Founder+finance-kb session later)
