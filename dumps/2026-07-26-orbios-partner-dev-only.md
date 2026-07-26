@@ -45,8 +45,27 @@ Aligns with 2026-07-25 separation self-rule + «remove sole survival responsibil
 - Partner search / cap talk **after** (or tightly coupled with) company finance clarity — do not promise partner terms from residual alone.  
 - Near-term leverage = **Yana + Lika paid week** + AI/OS — aligns with «current potential first».
 
-### Open (wizard)
+## Add 2026-07-26 ~07:51 — market short-term + Patrik attachment + algorithm-first
 
-- [ ] What should Yana’s paid-week focus be? (ops ownership harden / Camp tone / partner brief prep / other)  
-- [ ] What should Lika’s paid-week focus be? (Camp Discord / ground / other)  
-- [ ] Who opens company finance packet? (Vianca + Yana review / Founder+finance-kb session later)
+### Near-term ops test
+- Use Yana + Lika paid week to see if they are **team players** and can **organize work together** (not only solo tasks).
+
+### Market short-term
+- Open **partner/finder search**: someone finds orders → gets profit share. Short-term market fix, not full co-founder replace-all.
+- Distinct from longer «partner with Founder-comparable cap» — can run in parallel as lighter track.
+
+### Patrik (Founder self-check)
+- All resource poured into Patrik; wonder if **30% advance** was wrong; signals interest; he replies with delay.
+- Doesn't want to live from «I'm not important»; holding Patrik as **last straw**.
+- State: driven horse — Orbios results must match **current** capacity.
+- **Founder OS must first coup this attachment / sole-straw pattern** — algorithm says stay lean/founder-only if needed, not heart.
+
+### Vector adequacy read (from pipeline + cash packets — 2026-07-26)
+
+| Item | Verdict |
+|------|---------|
+| 30% deposit on Phase 1 | **Adequate.** Softened from 50/50; below market 50/50 convention; only commitment device. Post-mortem 07-24: wrong thing to worry about. |
+| Silence since offer 07-23 | **Expected.** As of Sun 07-26 still inside cadence. Next action **07-29** one short ping; dormant **08-05**. Early chase = need signal. |
+| «Last straw» on Patrik | **Not adequate as August plan.** Packets already: September event ± August fragment; do not build month on it. Emotional load ≠ pipeline fact. |
+| Diversify market (finder/profit) + Yana/Lika team test | **Adequate** given state + «current potential first». |
+| Algorithm over heart for people/burn | **Aligns** with separation + sole-load unload. Founder OS priority: interrupt last-straw vigilance. |
