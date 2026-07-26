@@ -69,15 +69,17 @@ Aligns with 2026-07-25 separation self-rule + «remove sole survival responsibil
 3. **Patrik:** no Founder action until **2026-07-29** cadence ping; do not vigil.  
 4. **Company finance:** after paid-week plan named — packet at company level (not tonight improvisation).
 
-### Team-test design (draft)
+### Team-test design (GO)
 
-- **Joint DoD (one):** e.g. «Camp Discord live + one ops checklist for week» OR «Agency hub + Camp handoff note» — pick one concrete, not two solo lists.  
-- **Rule:** they must **split + sync** (who owns what, one check-in). Founder does not micromanage.  
-- **Observe:** do they initiate sync, or wait for Erik?
+- **Founder GO:** 2026-07-26 ~07:56 — «ГОУ»; **no Sunday pings** — all unit pings **Monday 2026-07-27**.  
+- **Joint DoD (one):** Camp Discord live + короткий ops-чеклист на неделю (Lika delivery · Yana ops/sync).  
+- **Rule:** they **split + sync** (who owns what, one check-in). Founder does not micromanage.  
+- **Observe:** do they initiate sync, or wait for Erik?  
+- **Paste ready:** `log/vector/outbound/2026-07-27-yana-lika-team-test-week.md` — HOLD until Mon morning.
 
 ### Next micro for Founder
 
-Only: ACK «team-test GO» or change the joint DoD in one line. Vector drafts Yana+Lika ask when GO (can wait — Yana not pinged 07-25).
+Sunday: rest. Monday: Vector surfaces paste; Founder copies once (or Vector reminds). No other asks today.
 
 
 | Item | Verdict |
