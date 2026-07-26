@@ -60,7 +60,25 @@ Aligns with 2026-07-25 separation self-rule + «remove sole survival responsibil
 - State: driven horse — Orbios results must match **current** capacity.
 - **Founder OS must first coup this attachment / sole-straw pattern** — algorithm says stay lean/founder-only if needed, not heart.
 
-### Vector adequacy read (from pipeline + cash packets — 2026-07-26)
+## Vector lead path (Founder 2026-07-26 ~07:54 — «веди ты»)
+
+**Order chosen by Vector (algorithm, not heart):**
+
+1. **NOW (paid week window):** Yana + Lika **joint team test** — one shared outcome, observe if they organize together.  
+2. **Parallel (agent drafts, Founder low energy):** short **market-finder** brief (find orders → profit share) — PROPOSED paste when Founder GO to Yana (not forced today).  
+3. **Patrik:** no Founder action until **2026-07-29** cadence ping; do not vigil.  
+4. **Company finance:** after paid-week plan named — packet at company level (not tonight improvisation).
+
+### Team-test design (draft)
+
+- **Joint DoD (one):** e.g. «Camp Discord live + one ops checklist for week» OR «Agency hub + Camp handoff note» — pick one concrete, not two solo lists.  
+- **Rule:** they must **split + sync** (who owns what, one check-in). Founder does not micromanage.  
+- **Observe:** do they initiate sync, or wait for Erik?
+
+### Next micro for Founder
+
+Only: ACK «team-test GO» or change the joint DoD in one line. Vector drafts Yana+Lika ask when GO (can wait — Yana not pinged 07-25).
+
 
 | Item | Verdict |
 |------|---------|
