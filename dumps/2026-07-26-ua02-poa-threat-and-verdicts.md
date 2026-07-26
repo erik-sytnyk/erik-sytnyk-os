@@ -17,7 +17,7 @@
 2. Substitution: remove **or** narrow to named Illia (Founder prefers narrow — Thailand re-paper cost).  
 3. Strip attorney money-receipt; tenants → Founder Monobank.  
 4. Keep no sale / no bank-SWIFT; tax clause keep + FOP note.  
-5. Seat: `seat-FS-bound` ★ Opus (family-stakeholder hard-bounded) vs `seat-Illia` vs friend.
+5. Seat: `seat-P-bound` ★ Opus (UA-02 participant hard-bounded) vs `seat-Illia` vs realtor/dual.
 
 ## Grok dissent (summary)
 
