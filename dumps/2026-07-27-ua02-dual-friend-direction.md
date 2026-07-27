@@ -22,6 +22,14 @@ After talking with Savelova: close extra questions tonight.
 
 Locked package unchanged: 3y · Monobank rent · no sale · no bank/SWIFT.
 
-## Tonight rule
+## Add 2026-07-27 ~17:49 — Lenya named + Tatiana sub option
 
-DIRECTION only. No notary text. No Discord ping unless Founder asks. Two optional clear-head flags (utilities-PoA needed? friend PoA bounds) — not blockers tonight.
+Founder Discord-scheme ask (outbound draft):
+- Lease PoA → **Lenya** (friend; confirm with him after scheme ACK).
+- Lenya may **передов** to Tatiana if he needs to leave Kyiv.
+- Utilities → **Tatiana**.
+- Elena/Illia search → **after** PoA obtained (not before).
+- Rent → Founder Monobank; no sale / no bank-SWIFT.
+
+Paste: `log/vector/outbound/2026-07-27-ua02-dual-friend-scheme-ask.md`
+
