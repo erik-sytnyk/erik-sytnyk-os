@@ -31,5 +31,5 @@ Founder Discord-scheme ask (outbound draft):
 - Elena/Illia search → **after** PoA obtained (not before).
 - Rent → Founder Monobank; no sale / no bank-SWIFT.
 
-Paste: `log/vector/outbound/2026-07-27-ua02-dual-friend-scheme-ask.md`
+Paste: `log/vector/outbound/2026-07-27-ua02-dual-friend-scheme-ask.md` — **PASTED** 2026-07-27 ~18:19 (Founder). Await Tatiana/Illia scheme ACK; then Lenya consent.
 
