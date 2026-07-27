@@ -12,7 +12,7 @@
 - **Phuket Connection:** Visits Phuket (e.g., May 24–26, June 8 onwards). Works/stays at "Bunny" shop or similar location in Phuket.
 - **First Physical Meeting:** May 25, 2026 (at Bunny shop, Phuket, ~20:00).
 - **Intimacy Level:** High (unprotected encounter on May 25).
-- **Current Status:** Active contact. July 14-15, 2026 — She is currently in Bangkok for a week before heading to Chiang Mai. They are actively chatting in Thai/English; discussed Erik's upcoming birthday on August 4 and potential meeting in Bangkok/Chiang Mai.
+- **Current Status:** Active contact. Soft check-in 2026-07-19 (profile pic gone → she OK, in Chiang Mai lane). Last plan from Jul 14–15: ~1 week Bangkok then Chiang Mai long if nothing urgent in BKK. Birthday 4 Aug still open (Phuket / Bali / CM). Next ping draft 2026-07-27 — how is Chiang Mai life.
 
 ---
 
@@ -143,6 +143,10 @@
 
 ### July 2026
 
+#### 2026.07.14 Tuesday (earlier)
+- **20:24 Erik Sytnyk:** Hi, how are you? Everything is good?
+- **21:26 Miu Miu🐰:** Ok
+
 #### 2026.07.14 Tuesday - 2026.07.15 Wednesday
 - **23:05 Erik Sytnyk:** Hi, how are you? 
 - **23:06 Erik Sytnyk:** Which place do you live? 
@@ -205,6 +209,21 @@
   *(Дословный перевод: На самом деле у меня есть еще и австралийский паспорт, но мне больше нравится и я выбираю жить в Таиланде. А что касается бизнеса, я намерен сфокусироваться на австралийском рынке.)*
 - **00:16 Erik Sytnyk:** ดีใจที่ได้คุยกันวันนี้มากเลยครับ คืนนี้ผมขอตัวไปนอนก่อนนะครับ ฝันดีนะเธอ 😊💤
   *(Дословный перевод: Был очень рад поболтать сегодня! Сегодня ночью я, пожалуй, пойду спать. Сладких снов тебе 😊💤)*
+- **00:17 Miu Miu🐰:** *Stickers*
+
+#### 2026.07.19 Sunday
+- **19:30 Erik Sytnyk:** เป็นยังไงบ้างครับ สบายดีไหมนะ? เห็นรูปโปรไฟล์หายไป เลยทักมาด้วยความห่วงใยครับ ทุกอย่างโอเคดีใช่ไหมครับ ถ้าสะดวกยังไงทักมาได้นะ
+  *(Дословный перевод: Как дела, всё ли хорошо? Увидел, что пропала аватарка — написал от заботы. Всё ок? Если удобно — напиши.)*
+- **19:33 Miu Miu🐰:** ฉันสบายดีคุณเป็นไงบ้าง
+  *(Дословный перевод: У меня всё хорошо, а у тебя как?)*
+- **19:33 Miu Miu🐰:** 😊
+- **19:39 Erik Sytnyk:** ดีใจที่ได้ยินแบบนั้นครับ 😊 ผมสบายดีครับ แค่ติดหวัดนิดหน่อย วันนี้เลยเจ็บคอนิดๆ ตอนนี้พักผ่อนอยู่ครับ ขอบคุณที่ถามนะ
+  *(Дословный перевод: Рад это слышать 😊 У меня тоже норм, только лёгкая простуда — горло немного болит. Сейчас отдыхаю. Спасибо, что спросила.)*
+- **20:25 Miu Miu🐰:** 😊
+
+#### 2026.07.27 Monday — draft (not sent yet)
+- **Erik Sytnyk (draft):** สวัสดีครับ เป็นยังไงบ้างครับ 😊 อยู่เชียงใหม่เป็นยังไงบ้าง / ใช้ชีวิตที่เชียงใหม่ยังไงบ้างครับ
+  *(RU intent: Привет! Как дела? Как ты живёшь в Чиангмае?)*
 
 ---
 
@@ -220,5 +239,5 @@
    - The "building my own business" framing combined with the "fan meme" ("เหงาพัดลม" - lonely in front of the fan) was highly successful. It positions Erik as an ambitious, high-status entrepreneur (highly valued in Thai culture) while keeping the tone light, humorous, and relatable.
 
 3. **Next Steps:**
-   - **Meeting on June 9 (Tomorrow):** Erik confirmed he will visit her tomorrow. This is a key opportunity to strengthen the relationship in person.
-   - **Pacing & Safety:** Since high intimacy was established quickly, maintaining a respectful, caring, and playful tone is key to transitioning this into a stable, long-term partnership (per Track A requirements).
+   - Soft ping 2026-07-27: Chiang Mai life check-in (draft in chat log). Keep light — no pressure on Aug 4 / meeting until she engages.
+   - Historical: June 9 meeting window; Track A pacing + safety still apply.
