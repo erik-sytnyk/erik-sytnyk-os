@@ -20,7 +20,7 @@ See `K-001-2026-07-19-boundary-cut.md`. Not erased.
 ### 2026-08-06 — working thaw (scope corrected same day)
 
 - **NOT** Orbios tax work / DuaTax prep / receipt ops for the company.  
-- **IS:** witness / clarifier on **financial transactions between companies** (inter-entity flows) for the gap when Founder was not running finance after camp fail, then after AI Agency fail.  
+- **IS:** witness / clarifier on **financial transactions between companies** (inter-entity flows) for the **post–camp-fail gap only** — transactions without Founder involvement; open questions there. (Not the later AI Agency fail period.)  
 - Founder posture: meet halfway on this bounded knowledge lane — not a return to crisis-support asset status (K-001 still holds).  
 - TG `Orbios · Tax 2025` opened (Erik + Lika + Katerina; Lika to add Vianca). Vianca remains owner of reconciliation / tax track in finance-kb.  
 - Units see: inter-company transaction clarifier for 2025 gap. No sister / ex-partner / toxic framing in Discord or public OS.
