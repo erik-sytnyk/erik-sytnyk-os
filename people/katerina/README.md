@@ -2,7 +2,7 @@
 
 > **Status:** ACTIVE note 2026-08-06  
 > **Prior:** boundary / support notes in this folder (`K-001-…`)  
-> **Public:** do not dump personal conflict narrative; ops may know she is a **constructive tax/finance helper** Founder will intro to Vianca.
+> **Public:** do not dump personal conflict narrative; ops may know she can **clarify inter-company financial transactions** from the Founder-offline gap — not Orbios tax ops.
 
 ## Standing
 
@@ -17,13 +17,13 @@
 
 See `K-001-2026-07-19-boundary-cut.md`. Not erased.
 
-### 2026-08-06 — working thaw (tax/finance help)
+### 2026-08-06 — working thaw (scope corrected same day)
 
-- Offered to **help** on tax/finance (constructive, not fight). Founder posture: meet halfway — commendable.  
-- **Next:** Founder connects **Vianca** (August finance/tax owner) with Katerina — TG `Orbios · Tax 2025` opened (Erik + Lika + Katerina; Lika to add Vianca).  
-- Scope: support under Vianca — not replacing Vianca, not Founder day-ops.  
-- Does **not** auto-restore “crisis support asset” status from K-001; this is a bounded work intro.  
-- Units see: constructive tax helper only. No sister / ex-partner / toxic framing in Discord or public OS.
+- **NOT** Orbios tax work / DuaTax prep / receipt ops for the company.  
+- **IS:** witness / clarifier on **financial transactions between companies** (inter-entity flows) for the gap when Founder was not running finance after camp fail, then after AI Agency fail.  
+- Founder posture: meet halfway on this bounded knowledge lane — not a return to crisis-support asset status (K-001 still holds).  
+- TG `Orbios · Tax 2025` opened (Erik + Lika + Katerina; Lika to add Vianca). Vianca remains owner of reconciliation / tax track in finance-kb.  
+- Units see: inter-company transaction clarifier for 2025 gap. No sister / ex-partner / toxic framing in Discord or public OS.
 
 ## Cross-refs
 
