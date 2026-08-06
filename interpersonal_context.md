@@ -31,7 +31,10 @@
 
 ### People — Legacy / Social
 
-[TODO Erik — observations about people in the Legacy Parasite perimeter or broader social context]
+- **Alyssa (Алиса):** Erik's daughter (age 12; AU citizenship; lives Ukraine). Canonical EN spelling locked 2026-08-06. Direct communication established, bypassing blocked channel with her mother. Planning Australia after 9th grade. Laptop/Cursor track via grandmother’s machine — `[see founder-private:people/alyssa]`.
+  [see erik-sytnyk-os:relationships/alisa.md]
+
+[TODO Erik — observations about other people in the Legacy Parasite perimeter or broader social context]
 
 ---
 
