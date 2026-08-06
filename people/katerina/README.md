@@ -1,23 +1,23 @@
 # Katerina — personal dossier (Tier E)
 
-> **Status:** ACTIVE — Founder boundary 2026-07-19.  
-> **Tier:** E. Opaque in serv-public.
+> **Status:** ACTIVE note 2026-08-06  
+> **Prior:** boundary / support notes in this folder (`K-001-…`)  
+> **Public:** do not dump personal conflict narrative; ops may know she is a **constructive tax/finance helper** Founder will intro to Vianca.
 
-## Standing (2026-07-19)
+## Standing
 
-- **Channel:** Founder не желает дальнейшего общения.  
-- **ДР:** не поздравлять.  
-- **Future help:** не рассчитывать на быстрый/бесплатный отклик Founder после текущего разрыва доверия.  
-- **S-001 remote 50/50 ask:** **SUPERSEDED** — сотрудничество по remote-MD с Катериной снято; Founder ведёт проверку Савеловой самостоятельно при необходимости.
+### 2026-07-19 — boundary (historical)
 
-## Evidence / notes
+See `K-001-2026-07-19-boundary-cut.md`. Not erased.
 
-| Id | Date | Topic | File |
-|----|------|-------|------|
-| **K-001** | 2026-07-19 | Crisis abandonment + boundary cut | [K-001-2026-07-19-boundary-cut.md](K-001-2026-07-19-boundary-cut.md) |
+### 2026-08-06 — working thaw (tax/finance help)
+
+- Offered to **help** on tax/finance (constructive, not fight). Founder posture: meet halfway — commendable.  
+- **Next:** Founder connects **Vianca** (August finance/tax owner) with Katerina.  
+- Scope: support under Vianca — not replacing Vianca, not Founder day-ops.  
+- Does **not** auto-restore “crisis support asset” status from K-001; this is a bounded work intro.
 
 ## Cross-refs
 
-- Savelova S-001 (faint claim): `people/savelova/suspicions/S-001-…`  
-- Prior ask (void): `dumps/2026-07-19-katerina-s001-remote-md-ask.md` → superseded  
-- Boundary reply draft: `dumps/2026-07-19-katerina-boundary-cut.md`
+- August role frame: `[see orbios-os:clusters/th-01/research/august-2026-role-frame-2026-08-06.md]`  
+- Boundary history: `K-001-2026-07-19-boundary-cut.md` (interpretive — not HR evidence)
