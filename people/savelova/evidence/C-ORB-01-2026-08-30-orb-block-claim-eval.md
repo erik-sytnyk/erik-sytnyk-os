@@ -26,11 +26,13 @@ Non-assembly of Orbs is real; “because Founder blocked the team” is not evid
 3. **Storage/neighbour path** replaced assembly urgency (GAP-008).  
 4. **Blame inversion** after rupture: relocates agency failure onto Founder’s “blocking” — consistent with E-002/E-003 narrative style.
 
-## Falsifier
+## Upgrade 2026-08-30
 
-Upgrade her claim only if a dated source shows: (a) Tatiana (or her named crew) had a concrete assembly mandate + team ready, and (b) Founder issued an explicit stop that uniquely prevented that work, while other blockers were absent. Not seen in current mill.
+Full rebuttal packet (evidence table + draft reply + Founder prior):  
+`[see orbios-archive:analysis/orbios-2.0/2026-08-30-savelova-orb-block-rebuttal-DRAFT.md]`
 
-## Emit rule
+Key new map hits (Composer already milled Savelova↔Olha): Nana **withheld brigade contacts**; unsigned builder; «no construction progress»; Tatiana’s own Aug 20 script attacks Nana for **hidden brigade contacts** — inverts «Erik blocked brigade».
 
-- Public / company: may say **non-assembly is evidenced; causal blame on Founder-block is unverified**.  
-- Do not paste NPD / lying labels into public OS.
+## Verdict this week (unchanged core)
+
+**Causal claim still unsupported.** Non-assembly real; Founder-as-sole-blocker false primary.
