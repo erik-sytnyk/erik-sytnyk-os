@@ -31,7 +31,8 @@ OS / Mira / Vector: фиксируют кейсы из логов → сюда. 
 ## Suspicions (unverified)
 
 См. [`suspicions/README.md`](suspicions/README.md).  
-Открыто: **S-001** — обморок на рынке (Пятихатки); дрейф формулировок; Founder готов remote-MD (забота **или** R2 по вранью).
+Открыто: **S-001** — обморок на рынке (Пятихатки); дрейф формулировок; Founder готов remote-MD (забота **или** R2 по вранью).  
+**S-002** (2026-08-30) — working model: NPD traits in toxic form (+ possible comorbidity); hypothesis only, never public label.
 
 ## Evidence index
 
@@ -39,6 +40,11 @@ OS / Mira / Vector: фиксируют кейсы из логов → сюда. 
 |----|------|------|-------|------|
 | **E-001** | 2026-07-19 | pathological lying / gaslight | Контакт Вовы: клятва «дал Эрик» → съезд на Анастасию + «уполномочил» | [evidence/E-001-2026-07-19-vova-contact-gaslight.md](evidence/E-001-2026-07-19-vova-contact-gaslight.md) |
 | **E-002** | 2026-07-19 | oath-rewrite / refuse 1-or-2 | Третья перепись клятвы + отказ ответить «1 или 2 лжи» + fog | [evidence/E-002-2026-07-19-lie-count-refusal-shift3.md](evidence/E-002-2026-07-19-lie-count-refusal-shift3.md) |
+| **E-003** | 2026-08-30 | medical misattribution | Леониду: «у Эрика микроинсульт» — Founder: это был её диагноз | [evidence/E-003-2026-08-30-leonid-microstroke-misattr.md](evidence/E-003-2026-08-30-leonid-microstroke-misattr.md) |
+| **E-004** | 2026-08-30 | medical scare / triangulation | Пока ретранслировала Катерину: «психолог+энергопрактик → онкология если анализы в выходные» | [evidence/E-004-2026-08-30-oncology-scare-mediation.md](evidence/E-004-2026-08-30-oncology-scare-mediation.md) |
+| **C-ORB-01** | 2026-08-30 | claim eval | «Орбы не собрали, потому что Эрик не давал работать с командой» — **unsupported** vs archive | [evidence/C-ORB-01-2026-08-30-orb-block-claim-eval.md](evidence/C-ORB-01-2026-08-30-orb-block-claim-eval.md) |
+
+Suspicions: **S-002** — NPD toxic-form working model (hypothesis only) → [`suspicions/S-002-2026-08-30-npd-toxic-working-model.md`](suspicions/S-002-2026-08-30-npd-toxic-working-model.md)
 
 ## Pattern tags (working)
 
